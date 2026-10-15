@@ -1,6 +1,6 @@
 # Private beta launch plan
 
-The first release is a private beta. The Hetzner API is live at `https://api.woordenboom.app`; signed mobile builds and a real Mailjet delivery check are still outstanding.
+The first release is a private beta. The Hetzner API is live at `https://api.woordenboom.app`; the first signed iOS build and a real Mailjet delivery check are still outstanding.
 
 ## Hosting choice
 
@@ -20,7 +20,7 @@ Expo beta app -> https://api.<domain> -> Caddy :443 -> Go API :8080
 
 - [`docker-compose.beta.yml`](../docker-compose.beta.yml) keeps Postgres on an internal network, exposes only Caddy's ports 80/443, and has a separate migration job. [`deploy/Caddyfile`](../deploy/Caddyfile) reverse-proxies the API. [`deploy/beta.env.example`](../deploy/beta.env.example) lists the required settings without real secrets.
 - The API defaults to `release-9500`. Production mode rejects development auth secrets, requires both Mailjet credentials for the beta provider, and requires verified TLS for remote PostgreSQL. It allows plaintext database traffic only to the `postgres` service on the same private Compose network. Local development still uses Mailpit over SMTP. The container includes CA certificates for outbound TLS.
-- EAS `preview` and `production` build profiles are present. A build hook rejects a missing or non-HTTPS `EXPO_PUBLIC_API_URL`, and the app refuses a local API URL in non-development mode.
+- EAS `preview` and `production` build profiles are present. The iOS identifier is `app.woordenboom`, and the app is linked to the [Woordenboom EAS project](https://expo.dev/accounts/volumenss-team/projects/woordenboom). Both EAS environments have `EXPO_PUBLIC_API_URL=https://api.woordenboom.app`. A build hook rejects a missing or non-HTTPS URL, and the app refuses a local API URL in non-development mode.
 - Go tests, mobile lint/typecheck, all 21 Expo Doctor checks, Expo iOS/Android exports, the API image build, and Compose/Caddy configuration checks passed locally. On a fresh isolated beta stack, all 16 migrations, the OpenTaal and three content imports, and the API `/readyz` check passed; it contained 9,500 release words, 9,500 content records, and 1,372 category memberships. The test volume was removed afterward. A compatible `npm audit fix` removed the critical advisory; 29 audit findings remain in the dependency tree and need triage against Expo-supported versions before public release. Signed-device and hosted API checks remain outstanding.
 - The [GitHub Actions beta pipeline](deployment-pipeline.md) verifies pushes to `main` and deploys from a GitHub-hosted runner through a restricted SSH key. The first deployment passed, and `https://api.woordenboom.app/readyz` returned HTTP 200. The deployed database contains 9,500 release words, 9,500 content records, and 1,372 category memberships.
 
@@ -32,7 +32,7 @@ Expo beta app -> https://api.<domain> -> Caddy :443 -> Go API :8080
 4. Install the restricted deployment SSH key on the server, create its backup directory, and configure the GitHub `beta` environment. Follow the [deployment pipeline setup](deployment-pipeline.md), then enable `BETA_DEPLOY_ENABLED` and run the workflow from `main`. The deploy script checks Compose, saves a predeploy database dump, runs migrations and content imports, starts the API and Caddy, and verifies HTTPS readiness. Check 9,500 release words and 95 map ranges after the first run.
 5. Start the API and Caddy, test `/readyz` over the public HTTPS hostname, and exercise code request/verification, practice, review scheduling, knowledge map, and daily progress. Keep Docker logs and a simple uptime check. The API has per-address email request limits, but before broadening beta access add an invitation allowlist or an IP-based edge limit to prevent email-sending abuse.
 6. Keep [Hetzner's seven daily Backups](https://docs.hetzner.com/cloud/servers/backups-snapshots/overview/) enabled and periodic encrypted `pg_dump` copies outside the server and Hetzner project. The deployment script writes a local predeploy dump, but that alone is not an off-server backup. Restore one dump into a disposable database before inviting testers. Server Backups are disk copies, not a substitute for database-level backups; attached Hetzner Volumes are excluded. No zero-downtime or automatic failover is promised on this single server.
-7. Confirm the final `ios.bundleIdentifier` and `android.package` in `apps/mobile/app.json`. Set `EXPO_PUBLIC_API_URL=https://api.woordenboom.app` in both EAS `preview` and `production` environments. Use `preview` for an Android internal APK or an iOS ad hoc build for registered devices. For TestFlight, use the store-distribution `production` profile and submit that iOS build through the existing Apple account. Test login and navigation on actual iPhone and Android hardware before sending invitations.
+7. Build iOS with the store-distribution `production` profile and submit it to TestFlight through the existing Apple account. The iOS identifier and EAS environments are configured. Use `preview` for an Android internal APK or an iOS ad hoc build for registered devices. Choose an Android package name before its first signed build. Test login and navigation on actual iPhone and Android hardware before sending invitations.
 
 ## Content and later public release
 
@@ -44,5 +44,5 @@ For public release, finish content review, native accessibility checks, privacy 
 
 - A real login-email delivery check to a tester-controlled inbox. Mailjet's DKIM DNS record is also outstanding. The sender is `login@woordenboom.app`.
 - Confirmation of Hetzner Backups and the server firewall. The current 1 GB server needs monitoring during the first full deployment.
-- The final iOS bundle ID and Android package name, and access to the existing Expo project and Apple Developer account. Expo and Apple access have been confirmed; the identifiers remain to be chosen.
+- Apple Developer signing access for the first store-signed iOS build, and an Android package name before Android beta distribution. The iOS bundle ID is `app.woordenboom`.
 - The initial commit is pushed to [GitHub](https://github.com/diegochavez/woordenboom). Choose whether beta testers should start with clean progress or whether any existing local accounts should be migrated.
