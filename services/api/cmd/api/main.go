@@ -13,6 +13,7 @@ import (
 	"math/big"
 	"net"
 	"net/http"
+	"net/mail"
 	"net/smtp"
 	"net/url"
 	"os"
@@ -30,9 +31,12 @@ type config struct {
 	appEnv          string
 	authSecret      string
 	databaseURL     string
+	emailProvider   string
 	smtpAddr        string
 	smtpUser        string
 	smtpPass        string
+	mailjetAPIKey   string
+	mailjetSecret   string
 	emailFrom       string
 }
 
@@ -232,9 +236,12 @@ func loadConfig() config {
 		appEnv:          env("APP_ENV", "development"),
 		authSecret:      env("AUTH_SECRET", "local-development-secret-change-before-production"),
 		databaseURL:     env("DATABASE_URL", ""),
+		emailProvider:   env("EMAIL_PROVIDER", "smtp"),
 		smtpAddr:        env("SMTP_ADDR", env("MAILPIT_SMTP_ADDR", "localhost:1025")),
 		smtpUser:        os.Getenv("SMTP_USER"),
 		smtpPass:        os.Getenv("SMTP_PASSWORD"),
+		mailjetAPIKey:   os.Getenv("MAILJET_API_KEY"),
+		mailjetSecret:   os.Getenv("MAILJET_SECRET_KEY"),
 		emailFrom:       env("AUTH_EMAIL_FROM", "login@woordenboom.local"),
 	}
 }
@@ -242,6 +249,9 @@ func loadConfig() config {
 func (cfg config) validate() error {
 	if len(cfg.authSecret) < 32 {
 		return fmt.Errorf("AUTH_SECRET must be at least 32 characters")
+	}
+	if cfg.emailProvider != "smtp" && cfg.emailProvider != "mailjet" {
+		return fmt.Errorf("EMAIL_PROVIDER must be smtp or mailjet")
 	}
 	if cfg.appEnv == "development" {
 		return nil
@@ -263,15 +273,20 @@ func (cfg config) validate() error {
 	if sslMode != "verify-full" && !(databaseURL.Hostname() == "postgres" && sslMode == "disable") {
 		return fmt.Errorf("DATABASE_URL requires sslmode=verify-full, except for the local Compose postgres service")
 	}
-	smtpHost, _, err := net.SplitHostPort(cfg.smtpAddr)
-	if err != nil || smtpHost == "" || strings.EqualFold(smtpHost, "localhost") || strings.EqualFold(smtpHost, "mailpit") || net.ParseIP(smtpHost) != nil && net.ParseIP(smtpHost).IsLoopback() {
-		return fmt.Errorf("SMTP_ADDR must point to a delivery service outside development")
+	if cfg.emailProvider == "smtp" {
+		smtpHost, _, err := net.SplitHostPort(cfg.smtpAddr)
+		if err != nil || smtpHost == "" || strings.EqualFold(smtpHost, "localhost") || strings.EqualFold(smtpHost, "mailpit") || net.ParseIP(smtpHost) != nil && net.ParseIP(smtpHost).IsLoopback() {
+			return fmt.Errorf("SMTP_ADDR must point to a delivery service outside development")
+		}
+		if cfg.smtpUser == "" || cfg.smtpPass == "" {
+			return fmt.Errorf("SMTP_USER and SMTP_PASSWORD are required outside development")
+		}
+	} else if cfg.mailjetAPIKey == "" || cfg.mailjetSecret == "" {
+		return fmt.Errorf("MAILJET_API_KEY and MAILJET_SECRET_KEY are required outside development")
 	}
-	if cfg.smtpUser == "" || cfg.smtpPass == "" {
-		return fmt.Errorf("SMTP_USER and SMTP_PASSWORD are required outside development")
-	}
-	if cfg.emailFrom == "" || strings.HasSuffix(cfg.emailFrom, ".local") {
-		return fmt.Errorf("AUTH_EMAIL_FROM must use a verified sending domain outside development")
+	from, err := mail.ParseAddress(cfg.emailFrom)
+	if err != nil || from.Address != cfg.emailFrom || strings.HasSuffix(cfg.emailFrom, ".local") {
+		return fmt.Errorf("AUTH_EMAIL_FROM must be an email address on a verified sending domain outside development")
 	}
 	return nil
 }
@@ -339,7 +354,7 @@ func (a *app) requestCodeHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	if err := a.sendLoginCode(email, code); err != nil {
+	if err := a.sendLoginCode(r.Context(), email, code); err != nil {
 		a.serverError(w, "send email code", err)
 		return
 	}
@@ -1301,7 +1316,10 @@ func randomToken(size int) (string, error) {
 	return base64.RawURLEncoding.EncodeToString(value), nil
 }
 
-func (a *app) sendLoginCode(email, code string) error {
+func (a *app) sendLoginCode(ctx context.Context, email, code string) error {
+	if a.config.emailProvider == "mailjet" {
+		return sendMailjetLoginCode(ctx, mailjetHTTPClient, mailjetSendURL, a.config.mailjetAPIKey, a.config.mailjetSecret, a.config.emailFrom, email, code)
+	}
 	message := []byte("From: " + a.config.emailFrom + "\r\n" +
 		"To: " + email + "\r\n" +
 		"Subject: Your Woordenboom login code\r\n" +

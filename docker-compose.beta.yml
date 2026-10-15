@@ -38,9 +38,9 @@ services:
       VOCABULARY_BATCH: release-9500
       AUTH_SECRET: ${AUTH_SECRET:?Set AUTH_SECRET}
       DATABASE_URL: ${DATABASE_URL:?Set DATABASE_URL}
-      SMTP_ADDR: ${SMTP_ADDR:?Set SMTP_ADDR}
-      SMTP_USER: ${SMTP_USER:?Set SMTP_USER}
-      SMTP_PASSWORD: ${SMTP_PASSWORD:?Set SMTP_PASSWORD}
+      EMAIL_PROVIDER: mailjet
+      MAILJET_API_KEY: ${MAILJET_API_KEY:?Set MAILJET_API_KEY}
+      MAILJET_SECRET_KEY: ${MAILJET_SECRET_KEY:?Set MAILJET_SECRET_KEY}
       AUTH_EMAIL_FROM: ${AUTH_EMAIL_FROM:?Set AUTH_EMAIL_FROM}
     depends_on:
       postgres:
@@ -57,6 +57,7 @@ services:
       - "443:443"
     volumes:
       - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - ./deploy/mailjet-verification:/srv/mailjet-verification:ro
       - caddy-data:/data
       - caddy-config:/config
     depends_on: [api]

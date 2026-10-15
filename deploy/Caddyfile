@@ -1,3 +1,12 @@
 {$API_DOMAIN} {
 	reverse_proxy api:8080
 }
+
+woordenboom.app {
+	@verification path /f3141f0716f335ae12577020e2c8d526.txt
+	handle @verification {
+		root * /srv/mailjet-verification
+		file_server
+	}
+	respond 404
+}

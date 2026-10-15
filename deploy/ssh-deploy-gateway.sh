@@ -36,6 +36,16 @@ if [[ "$(git -C "$repo" rev-parse FETCH_HEAD)" != "$sha" ]]; then
 fi
 git -C "$repo" reset --hard "$sha"
 
+# GitHub Actions sends the Mailjet credentials on stdin. They stay out of the
+# repository and the server's environment file; Compose passes them to the API.
+IFS= read -r MAILJET_API_KEY || { echo 'Missing Mailjet API key.' >&2; exit 1; }
+IFS= read -r MAILJET_SECRET_KEY || { echo 'Missing Mailjet secret key.' >&2; exit 1; }
+if [[ ! "$MAILJET_API_KEY" =~ ^[A-Za-z0-9_-]+$ || ! "$MAILJET_SECRET_KEY" =~ ^[A-Za-z0-9_-]+$ ]]; then
+  echo 'Invalid Mailjet credential format.' >&2
+  exit 1
+fi
+export MAILJET_API_KEY MAILJET_SECRET_KEY
+
 export GITHUB_REF=refs/heads/main
 export GITHUB_REPOSITORY=diegochavez/woordenboom
 export GITHUB_SHA="$sha"

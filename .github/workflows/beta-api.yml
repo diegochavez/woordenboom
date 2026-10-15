@@ -30,8 +30,14 @@ jobs:
           python3 scripts/word_definitions.py validate
           python3 scripts/category_release.py validate
       - name: Validate Compose configuration
+        env:
+          MAILJET_API_KEY: example-mailjet-api-key
+          MAILJET_SECRET_KEY: example-mailjet-secret-key
         run: docker compose --env-file deploy/beta.env.example -f docker-compose.beta.yml config --quiet
       - name: Build API image
+        env:
+          MAILJET_API_KEY: example-mailjet-api-key
+          MAILJET_SECRET_KEY: example-mailjet-secret-key
         run: docker compose --env-file deploy/beta.env.example -f docker-compose.beta.yml build api
 
   deploy:
@@ -46,11 +52,15 @@ jobs:
           DEPLOY_HOST: ${{ vars.BETA_DEPLOY_HOST }}
           DEPLOY_HOST_KEY: ${{ vars.BETA_DEPLOY_HOST_KEY }}
           DEPLOY_SSH_KEY: ${{ secrets.BETA_DEPLOY_SSH_KEY }}
+          MAILJET_API_KEY: ${{ secrets.MAILJET_API_KEY }}
+          MAILJET_SECRET_KEY: ${{ secrets.MAILJET_SECRET_KEY }}
         run: |
           set -Eeuo pipefail
           : "${DEPLOY_HOST:?Set BETA_DEPLOY_HOST}"
           : "${DEPLOY_HOST_KEY:?Set BETA_DEPLOY_HOST_KEY}"
           : "${DEPLOY_SSH_KEY:?Set BETA_DEPLOY_SSH_KEY}"
+          : "${MAILJET_API_KEY:?Set MAILJET_API_KEY in the beta environment}"
+          : "${MAILJET_SECRET_KEY:?Set MAILJET_SECRET_KEY in the beta environment}"
 
           ssh_dir="$RUNNER_TEMP/woordenboom-ssh"
           install -m 0700 -d "$ssh_dir"
@@ -59,7 +69,7 @@ jobs:
           printf '%s %s\n' "$DEPLOY_HOST" "$DEPLOY_HOST_KEY" > "$ssh_dir/known_hosts"
           chmod 0600 "$ssh_dir/known_hosts"
 
-          ssh -T -i "$ssh_dir/key" \
+          printf '%s\n%s\n' "$MAILJET_API_KEY" "$MAILJET_SECRET_KEY" | ssh -T -i "$ssh_dir/key" \
             -o IdentitiesOnly=yes \
             -o StrictHostKeyChecking=yes \
             -o UserKnownHostsFile="$ssh_dir/known_hosts" \
