@@ -48,7 +48,10 @@ python3 scripts/vocabulary_release.py import
 python3 scripts/word_definitions.py import
 python3 scripts/category_release.py import
 
-docker compose up -d api caddy
+docker compose up -d api
+# Git replaces the bind-mounted Caddyfile inode during reset, so the running
+# container can retain the old file even after a Caddy reload.
+docker compose up -d --no-deps --force-recreate caddy
 
 api_domain="$(docker compose config --format json | python3 -c \
   'import json,sys; print(json.load(sys.stdin)["services"]["caddy"]["environment"]["API_DOMAIN"])')"
