@@ -8,7 +8,8 @@
     "scheme": "woordenboom",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "app.woordenboom"
     },
     "android": {
       "adaptiveIcon": {
@@ -33,7 +34,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "453e9809-f077-4f24-a3dd-f249a1982438"
+        "projectId": "0e17bba7-967f-4848-8e83-18b5eaf36cf1"
       }
     },
     "owner": "volumenss-team"

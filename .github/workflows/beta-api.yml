@@ -3,6 +3,14 @@ name: Beta API
 on:
   push:
     branches: [main]
+    paths:
+      - .github/workflows/beta-api.yml
+      - services/api/**
+      - db/**
+      - data/**
+      - scripts/**
+      - deploy/**
+      - docker-compose.beta.yml
   workflow_dispatch:
 
 permissions:
