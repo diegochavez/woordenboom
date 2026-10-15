@@ -37,15 +37,30 @@ jobs:
   deploy:
     needs: verify
     if: github.ref == 'refs/heads/main' && vars.BETA_DEPLOY_ENABLED == 'true'
-    runs-on: [self-hosted, linux, x64, woordenboom-beta]
+    runs-on: ubuntu-24.04
     environment: beta
     timeout-minutes: 45
     steps:
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
       - name: Deploy on Hetzner
         env:
-          BETA_ENV_FILE: /etc/woordenboom/beta.env
-          BETA_BACKUP_DIR: /var/backups/woordenboom
-        run: bash deploy/deploy-beta.sh
+          DEPLOY_HOST: ${{ vars.BETA_DEPLOY_HOST }}
+          DEPLOY_HOST_KEY: ${{ vars.BETA_DEPLOY_HOST_KEY }}
+          DEPLOY_SSH_KEY: ${{ secrets.BETA_DEPLOY_SSH_KEY }}
+        run: |
+          set -Eeuo pipefail
+          : "${DEPLOY_HOST:?Set BETA_DEPLOY_HOST}"
+          : "${DEPLOY_HOST_KEY:?Set BETA_DEPLOY_HOST_KEY}"
+          : "${DEPLOY_SSH_KEY:?Set BETA_DEPLOY_SSH_KEY}"
+
+          ssh_dir="$RUNNER_TEMP/woordenboom-ssh"
+          install -m 0700 -d "$ssh_dir"
+          printf '%s\n' "$DEPLOY_SSH_KEY" > "$ssh_dir/key"
+          chmod 0600 "$ssh_dir/key"
+          printf '%s %s\n' "$DEPLOY_HOST" "$DEPLOY_HOST_KEY" > "$ssh_dir/known_hosts"
+          chmod 0600 "$ssh_dir/known_hosts"
+
+          ssh -T -i "$ssh_dir/key" \
+            -o IdentitiesOnly=yes \
+            -o StrictHostKeyChecking=yes \
+            -o UserKnownHostsFile="$ssh_dir/known_hosts" \
+            "root@$DEPLOY_HOST" "deploy $GITHUB_SHA"

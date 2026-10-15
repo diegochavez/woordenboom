@@ -1,5 +1,4 @@
-self-hosted-runner:
-  labels:
-    - woordenboom-beta
 config-variables:
   - BETA_DEPLOY_ENABLED
+  - BETA_DEPLOY_HOST
+  - BETA_DEPLOY_HOST_KEY
