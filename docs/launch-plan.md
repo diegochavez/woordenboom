@@ -45,4 +45,4 @@ For public release, finish content review, native accessibility checks, privacy 
 - Exact domain name and DNS provider so the API hostname and SES sending identity can be configured.
 - The Hetzner Cloud project to use, plus confirmation of its live server quote and capacity. Grant access through your normal Hetzner account workflow or a guided session; do not send API tokens or passwords in chat. Amazon SES can still be used for mail, or supply another authenticated SMTP provider that supports port 587.
 - The final iOS bundle ID and Android package name, and access to the existing Expo project and Apple Developer account. Expo and Apple access have been confirmed; the identifiers remain to be chosen.
-- The GitHub repository `diegochavez/woordenboom` is available. The local checkout still needs its initial commit and push. Choose whether beta testers should start with clean progress or whether any existing local accounts should be migrated.
+- The initial commit is pushed to [GitHub](https://github.com/diegochavez/woordenboom). Choose whether beta testers should start with clean progress or whether any existing local accounts should be migrated.
