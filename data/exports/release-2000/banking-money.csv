@@ -1,0 +1,11 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+428,banking-money,1,prijs,base_word,A2,394,5.28,959.35,needs_content_review,false,,price,De prijs is duidelijk.,The price is clear.
+429,banking-money,2,bank,base_word,A2,626,5.04,943.80,needs_content_review,false,,bank,De bank is vandaag gesloten.,The bank is closed today.
+430,banking-money,3,rekening,base_word,B1,965,4.79,860.80,needs_content_review,true,"candidate topics: banking-money,utilities-bills",bill or account,De rekening komt per mail.,The bill comes by email.
+431,banking-money,4,budget,base_word,B1,2201,4.28,826.10,needs_content_review,false,,budget,Mijn budget is beperkt.,My budget is limited.
+432,banking-money,5,pin,base_word,A2,4406,3.77,804.65,needs_content_review,false,,debit card payment,Ik betaal met pin.,I pay by debit card.
+433,banking-money,6,betaling,base_word,B1,2750,4.12,780.40,needs_content_review,false,,payment,De betaling is gelukt.,The payment was successful.
+434,banking-money,7,saldo,base_word,A2,6254,3.49,744.55,needs_content_review,false,,balance,Het saldo is laag.,The balance is low.
+435,banking-money,8,factuur,base_word,B1,4754,3.71,744.45,needs_content_review,true,"candidate topics: banking-money,utilities-bills",invoice,De factuur staat in mijn account.,The invoice is in my account.
+436,banking-money,9,prijst,base_word,B1,6782,3.41,721.70,needs_translation,false,,,,
+437,banking-money,10,prijsje,base_word,B1,9364,3.07,667.65,needs_content_review,false,,small price,Dat is een mooi prijsje.,That is a nice small price.

@@ -1,0 +1,31 @@
+{
+  "categoryCounts": {
+    "appointments-phone": 9,
+    "banking-money": 69,
+    "daily-basics": 261,
+    "emergencies": 33,
+    "engineering-technical": 136,
+    "general-vocabulary": 9500,
+    "government-municipality": 19,
+    "healthcare": 468,
+    "home-repair": 35,
+    "housing-renting": 56,
+    "immigration-documents": 8,
+    "legal-contracts": 93,
+    "politics-news": 49,
+    "public-transport": 87,
+    "school-childcare": 45,
+    "social-life": 58,
+    "software-it": 57,
+    "supermarket-food": 248,
+    "utilities-bills": 23,
+    "weather-small-talk": 55,
+    "work-office": 36
+  },
+  "uniqueMixedWords": 710,
+  "mixCards": 10,
+  "generalExclusive": true,
+  "previewBounded": true,
+  "savedAnswer": true,
+  "browserErrors": []
+}

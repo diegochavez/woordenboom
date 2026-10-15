@@ -1,0 +1,16 @@
+{
+  "recommendedTiming": true,
+  "manualWeek": true,
+  "manualThreeMonths": true,
+  "manualYear": true,
+  "cappedYearRecommendation": true,
+  "cancelDoesNotSave": true,
+  "duplicateAnswerDoesNotReschedule": true,
+  "pauseAndResume": true,
+  "notYetTenMinutes": true,
+  "smallScreen320": true,
+  "escapeCloses": true,
+  "failedSaveRetry": true,
+  "futureReviewsNotRepeated": true,
+  "browserErrors": []
+}

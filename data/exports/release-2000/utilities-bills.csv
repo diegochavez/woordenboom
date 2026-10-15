@@ -1,0 +1,11 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+545,utilities-bills,1,energie,base_word,B1,627,5.04,904.05,needs_content_review,false,,energy,Ik betaal voor energie per maand.,I pay for energy each month.
+546,utilities-bills,2,gas,base_word,A2,1455,4.55,898.25,needs_content_review,false,,gas,Wij gebruiken gas voor koken.,We use gas for cooking.
+547,utilities-bills,3,stroom,base_word,B1,1292,4.63,868.10,needs_content_review,false,,electricity,De stroom is uitgevallen.,The electricity has gone out.
+548,utilities-bills,4,stroomt,base_word,B1,3645,3.92,769.65,needs_translation,false,,,,
+549,utilities-bills,5,waterval,base_word,B1,4738,3.72,732.40,needs_translation,false,,,,
+550,utilities-bills,6,energiek,base_word,B1,7045,3.37,690.40,needs_translation,false,,,,
+551,utilities-bills,7,instroom,base_word,B1,7638,3.29,680.80,needs_translation,false,,,,
+552,utilities-bills,8,stroomde,base_word,B1,8898,3.13,661.60,needs_translation,false,,,,
+553,utilities-bills,9,waterloo,base_word,B1,8975,3.12,660.40,needs_translation,false,,,,
+554,utilities-bills,10,waterweg,base_word,B1,9725,3.03,649.60,needs_translation,false,,,,

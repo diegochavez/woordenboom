@@ -1,0 +1,12 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+491,school-childcare,1,les,base_word,A2,636,5.04,957.05,needs_translation,false,,,,
+492,school-childcare,2,klas,base_word,A2,1221,4.66,898.20,needs_translation,false,,,,
+493,school-childcare,3,ouder,base_word,A2,1132,4.70,889.75,needs_translation,false,,,,
+494,school-childcare,4,oudere,base_word,B1,1158,4.69,875.30,needs_translation,false,,,,
+495,school-childcare,5,leraar,base_word,B1,1550,4.51,853.70,needs_translation,false,,,,
+496,school-childcare,6,opvang,base_word,B1,2811,4.11,805.70,needs_translation,false,,,,
+497,school-childcare,7,huiswerk,base_word,B1,2505,4.19,788.80,needs_translation,false,,,,
+498,school-childcare,8,schouder,base_word,B1,2860,4.10,778.00,needs_translation,false,,,,
+499,school-childcare,9,houder,base_word,B1,5664,3.57,740.90,needs_translation,false,,,,
+500,school-childcare,10,kouder,base_word,B1,5940,3.53,736.10,needs_translation,false,,,,
+501,school-childcare,11,ouderdom,base_word,B1,4855,3.70,730.00,needs_translation,false,,,,

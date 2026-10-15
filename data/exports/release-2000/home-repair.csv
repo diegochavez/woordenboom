@@ -1,0 +1,9 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+464,home-repair,1,verf,base_word,A2,2741,4.13,834.60,needs_translation,false,,,,
+465,home-repair,2,onderhoud,base_word,B2,1914,4.38,798.35,needs_translation,false,,,,
+466,home-repair,3,kraan,base_word,A2,3733,3.90,793.75,needs_translation,false,,,,
+467,home-repair,4,monteur,base_word,B1,3882,3.87,763.65,needs_translation,false,,,,
+468,home-repair,5,schroef,base_word,B1,6023,3.52,721.65,needs_translation,false,,,,
+469,home-repair,6,reparatie,base_word,B2,5108,3.66,711.95,needs_translation,false,,,,
+470,home-repair,7,lekkage,base_word,B1,6703,3.42,709.65,needs_translation,false,,,,
+471,home-repair,8,stopcontact,base_word,B2,7589,3.30,642.25,needs_translation,false,,,,

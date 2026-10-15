@@ -1,0 +1,15 @@
+{
+  "livePractice": true,
+  "hiddenBeforeFlip": true,
+  "stableWordPosition": true,
+  "pairedDefinitions": true,
+  "widths": [
+    320,
+    375,
+    414
+  ],
+  "scrolling": true,
+  "missingDefinitionFallback": true,
+  "answerSaves": true,
+  "browserErrors": []
+}

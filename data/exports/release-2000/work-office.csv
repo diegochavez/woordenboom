@@ -1,0 +1,8 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+421,work-office,1,baan,base_word,A2,610,5.05,945.00,needs_translation,false,,,,
+422,work-office,2,dienst,base_word,B1,531,5.13,928.10,needs_translation,false,,,,
+423,work-office,3,kantoor,base_word,B1,837,4.87,883.65,needs_translation,false,,,,
+424,work-office,4,collega,base_word,B1,1300,4.62,853.65,needs_translation,false,,,,
+425,work-office,5,contract,base_word,B1,1101,4.72,852.40,needs_topic_review,true,"candidate topics: legal-contracts,work-office",,,
+426,work-office,6,rooster,base_word,B1,3589,3.93,770.85,needs_translation,false,,,,
+427,work-office,7,dienste,base_word,B1,8844,3.13,674.85,needs_translation,false,,,,

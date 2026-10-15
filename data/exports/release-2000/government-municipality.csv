@@ -1,0 +1,9 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+408,government-municipality,1,gemeente,base_word,B1,339,5.35,928.00,needs_content_review,false,,municipality,Ik ga morgen naar de gemeente.,I am going to the municipality tomorrow.
+409,government-municipality,2,melding,base_word,B1,1485,4.54,844.05,needs_content_review,false,,report,Ik maak een melding online.,I make a report online.
+410,government-municipality,3,bewijst,base_word,B1,2299,4.25,809.25,needs_content_review,false,,proves,Dit document bewijst mijn adres.,This document proves my address.
+411,government-municipality,4,aanvraag,base_word,B1,1981,4.35,808.00,needs_content_review,false,,application,De aanvraag is ontvangen.,The application has been received.
+412,government-municipality,5,belasting,base_word,B2,1874,4.39,799.55,needs_content_review,false,,tax,Ik betaal belasting in Nederland.,I pay tax in the Netherlands.
+413,government-municipality,6,vergunning,base_word,B2,2665,4.15,757.50,needs_content_review,false,,permit,Voor dit werk heb je een vergunning nodig.,You need a permit for this work.
+414,government-municipality,7,loket,base_word,A2,6556,3.44,738.55,needs_content_review,false,,counter,Het loket is open tot vier uur.,The counter is open until four o'clock.
+415,government-municipality,8,formulier,base_word,B2,4171,3.81,729.95,needs_content_review,false,,form,Vul het formulier in.,Fill in the form.

@@ -1,0 +1,12 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+507,engineering-technical,1,druk,base_word,A2,347,5.34,979.80,needs_translation,false,,,,
+508,engineering-technical,2,meter,base_word,A2,508,5.15,943.75,needs_topic_review,true,"candidate topics: engineering-technical,utilities-bills",,,
+509,engineering-technical,3,systeem,base_word,B1,642,5.04,904.05,needs_translation,false,,,,
+510,engineering-technical,4,motor,base_word,A2,1087,4.73,893.35,needs_translation,false,,,,
+511,engineering-technical,5,machine,base_word,B1,1411,4.57,847.65,needs_translation,false,,,,
+512,engineering-technical,6,techniek,base_word,B1,1274,4.64,842.80,needs_translation,false,,,,
+513,engineering-technical,7,diameter,base_word,B1,3614,3.92,756.40,needs_topic_review,true,"candidate topics: engineering-technical,utilities-bills",,,
+514,engineering-technical,8,techno,base_word,B1,5904,3.54,737.30,needs_translation,false,,,,
+515,engineering-technical,9,technici,base_word,B1,6581,3.44,698.80,needs_translation,false,,,,
+516,engineering-technical,10,motorkap,base_word,B1,6914,3.39,692.80,needs_translation,false,,,,
+517,engineering-technical,11,promotor,base_word,B1,8808,3.14,662.80,needs_translation,false,,,,

@@ -1,0 +1,6 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+502,politics-news,1,wet,base_word,A2,515,5.15,970.25,needs_translation,false,,,,
+503,politics-news,2,partij,base_word,B1,367,5.32,950.90,needs_translation,false,,,,
+504,politics-news,3,minister,base_word,B1,450,5.21,911.20,needs_translation,false,,,,
+505,politics-news,4,regering,base_word,B1,576,5.09,896.80,needs_translation,false,,,,
+506,politics-news,5,nieuwste,base_word,B1,1609,4.49,824.80,needs_translation,false,,,,

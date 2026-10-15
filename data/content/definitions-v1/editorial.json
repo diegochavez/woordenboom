@@ -1,0 +1,1797 @@
+{
+  "een": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "a; an",
+        "dutch": "Een lidwoord voor een persoon of ding dat nog niet specifiek is genoemd.",
+        "partOfSpeech": "article"
+      }
+    ]
+  },
+  "en": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "and",
+        "dutch": "Verbindt woorden of zinnen die bij elkaar horen.",
+        "partOfSpeech": "conjunction"
+      }
+    ]
+  },
+  "is": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "is",
+        "dutch": "Vorm van zijn: iemand of iets bestaat, bevindt zich ergens of heeft een bepaalde eigenschap.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "je": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "you; your",
+        "dutch": "Verwijst naar de persoon met wie je praat, of naar iets dat van die persoon is.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "met": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "with",
+        "dutch": "Geeft aan met wie of waarmee iets gebeurt.",
+        "partOfSpeech": "preposition"
+      }
+    ]
+  },
+  "om": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "at; in order to",
+        "dutch": "Geeft een tijd aan, zoals om drie uur, of een doel, zoals om iets te leren.",
+        "partOfSpeech": "preposition"
+      }
+    ]
+  },
+  "dit": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "this",
+        "dutch": "Wijst iets aan dat dichtbij is of zojuist is genoemd; gebruikt bij een het-woord.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "we": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "we",
+        "dutch": "Verwijst naar de spreker samen met een of meer andere mensen.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "heeft": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "has",
+        "dutch": "Vorm van hebben: iemand bezit iets of heeft iets gedaan.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "zo": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "so; like this",
+        "dutch": "Op deze manier of in deze mate.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "tot": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "until; to",
+        "dutch": "Geeft een eindpunt in tijd, plaats of aantal aan.",
+        "partOfSpeech": "preposition"
+      }
+    ]
+  },
+  "heb": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "have",
+        "dutch": "Vorm van hebben bij ik: iets bezitten of iets gedaan hebben.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "ben": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "am",
+        "dutch": "Vorm van zijn bij ik: ik besta, ben ergens of heb een bepaalde eigenschap.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "moet": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "must; have to",
+        "dutch": "Vorm van moeten: iets is nodig of verplicht.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "gaat": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "goes; is going",
+        "dutch": "Vorm van gaan: iemand beweegt naar een plaats of iets verloopt op een bepaalde manier.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "zou": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "would",
+        "dutch": "Vorm van zullen die vaak een mogelijkheid, wens of voorwaarde uitdrukt.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "had": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "had",
+        "dutch": "Verleden tijd van hebben: iemand bezat iets of had iets gedaan.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "zal": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "will",
+        "dutch": "Vorm van zullen die vaak aangeeft dat iets later gebeurt.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "komt": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "comes",
+        "dutch": "Vorm van komen: iemand of iets beweegt naar een plaats of naar de spreker toe.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "eens": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "once; sometime",
+        "dutch": "Op een niet precies genoemd moment, vroeger of later.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "ga": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "go",
+        "dutch": "Vorm van gaan bij ik, of een opdracht om ergens naartoe te gaan.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "waren": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "were",
+        "dutch": "Meervoud van de verleden tijd van zijn: mensen of dingen bestonden, waren ergens of hadden een eigenschap.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "gewoon": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "usual; normal; just",
+        "dutch": "Zoals meestal gebeurt of zoals je verwacht; als bijwoord ook: simpelweg.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "af": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "finished; done",
+        "dutch": "Helemaal klaar, zodat er niets meer aan gedaan hoeft te worden.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "zie": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "see",
+        "dutch": "Vorm van zien: iets met je ogen waarnemen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "bent": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "are",
+        "dutch": "Vorm van zijn bij jij of u: bestaan, ergens zijn of een bepaalde eigenschap hebben.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "eigen": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "own",
+        "dutch": "Van de persoon of het ding zelf.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "maakt": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "makes",
+        "dutch": "Vorm van maken: iets bouwen, vormen of laten ontstaan.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "iemand": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "someone; somebody",
+        "dutch": "Een persoon van wie je de naam niet noemt of niet weet.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "hebt": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "have",
+        "dutch": "Vorm van hebben bij jij of u: iets bezitten of iets gedaan hebben.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "samen": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "together",
+        "dutch": "Met elkaar, met twee of meer personen of dingen.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "kunt": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "can",
+        "dutch": "Vorm van kunnen: de mogelijkheid of vaardigheid hebben om iets te doen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "snel": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "fast; quick",
+        "dutch": "Met veel snelheid of in weinig tijd.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "mag": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "may; be allowed to",
+        "dutch": "Vorm van mogen: toestemming hebben om iets te doen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "doet": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "does",
+        "dutch": "Vorm van doen: een handeling uitvoeren.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "allemaal": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "all; all of them",
+        "dutch": "Iedereen of alles van de bedoelde groep, zonder uitzondering.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "beter": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "better",
+        "dutch": "Van hogere kwaliteit of in een gunstiger toestand dan iets anders.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "gemaakt": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "made",
+        "dutch": "Voltooid deelwoord van maken: iets is gebouwd, gevormd of tot stand gebracht.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "jou": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "you",
+        "dutch": "Verwijst naar de persoon met wie je praat, als voorwerp of na een voorzetsel.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "verder": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "further; farther",
+        "dutch": "Op grotere afstand, op een later punt of meer dan tot nu toe.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "zelfs": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "even",
+        "dutch": "Benadrukt dat iets onverwacht of bijzonder is.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "doe": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "do",
+        "dutch": "Vorm van doen bij ik, of een opdracht om een handeling uit te voeren.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "achter": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "behind",
+        "dutch": "Aan de achterkant van iets of iemand.",
+        "partOfSpeech": "preposition"
+      }
+    ]
+  },
+  "wilt": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "want",
+        "dutch": "Vorm van willen: de wens hebben om iets te doen of te krijgen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "tweede": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "second",
+        "dutch": "Op plaats twee in een volgorde.",
+        "partOfSpeech": "ordinal"
+      }
+    ]
+  },
+  "manier": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "way; manner",
+        "dutch": "De wijze waarop iemand iets doet of waarop iets gebeurt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "kun": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "can",
+        "dutch": "Vorm van kunnen: de mogelijkheid of vaardigheid hebben om iets te doen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "genoeg": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "enough",
+        "dutch": "Zoveel als nodig is; niet te weinig.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "later": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "later",
+        "dutch": "Op een tijdstip na nu of na een ander genoemd moment.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "zuid": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "south",
+        "dutch": "De windrichting tegenover het noorden.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "voor": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "for",
+        "dutch": "Geeft aan voor wie iets bedoeld is of met welk doel iets gebeurt.",
+        "partOfSpeech": "preposition"
+      },
+      {
+        "english": "before; in front of",
+        "dutch": "Eerder in de tijd of aan de voorkant van iets of iemand.",
+        "partOfSpeech": "preposition"
+      }
+    ]
+  },
+  "bij": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "at; near",
+        "dutch": "In de buurt van een plaats, persoon of ding.",
+        "partOfSpeech": "preposition"
+      }
+    ]
+  },
+  "kan": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "can",
+        "dutch": "Vorm van kunnen: de mogelijkheid of vaardigheid hebben om iets te doen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "was": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "was",
+        "dutch": "Enkelvoud van de verleden tijd van zijn: iemand of iets bestond, was ergens of had een eigenschap.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "kom": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "come",
+        "dutch": "Vorm van komen bij ik, of een opdracht om dichterbij of naar een plaats te komen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "mee": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "along; with",
+        "dutch": "Samen met iemand of iets, bijvoorbeeld meegaan of iets meenemen.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "hen": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "them",
+        "dutch": "Verwijst naar meerdere personen, als lijdend voorwerp of na een voorzetsel.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "zij": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "she; they",
+        "dutch": "Verwijst naar een vrouwelijke persoon of naar meerdere personen of dingen.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "wil": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "want",
+        "dutch": "Vorm van willen: de wens hebben om iets te doen of te krijgen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "u": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "you, formal",
+        "dutch": "Beleefde manier om de persoon of personen met wie je praat aan te spreken.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "in": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "in",
+        "dutch": "Binnen een ruimte, gebied of periode.",
+        "partOfSpeech": "preposition"
+      }
+    ]
+  },
+  "aan": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "at; on; to",
+        "dutch": "Geeft onder meer een plaats, contact met iets of de ontvanger van iets aan.",
+        "partOfSpeech": "preposition"
+      }
+    ]
+  },
+  "te": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "to",
+        "dutch": "Staat voor een werkwoord, bijvoorbeeld in proberen te leren.",
+        "partOfSpeech": "particle"
+      },
+      {
+        "english": "too",
+        "dutch": "Meer dan gewenst of nodig, bijvoorbeeld te duur.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "naar": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "to; towards",
+        "dutch": "In de richting van een plaats, persoon of doel.",
+        "partOfSpeech": "preposition"
+      }
+    ]
+  },
+  "niet": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "not",
+        "dutch": "Geeft aan dat iets niet waar is of niet gebeurt.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "woord": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "word",
+        "dutch": "Een onderdeel van een taal dat een betekenis heeft en dat je kunt zeggen of schrijven.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "vanaf": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "from; starting from",
+        "dutch": "Geeft aan op welke plaats of op welk moment iets begint.",
+        "partOfSpeech": "preposition"
+      }
+    ]
+  },
+  "leren": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "learn",
+        "dutch": "Nieuwe kennis of een nieuwe vaardigheid krijgen door uitleg, oefenen of ervaring.",
+        "partOfSpeech": "verb"
+      },
+      {
+        "english": "teach",
+        "dutch": "Iemand helpen om nieuwe kennis of een nieuwe vaardigheid te krijgen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "vader": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "father",
+        "dutch": "Een man die een kind heeft of als ouder voor een kind zorgt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "moeder": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "mother",
+        "dutch": "Een vrouw die een kind heeft of als ouder voor een kind zorgt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "werk": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "work; job",
+        "dutch": "Taken die iemand uitvoert, bijvoorbeeld om geld te verdienen.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "man": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "man; husband",
+        "dutch": "Een volwassen persoon van het mannelijk geslacht; ook een echtgenoot.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "groot": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "big; large",
+        "dutch": "Van een omvang die groter is dan normaal of dan iets anders.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "politie": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "police",
+        "dutch": "De organisatie die de openbare orde bewaakt en misdrijven onderzoekt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "stad": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "city; town",
+        "dutch": "Een grote woonplaats met veel inwoners, gebouwen en voorzieningen.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "film": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "film; movie",
+        "dutch": "Een reeks bewegende beelden die samen een verhaal of gebeurtenis laten zien.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "artikel": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "article",
+        "dutch": "Een tekst over een bepaald onderwerp, bijvoorbeeld in een krant of tijdschrift.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "english": "item",
+        "dutch": "Een product dat wordt verkocht.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "spoed": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "urgency; haste",
+        "dutch": "De noodzaak om iets snel te doen omdat wachten niet wenselijk is.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "grond": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "ground; soil",
+        "dutch": "De vaste oppervlakte van de aarde, of het materiaal waarin planten groeien.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "bedrijf": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "company; business",
+        "dutch": "Een organisatie die producten maakt of diensten aanbiedt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "ogen": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "eyes",
+        "dutch": "Meervoud van oog: de lichaamsdelen waarmee je kunt zien.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "krijg": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "get; receive",
+        "dutch": "Vorm van krijgen bij ik: iets ontvangen of in bezit krijgen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "weken": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "weeks",
+        "dutch": "Meervoud van week: periodes van zeven dagen.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "english": "soak",
+        "dutch": "Iets een tijd in water of een andere vloeistof laten liggen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "wilde": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "wanted",
+        "dutch": "Enkelvoud van de verleden tijd van willen: iemand had een wens of bedoeling.",
+        "partOfSpeech": "verb"
+      },
+      {
+        "english": "wild",
+        "dutch": "Vorm van wild: niet tam of zonder menselijke verzorging levend.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "zet": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "put; place",
+        "dutch": "Vorm van zetten: iets op een bepaalde plaats neerzetten.",
+        "partOfSpeech": "verb"
+      },
+      {
+        "english": "move",
+        "dutch": "Een handeling in een spel, bijvoorbeeld het verplaatsen van een schaakstuk.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "hoop": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "hope",
+        "dutch": "De wens en verwachting dat iets goeds zal gebeuren.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "english": "heap; pile",
+        "dutch": "Een hoeveelheid dingen die op elkaar liggen.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "even": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "briefly; just",
+        "dutch": "Gedurende een korte tijd, bijvoorbeeld even wachten.",
+        "partOfSpeech": "adverb"
+      },
+      {
+        "english": "even",
+        "dutch": "Bij een geheel getal: deelbaar door twee zonder rest.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "zelf": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "oneself; personally",
+        "dutch": "Benadrukt dat de bedoelde persoon iets in eigen persoon doet.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "open": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "open",
+        "dutch": "Niet gesloten, zodat je naar binnen kunt of iets kunt gebruiken.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "wie": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "who",
+        "dutch": "Vraagt naar een persoon of verwijst naar een persoon.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "waarom": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "why",
+        "dutch": "Vraagt naar de reden of oorzaak van iets.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "keer": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "time; occasion",
+        "dutch": "Een afzonderlijk moment waarop iets gebeurt, bijvoorbeeld de eerste keer.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "nooit": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "never",
+        "dutch": "Op geen enkel moment; niet één keer.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "eerst": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "first",
+        "dutch": "Voordat iets anders gebeurt of aan het begin van een volgorde.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "ooit": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "ever",
+        "dutch": "Op enig moment in het verleden of in de toekomst.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "apotheek": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "pharmacy",
+        "dutch": "Een plaats waar je medicijnen kunt krijgen en advies over het gebruik ervan.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "gemeente": {
+    "reason": "Clarify the everyday meaning and pair it with a concise Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "municipality",
+        "dutch": "Een gebied met een eigen lokaal bestuur; ook de organisatie die dat gebied bestuurt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "wel": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "do; indeed",
+        "dutch": "Benadrukt dat iets waar is of gebeurt, vaak als tegenstelling van niet.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "één": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "one",
+        "dutch": "Het getal 1; precies één persoon of ding, niet twee of meer.",
+        "partOfSpeech": "numeral"
+      }
+    ]
+  },
+  "blij": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "happy; glad; pleased",
+        "dutch": "Met een prettig gevoel omdat iets goed is of goed gaat.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "dezelfde": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "same",
+        "dutch": "Precies de persoon of het ding dat eerder is genoemd; niet een ander.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "top": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "great",
+        "dutch": "Informeel: heel goed of uitstekend.",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "english": "top; summit",
+        "dutch": "Het hoogste deel of punt van iets, bijvoorbeeld van een berg.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "nadat": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "after",
+        "dutch": "Geeft aan dat iets later gebeurt dan de handeling die erop volgt in de zin.",
+        "partOfSpeech": "conjunction"
+      }
+    ]
+  },
+  "zijn": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "are; to be",
+        "dutch": "Bestaan, zich ergens bevinden of een bepaalde eigenschap hebben; ook gebruikt als hulpwerkwoord.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "uit": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "from; out of",
+        "dutch": "Geeft aan waar iemand of iets vandaan komt of waar iets eerst in zat.",
+        "partOfSpeech": "preposition"
+      }
+    ]
+  },
+  "geen": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "no; not any",
+        "dutch": "Geeft aan dat iets of iemand afwezig is of dat het aantal nul is.",
+        "partOfSpeech": "pronoun"
+      }
+    ]
+  },
+  "veel": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "much; many; a lot",
+        "dutch": "Een grote hoeveelheid of een groot aantal.",
+        "partOfSpeech": "quantifier"
+      }
+    ]
+  },
+  "dag": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "day",
+        "dutch": "Een periode van 24 uur; ook de tijd tussen zonsopgang en zonsondergang.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "english": "hello; goodbye",
+        "dutch": "Een groet als je iemand ontmoet of als je weggaat.",
+        "partOfSpeech": "interjection"
+      }
+    ]
+  },
+  "staat": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "state",
+        "dutch": "Een land met een eigen bestuur, of de toestand waarin iets zich bevindt.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "english": "stands",
+        "dutch": "Vorm van staan: iemand of iets bevindt zich rechtop of op een bepaalde plaats.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "laten": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "let; leave; have something done",
+        "dutch": "Toestaan dat iets gebeurt, iets op een plaats houden of zorgen dat iemand iets uitvoert.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "weg": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "away",
+        "dutch": "Niet meer aanwezig, of naar een andere plaats.",
+        "partOfSpeech": "adverb"
+      },
+      {
+        "english": "road; way",
+        "dutch": "Een route waarover mensen en voertuigen zich kunnen verplaatsen.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "want": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "because",
+        "dutch": "Verbindt twee zinnen en geeft in de tweede zin de reden aan.",
+        "partOfSpeech": "conjunction"
+      },
+      {
+        "english": "mitten",
+        "dutch": "Een handschoen waarbij vier vingers samen in één ruimte zitten en de duim apart.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "erg": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "very",
+        "dutch": "In hoge mate, bijvoorbeeld erg mooi of erg koud.",
+        "partOfSpeech": "adverb"
+      },
+      {
+        "english": "bad; serious",
+        "dutch": "Naar of ernstig, bijvoorbeeld een erge fout.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "leuk": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "nice; fun; pleasant",
+        "dutch": "Prettig, aangenaam of iets waar je plezier aan beleeft.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "enige": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "only; some",
+        "dutch": "Kan betekenen dat er maar één is, of dat het om een klein aantal gaat.",
+        "partOfSpeech": "quantifier"
+      }
+    ]
+  },
+  "gebruik": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "use; usage",
+        "dutch": "Het toepassen of benutten van iets.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "english": "custom",
+        "dutch": "Een manier van doen die binnen een groep gewoon is.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "eerder": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "earlier; sooner",
+        "dutch": "Op een tijdstip vóór een ander moment.",
+        "partOfSpeech": "adverb"
+      },
+      {
+        "english": "rather",
+        "dutch": "Met meer voorkeur of waarschijnlijkheid dan een andere mogelijkheid.",
+        "partOfSpeech": "adverb"
+      }
+    ]
+  },
+  "hoofd": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "head",
+        "dutch": "Het lichaamsdeel boven de hals, met onder andere de hersenen, ogen en mond.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "english": "chief",
+        "dutch": "Iemand die leiding geeft aan een groep of afdeling.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "recht": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "right; law",
+        "dutch": "Wat iemand mag doen of krijgen volgens regels; ook het geheel van wetten en regels.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "english": "straight",
+        "dutch": "Zonder bocht of kromming.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "vriendin": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "girlfriend; female friend",
+        "dutch": "Een vrouw met wie je bevriend bent of met wie je een liefdesrelatie hebt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "kaart": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "card; ticket",
+        "dutch": "Een klein stuk papier of plastic met informatie, bijvoorbeeld als bewijs dat je ergens naar binnen mag.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "bus": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "bus",
+        "dutch": "Een groot voertuig dat meerdere passagiers over de weg vervoert.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "mail": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "email",
+        "dutch": "Een bericht dat je via internet naar iemand stuurt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "bel": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "call",
+        "dutch": "Vorm van bellen: iemand via de telefoon proberen te spreken.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "woning": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "home",
+        "dutch": "Een huis, appartement of andere ruimte waar iemand woont.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "slot": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "lock",
+        "dutch": "Een mechanisme waarmee je iets kunt afsluiten, bijvoorbeeld een deur.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "english": "castle",
+        "dutch": "Een groot, versterkt gebouw waar vroeger vaak een vorst of edelman woonde.",
+        "partOfSpeech": "noun"
+      },
+      {
+        "english": "ending",
+        "dutch": "Het laatste deel van iets, bijvoorbeeld van een verhaal.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "stroom": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "electricity",
+        "dutch": "De beweging van elektrische lading waarmee apparaten kunnen werken.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "feestje": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "small party",
+        "dutch": "Een kleine of informele bijeenkomst om iets te vieren.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "veilige": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "safe",
+        "dutch": "Vorm van veilig: met weinig of geen gevaar.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "klacht": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "complaint; symptom",
+        "dutch": "Een uiting van ontevredenheid, of een lichamelijk of geestelijk probleem waarvoor iemand hulp zoekt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "huur": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "rent",
+        "dutch": "Het bedrag dat je betaalt om tijdelijk iets van iemand anders te gebruiken.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "vriendje": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "boyfriend; little friend",
+        "dutch": "Een jongen of man met wie iemand een liefdesrelatie heeft, of een vriend van een kind.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "planning": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "schedule",
+        "dutch": "Een overzicht van wat er moet gebeuren en wanneer het moet gebeuren.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "regent": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "rains",
+        "dutch": "Vorm van regenen: er vallen waterdruppels uit de wolken.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "verbrand": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "burned",
+        "dutch": "Voltooid deelwoord van verbranden: door vuur of sterke hitte beschadigd of opgebrand.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "bewijst": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "proves",
+        "dutch": "Vorm van bewijzen: laat zien dat iets waar is.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "drink": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "drink",
+        "dutch": "Vorm van drinken bij ik, of een opdracht om vloeistof via de mond in te nemen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "bevriend": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "friends with",
+        "dutch": "In een vriendschappelijke relatie met iemand; je bent bevriend met die persoon.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "veiliger": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "safer",
+        "dutch": "Met minder gevaar dan iets anders of dan eerst.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "drinkt": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "drinks",
+        "dutch": "Vorm van drinken: iemand neemt vloeistof via de mond in.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "verhuisd": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "moved",
+        "dutch": "Voltooid deelwoord van verhuizen: naar een andere woning of plaats gegaan.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "groente": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "vegetables",
+        "dutch": "Eetbare delen van planten die je meestal als onderdeel van een maaltijd eet.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "brandt": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "burns",
+        "dutch": "Vorm van branden: er is vuur, of iets geeft een gevoel van sterke hitte.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "broodje": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "bread roll; sandwich",
+        "dutch": "Een klein brood, vaak opengesneden en belegd met bijvoorbeeld kaas of vlees.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "borg": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "deposit",
+        "dutch": "Geld dat je vooraf betaalt als zekerheid en meestal terugkrijgt als je aan de afspraken voldoet.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "makelaar": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "real estate agent",
+        "dutch": "Iemand die helpt bij het kopen, verkopen, huren of verhuren van woningen en andere gebouwen.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "verhuurd": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "rented out",
+        "dutch": "Voltooid deelwoord van verhuren: tegen betaling aan iemand anders in gebruik gegeven.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "onveilig": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "unsafe",
+        "dutch": "Met gevaar of met onvoldoende bescherming tegen gevaar.",
+        "partOfSpeech": "adjective"
+      }
+    ]
+  },
+  "pin": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "debit card payment",
+        "dutch": "Een betaling met een betaalpas, bijvoorbeeld in een winkel.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "verhuist": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "moves",
+        "dutch": "Vorm van verhuizen: iemand gaat op een andere plaats wonen of werken.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "verhuur": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "rental",
+        "dutch": "Het tegen betaling aan anderen in gebruik geven van iets.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "regenbui": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "rain shower",
+        "dutch": "Een periode waarin het regent, vaak kort en plaatselijk.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "loket": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "counter",
+        "dutch": "Een plaats bij een balie of raam waar je informatie, documenten of een dienst kunt krijgen.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "medici": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "physicians; doctors",
+        "dutch": "Meervoud van medicus: artsen.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "nietwaar": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "isn't it; isn't that so",
+        "dutch": "Een korte vraag waarmee je vraagt of iemand het met je eens is.",
+        "partOfSpeech": "interjection"
+      }
+    ]
+  },
+  "bewoning": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "occupancy",
+        "dutch": "Het wonen in of gebruiken van een gebouw als woning.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "bevestig": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "confirm",
+        "dutch": "Vorm van bevestigen: zeggen of laten weten dat iets klopt of doorgaat.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "geregend": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "rained",
+        "dutch": "Voltooid deelwoord van regenen: er zijn waterdruppels uit de wolken gevallen.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "sneeuwt": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "snows",
+        "dutch": "Vorm van sneeuwen: er vallen sneeuwvlokken uit de wolken.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "verhuurder": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "landlord",
+        "dutch": "Een persoon of organisatie die een woning of ander bezit tegen betaling laat gebruiken.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "verhuurt": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "rents out",
+        "dutch": "Vorm van verhuren: iemand geeft iets tegen betaling aan een ander in gebruik.",
+        "partOfSpeech": "verb"
+      }
+    ]
+  },
+  "bosbrand": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "forest fire",
+        "dutch": "Een brand die zich door een bos verspreidt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "prijsje": {
+    "reason": "Clarify the existing lesson sense or frequent everyday use with a Dutch explanation. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "small price",
+        "dutch": "Een klein of laag bedrag dat je voor iets betaalt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "melk": {
+    "reason": "Add a Dutch explanation to the existing authored lesson. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "milk",
+        "dutch": "Een witte vloeistof die vrouwelijke zoogdieren maken om hun jongen te voeden; mensen drinken vaak koemelk.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "kaartje": {
+    "reason": "Add a Dutch explanation to the existing authored lesson. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "ticket",
+        "dutch": "Een bewijs dat je hebt betaald om ergens naartoe te reizen of ergens naar binnen te gaan.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "budget": {
+    "reason": "Add a Dutch explanation to the existing authored lesson. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "budget",
+        "dutch": "Het bedrag dat je beschikbaar hebt of van plan bent uit te geven voor een bepaald doel.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "ticket": {
+    "reason": "Add a Dutch explanation to the existing authored lesson. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "ticket",
+        "dutch": "Een bewijs waarmee je toegang krijgt tot vervoer, een evenement of een andere dienst.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "feestdag": {
+    "reason": "Add a Dutch explanation to the existing authored lesson. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "holiday",
+        "dutch": "Een dag waarop een bijzondere gebeurtenis wordt gevierd, vaak met vrije tijd van werk of school.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  },
+  "regenval": {
+    "reason": "Add a Dutch explanation to the existing authored lesson. AI editorial draft; native-speaker review pending.",
+    "meanings": [
+      {
+        "english": "rainfall",
+        "dutch": "De hoeveelheid regen die in een bepaalde tijd en op een bepaalde plaats valt.",
+        "partOfSpeech": "noun"
+      }
+    ]
+  }
+}

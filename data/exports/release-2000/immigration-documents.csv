@@ -1,0 +1,6 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+416,immigration-documents,1,verblijf,base_word,B1,1977,4.36,809.20,needs_translation,false,,,,
+417,immigration-documents,2,paspoort,base_word,B1,2218,4.28,799.60,needs_translation,false,,,,
+418,immigration-documents,3,document,base_word,B1,2306,4.25,796.00,needs_translation,false,,,,
+419,immigration-documents,4,visum,base_word,A2,4429,3.77,778.15,needs_translation,false,,,,
+420,immigration-documents,5,inschrijving,base_word,B2,3625,3.92,703.40,needs_translation,false,,,,

@@ -1,0 +1,51 @@
+name: Beta API
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: woordenboom-beta-api
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: services/api/go.mod
+          cache-dependency-path: services/api/go.sum
+      - name: Test API
+        working-directory: services/api
+        run: go test ./...
+      - name: Validate release data
+        run: |
+          python3 scripts/vocabulary_release.py validate
+          python3 scripts/word_definitions.py validate
+          python3 scripts/category_release.py validate
+      - name: Validate Compose configuration
+        run: docker compose --env-file deploy/beta.env.example -f docker-compose.beta.yml config --quiet
+      - name: Build API image
+        run: docker compose --env-file deploy/beta.env.example -f docker-compose.beta.yml build api
+
+  deploy:
+    needs: verify
+    if: github.ref == 'refs/heads/main' && vars.BETA_DEPLOY_ENABLED == 'true'
+    runs-on: [self-hosted, linux, x64, woordenboom-beta]
+    environment: beta
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Deploy on Hetzner
+        env:
+          BETA_ENV_FILE: /etc/woordenboom/beta.env
+          BETA_BACKUP_DIR: /var/backups/woordenboom
+        run: bash deploy/deploy-beta.sh

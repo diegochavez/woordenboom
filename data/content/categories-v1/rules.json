@@ -1,0 +1,358 @@
+{
+  "version": "category-senses-v1",
+  "topics": {
+    "healthcare": {
+      "glosses": "doctor|physician|nurse|hospital|patient|pharmacy|medicine|medication|antibiotic|vaccine|vaccination|infection|disease|illness|symptom|diagnosis|treatment|surgery|surgeon|dentist|dental|tooth|teeth|pain|headache|fever|cough|flu|cancer|tumour|tumor|diabetes|allergy|asthma|blood|lung|kidney|liver|heart|brain|bone|muscle|skin|wound|injury|fracture|scar|bandage|injection|ambulance|therapy|therapist|psychologist|psychiatrist|pregnancy|pregnant|birth|midwife|birth control|contraception|health|healthy|sick|ill|medical|infection|infectious|virus|bacterium|bacteria|immune system|immune|antibody|anatomy|artery|vein|intestine|stomach|bladder|urine|intensive care|first aid|rehabilitation|disability|disabled|deaf|blind|obesity|insulin|epilepsy|dementia|depression|poisoning|sneeze|bleed|vomit|heal|cure|recover",
+      "domains": [
+        "medisch",
+        "geneeskunde",
+        "anatomie",
+        "farmacologie"
+      ]
+    },
+    "supermarket-food": {
+      "glosses": "food|meal|breakfast|lunch|dinner|supper|snack|bread|butter|cheese|milk|yoghurt|yogurt|cream|egg|meat|beef|pork|chicken|sausage|bacon|ham|fish|salmon|tuna|herring|shrimp|rice|pasta|noodle|flour|sugar|salt|pepper|spice|herb|vegetable|fruit|apple|pear|banana|orange|lemon|lime|grape|strawberry|raspberry|cherry|peach|plum|melon|pineapple|coconut|avocado|tomato|potato|carrot|onion|garlic|lettuce|cabbage|spinach|broccoli|cucumber|mushroom|bean|pea|lentil|nut|almond|peanut|walnut|chocolate|candy|sweet|biscuit|cookie|cake|pie|ice cream|dessert|soup|salad|sandwich|sauce|vinegar|oil|olive oil|honey|jam|coffee|tea|juice|beer|wine|lemonade|supermarket|grocery|groceries|bakery|butcher|cashier|checkout|receipt|shopping cart|shopping basket|ingredient|recipe|cook|bake|fry|boil|roast|grill|edible|vegetarian|vegan|nutrition|nutrient|protein|carbohydrate|calorie",
+      "domains": [
+        "kookkunst",
+        "voeding",
+        "culinair"
+      ]
+    },
+    "housing-renting": {
+      "glosses": "house|home|apartment|flat|room|bedroom|bathroom|kitchen|living room|attic|basement|cellar|balcony|terrace|garden|roof|wall|floor|ceiling|door|window|stairs|staircase|elevator|lift|furniture|chair|table|desk|sofa|couch|bed|mattress|pillow|blanket|wardrobe|cupboard|curtain|carpet|mirror|lamp|refrigerator|fridge|oven|dishwasher|washing machine|toilet|shower|bathtub|rent|tenant|landlord|landlady|rental|lease|housing|accommodation|mortgage|deposit|real estate|estate agent|neighbour|neighbor|neighbourhood|neighborhood|move house|furnished|unfurnished|homeless",
+      "domains": []
+    },
+    "public-transport": {
+      "glosses": "train|bus|tram|metro|subway|railway|railroad|station|platform|railway station|bus stop|bus station|tram stop|ticket|ticket office|fare|passenger|conductor|driver|public transport|transport|transportation|timetable|schedule|departure|arrival|delay|delayed|connection|transfer|journey|trip|travel|traveller|traveler|commuter|commute|bicycle|bike|cycle|cycling|taxi|ferry|airport|airplane|aeroplane|flight|luggage|baggage|suitcase|traffic|traffic light|intersection|crossroads|road|street|highway|motorway|bridge|tunnel|pedestrian|pavement|sidewalk|crossing|roundabout|parking|car park|parking lot|vehicle|car|truck|lorry|motorcycle|scooter|wheelchair",
+      "domains": [
+        "verkeer",
+        "spoorwegen"
+      ]
+    },
+    "work-office": {
+      "glosses": "work|job|employment|employee|employer|colleague|coworker|co-worker|office|company|business|enterprise|firm|manager|management|director|supervisor|boss|staff|personnel|team|meeting|conference|presentation|agenda|minutes|deadline|project|task|assignment|report|proposal|contract|salary|wage|wages|payroll|income|pension|retirement|retire|promotion|vacancy|application|applicant|interview|resume|curriculum vitae|qualification|experience|training|internship|intern|trainee|profession|occupation|career|professional|unemployed|unemployment|recruitment|recruiter|overtime|part-time|full-time|shift|workplace|workforce|workload|entrepreneur|entrepreneurship|enterprise|self-employed|freelance|union|trade union|strike|resign|resignation|dismissal|dismiss|redundancy|collegial",
+      "domains": []
+    },
+    "banking-money": {
+      "glosses": "money|bank|bank account|account number|banknote|coin|cash|currency|euro|dollar|cent|payment|pay|payout|refund|reimbursement|savings|saving|savings account|loan|debt|credit|debit|credit card|debit card|interest rate|exchange rate|investment|investor|invest|fund|stock exchange|shareholder|dividend|profit|loss|revenue|turnover|budget|bankruptcy|bankrupt|financial|finance|finances|tax|taxation|income tax|value added tax|VAT|invoice|bill|price|cost|expense|expensive|cheap|affordable|discount|insurance|premium|pension|mortgage|subsidy|benefit|allowance|wealth|wealthy|poverty|poor|rich|economic|economy|inflation|deflation|recession|capitalism|capitalist|accountant|accounting|bookkeeping|treasurer|treasury",
+      "domains": [
+        "financiën",
+        "economie",
+        "bankwezen"
+      ]
+    },
+    "school-childcare": {
+      "glosses": "school|education|educational|teacher|teach|learn|learning|student|pupil|classroom|lesson|lecture|course|curriculum|syllabus|homework|exercise|exam|examination|test|grade|diploma|degree|certificate|university|college|academy|professor|lecturer|scholar|scholarship|study|studies|textbook|notebook|pen|pencil|eraser|blackboard|whiteboard|library|reading|writing|spelling|grammar|alphabet|literacy|illiterate|childcare|daycare|nursery|kindergarten|primary school|secondary school|playground|schoolyard|child|children|baby|toddler|parent|mother|father|son|daughter|upbringing|pedagogy|didactics|graduation|graduate|tuition",
+      "domains": [
+        "onderwijs",
+        "pedagogiek"
+      ]
+    },
+    "software-it": {
+      "glosses": "computer|laptop|software|hardware|program|programme|programming|programmer|developer|database|data|website|webpage|web page|internet|intranet|browser|search engine|email|e-mail|password|username|user name|login|log in|log out|download|upload|file|folder|directory|server|client|network|networking|router|modem|keyboard|mouse|monitor|screen|display|printer|scanner|processor|microprocessor|chip|microchip|memory|hard drive|hard disk|USB|algorithm|code|source code|debug|debugging|bug|backup|back-up|encryption|encrypt|decrypt|firewall|cybersecurity|hacker|hacking|digital|virtual|online|offline|interface|operating system|application|app|artificial intelligence|machine learning|binary|byte|megabyte|gigabyte|pixel|resolution|spreadsheet",
+      "domains": [
+        "informatica",
+        "computertechniek"
+      ]
+    },
+    "home-repair": {
+      "glosses": "repair|fix|maintenance|renovation|renovate|plumber|plumbing|electrician|carpenter|carpentry|painter|paint|hammer|screwdriver|screw|nail|drill|saw|pliers|wrench|spanner|ladder|tool|toolbox|tape measure|sandpaper|glue|adhesive|solder|weld|welding|leak|leakage|leaking|broken|damage|damaged|clogged|blockage|drain|drainage|tap|faucet|pipe|piping|socket|plug|fuse|circuit breaker|light bulb|bulb|tile|brick|concrete|cement|plaster|insulation|insulate|timber|wood|screw thread",
+      "domains": []
+    },
+    "engineering-technical": {
+      "glosses": "engineering|engineer|mechanical|mechanics|machine|machinery|engine|motor|turbine|pump|valve|piston|cylinder|bearing|gear|gearbox|shaft|lever|pulley|bolt|nut|washer|spring|torque|friction|pressure|temperature|voltage|current|resistance|resistor|capacitor|transistor|semiconductor|circuit|electric circuit|electrode|sensor|detector|measurement|measure|precision|accuracy|calibration|design|prototype|manufacturing|manufacture|production|factory|industry|industrial|automation|robot|robotics|mechanism|construction|structure|structural|steel|metal|alloy|aluminium|aluminum|copper|iron|plastic|rubber|hydraulic|pneumatic|thermal|magnetic|magnet|electricity|electrical|electronic|electronics|battery|generator|transformer|conductivity|velocity|acceleration|force|mass|density|volume|diameter|radius|length|width|height|thickness|depth|angle",
+      "domains": [
+        "elektrotechniek",
+        "werktuigbouwkunde",
+        "techniek"
+      ]
+    },
+    "government-municipality": {
+      "glosses": "municipality|municipal|town hall|city hall|mayor|councillor|councilor|city council|municipal council|government|governance|administration|civil servant|civil service|public servant|bureaucracy|bureaucrat|registration|register|deregistration|resident|residence|address|postal code|postcode|zip code|birth certificate|marriage certificate|death certificate|identity card|identification|citizen|citizenship|nationality|permit|license|licence|application form|form|document|official|authority|authorities|province|provincial|district|region|regional|population|inhabitant|census|subsidy|public service|public services",
+      "domains": []
+    },
+    "immigration-documents": {
+      "glosses": "immigration|immigrant|emigration|emigrant|migration|migrant|refugee|asylum|asylum seeker|residence permit|work permit|visa|passport|citizenship|nationality|naturalisation|naturalization|integration|integration exam|border|border control|customs|deportation|deport|expulsion|expatriate|expat|stateless|statelessness|family reunification|foreign|foreigner|foreign national|country of origin|legalisation|legalization|embassy|consulate|consul|consular|translation|translator|interpreter",
+      "domains": []
+    },
+    "legal-contracts": {
+      "glosses": "law|legal|lawyer|attorney|solicitor|barrister|judge|court|courtroom|trial|lawsuit|litigation|prosecution|prosecutor|defendant|plaintiff|witness|testimony|evidence|verdict|sentence|sentencing|conviction|acquittal|appeal|justice|judicial|jurisdiction|legislation|legislative|statute|regulation|regulations|ordinance|decree|constitution|constitutional|treaty|agreement|contract|clause|terms|condition|conditions|liability|liable|compensation|damages|fine|penalty|punishment|prison|imprisonment|probation|bail|custody|arrest|warrant|notary|notarial|inheritance|heir|testament|will|divorce|marriage|adoption|copyright|patent|trademark|fraud|crime|criminal|illegal|unlawful|lawful|legitimate|legality|illegality",
+      "domains": [
+        "juridisch",
+        "recht",
+        "rechtspraak"
+      ]
+    },
+    "politics-news": {
+      "glosses": "politics|political|politician|parliament|parliamentary|senate|senator|minister|ministry|cabinet|prime minister|president|presidential|democracy|democratic|dictatorship|dictator|election|electoral|vote|voter|ballot|referendum|coalition|opposition|political party|campaign|manifesto|policy|debate|diplomacy|diplomat|diplomatic|ambassador|international|national|nation|state|republic|monarchy|monarch|king|queen|royal|socialism|socialist|liberal|liberalism|conservative|conservatism|communism|communist|nationalism|nationalist|fascism|fascist|populism|populist|ideology|ideological|revolution|revolutionary|protest|demonstration|activist|activism|news|newspaper|journalist|journalism|media|press|headline|editorial|editor|reporter|broadcast|broadcasting|censorship|propaganda|freedom|equality|human rights|war|peace|conflict|ceasefire|sanction|sanctions",
+      "domains": [
+        "politiek"
+      ]
+    },
+    "utilities-bills": {
+      "glosses": "electricity|gas|water supply|water bill|electricity bill|energy|energy supplier|energy provider|solar energy|wind energy|renewable energy|solar panel|solar cell|power plant|power station|power supply|power grid|power outage|blackout|meter|meter reading|consumption|kilowatt|kilowatt-hour|watt|heating|central heating|radiator|boiler|thermostat|heat pump|sewer|sewage|wastewater|waste|waste disposal|rubbish|garbage|trash|recycling|recycle|subscription|utility|utilities|broadband|internet provider|telephone bill",
+      "domains": []
+    },
+    "emergencies": {
+      "glosses": "emergency|emergency services|emergency number|first aid|ambulance|paramedic|fire brigade|fire department|firefighter|fireman|fire|fire alarm|smoke detector|fire extinguisher|police|police officer|policeman|policewoman|police station|accident|collision|crash|disaster|catastrophe|flood|earthquake|evacuation|evacuate|rescue|rescuer|danger|dangerous|hazard|hazardous|warning|alarm|alert|SOS|help|victim|survivor|survival|missing|missing person|theft|robbery|burglary|burglar|thief|robber|assault|violence|violent|attack|threat|threaten|explosion|explosive|bomb|terrorism|terrorist|drown|drowning|suffocate|suffocation|unconscious|unconsciousness|cardiac arrest|resuscitation|CPR|bleeding",
+      "domains": []
+    },
+    "appointments-phone": {
+      "glosses": "appointment|reservation|booking|book|reserve|cancel|cancellation|postpone|reschedule|confirm|confirmation|telephone|phone|mobile phone|smartphone|call|phone call|telephone call|telephone number|phone number|dial|voicemail|answering machine|receptionist|reception|opening hours|office hours|waiting room|queue|waiting list|availability|available|unavailable|busy|engaged|extension|contact|contact details|message|text message|SMS|conversation|speak|listen|repeat|spell|hold on|hang up|ring back|call back",
+      "domains": []
+    },
+    "weather-small-talk": {
+      "glosses": "weather|weather forecast|forecast|climate|climatic|meteorology|meteorological|sun|sunshine|sunny|cloud|cloudy|overcast|rain|rainfall|rainy|drizzle|shower|snow|snowfall|snowy|sleet|hail|frost|frosty|ice|icy|freeze|freezing|thaw|wind|windy|breeze|gust|storm|stormy|thunderstorm|thunder|lightning|fog|foggy|mist|misty|haze|humidity|humid|damp|dry|drought|heat|heatwave|heat wave|cold|cool|warm|hot|mild|temperature|degrees|Celsius|Fahrenheit|season|spring|summer|autumn|fall|winter|rainbow|sunrise|sunset|daylight|daytime|nighttime|umbrella|raincoat|precipitation|atmosphere|atmospheric",
+      "domains": [
+        "meteorologie"
+      ]
+    },
+    "social-life": {
+      "glosses": "friend|friendship|friendliness|friendly|acquaintance|neighbour|neighbor|family|relative|relationship|partner|boyfriend|girlfriend|husband|wife|spouse|couple|love|affection|romance|romantic|date|dating|wedding|marriage|engagement|birthday|anniversary|celebration|celebrate|party|festival|concert|cinema|theatre|theater|museum|exhibition|restaurant|cafe|café|pub|bar|club|nightclub|invitation|invite|guest|host|hostess|visit|visitor|welcome|greeting|greet|goodbye|farewell|thank|thanks|congratulations|congratulate|apology|apologise|apologize|compliment|joke|humour|humor|laugh|laughter|smile|hobby|leisure|recreation|sport|sports|football|soccer|tennis|basketball|volleyball|swimming|dancing|dance|music|musical|sing|singing|song|guitar|piano|violin|drum|game|board game|picnic|barbecue|holiday|vacation|weekend",
+      "domains": []
+    }
+  },
+  "ambiguous_glosses": [
+    "bank",
+    "heart",
+    "chicken",
+    "fish",
+    "orange",
+    "cream",
+    "sweet",
+    "oil",
+    "flat",
+    "floor",
+    "lift",
+    "rent",
+    "deposit",
+    "platform",
+    "train",
+    "connection",
+    "transfer",
+    "driver",
+    "schedule",
+    "application",
+    "minutes",
+    "project",
+    "assignment",
+    "report",
+    "qualification",
+    "experience",
+    "training",
+    "shift",
+    "strike",
+    "pay",
+    "credit",
+    "debit",
+    "interest",
+    "fund",
+    "profit",
+    "loss",
+    "bill",
+    "poor",
+    "rich",
+    "grade",
+    "test",
+    "exercise",
+    "degree",
+    "study",
+    "course",
+    "class",
+    "reading",
+    "writing",
+    "nursery",
+    "program",
+    "programme",
+    "data",
+    "file",
+    "folder",
+    "directory",
+    "server",
+    "client",
+    "network",
+    "mouse",
+    "monitor",
+    "screen",
+    "display",
+    "processor",
+    "memory",
+    "chip",
+    "code",
+    "bug",
+    "resolution",
+    "fix",
+    "paint",
+    "nail",
+    "drill",
+    "saw",
+    "nut",
+    "spring",
+    "pressure",
+    "current",
+    "resistance",
+    "force",
+    "mass",
+    "volume",
+    "angle",
+    "design",
+    "production",
+    "construction",
+    "structure",
+    "form",
+    "registration",
+    "register",
+    "official",
+    "authority",
+    "authorities",
+    "integration",
+    "border",
+    "translation",
+    "sentence",
+    "appeal",
+    "fine",
+    "custody",
+    "will",
+    "condition",
+    "conditions",
+    "terms",
+    "state",
+    "national",
+    "international",
+    "press",
+    "party",
+    "campaign",
+    "manifesto",
+    "demonstration",
+    "gas",
+    "energy",
+    "meter",
+    "waste",
+    "subscription",
+    "fire",
+    "crash",
+    "help",
+    "missing",
+    "attack",
+    "warning",
+    "alarm",
+    "alert",
+    "book",
+    "reserve",
+    "call",
+    "reception",
+    "available",
+    "unavailable",
+    "busy",
+    "engaged",
+    "extension",
+    "contact",
+    "message",
+    "speak",
+    "listen",
+    "repeat",
+    "spell",
+    "forecast",
+    "cloud",
+    "shower",
+    "dry",
+    "heat",
+    "cold",
+    "cool",
+    "warm",
+    "hot",
+    "mild",
+    "degrees",
+    "fall",
+    "atmosphere",
+    "date",
+    "host",
+    "bar",
+    "club",
+    "game",
+    "holiday",
+    "visit",
+    "welcome",
+    "greeting",
+    "song",
+    "musical",
+    "table",
+    "measure",
+    "firm",
+    "couple",
+    "bearing",
+    "bail",
+    "bridge",
+    "pupil",
+    "dental",
+    "taxi",
+    "boiler",
+    "scale",
+    "sheet",
+    "tender",
+    "order",
+    "charge",
+    "bond",
+    "share",
+    "case",
+    "court",
+    "sentence",
+    "organ",
+    "plant",
+    "cell",
+    "ministry",
+    "bed",
+    "chair",
+    "iron",
+    "wood",
+    "cold",
+    "die",
+    "sick",
+    "ill",
+    "patient",
+    "term",
+    "capital",
+    "adoption",
+    "adopt",
+    "confirmation",
+    "flood",
+    "policy",
+    "consumption",
+    "sewer",
+    "queue"
+  ],
+  "excluded_lemmas": [
+    "idioot",
+    "dood",
+    "contact",
+    "beurs",
+    "manifest",
+    "mengbaar",
+    "wegloper",
+    "houtwerk"
+  ],
+  "excluded_domains": [
+    "figuurlijk",
+    "overdrachtelijk",
+    "vulgair",
+    "scheldwoord",
+    "verouderd",
+    "archaïsch",
+    "pejoratief"
+  ],
+  "context_domains": [
+    "muziek",
+    "muziekinstrument",
+    "fonetiek",
+    "taalkunde",
+    "kleding",
+    "geologie",
+    "plantkunde",
+    "dierkunde",
+    "scheepvaart",
+    "wiskunde",
+    "natuurkunde",
+    "religie",
+    "christendom"
+  ]
+}

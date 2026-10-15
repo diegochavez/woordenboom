@@ -1,0 +1,14 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+438,social-life,1,samen,base_word,A2,148,5.75,1015.75,needs_content_review,false,,together,We eten samen thuis.,We eat together at home.
+439,social-life,2,familie,base_word,B1,221,5.56,966.45,needs_content_review,false,,family,Mijn familie woont dichtbij.,My family lives nearby.
+440,social-life,3,club,base_word,A2,540,5.12,953.40,needs_content_review,false,,club,Ik ben lid van een club.,I am a member of a club.
+441,social-life,4,vriend,base_word,B1,549,5.12,926.90,needs_content_review,false,,friend,Mijn vriend komt vanavond.,My friend is coming tonight.
+442,social-life,5,feest,base_word,A2,721,4.96,920.95,needs_content_review,false,,party,Het feest begint om acht uur.,The party starts at eight o'clock.
+443,social-life,6,vriendin,base_word,B1,607,5.06,893.20,needs_content_review,false,,girlfriend or female friend,Mijn vriendin helpt mij.,My girlfriend helps me.
+444,social-life,7,afspraak,base_word,B1,992,4.77,858.40,needs_content_review,true,"candidate topics: appointments-phone,social-life",appointment,Ik heb morgen een afspraak.,I have an appointment tomorrow.
+445,social-life,8,feestje,base_word,B1,1349,4.60,851.25,needs_content_review,false,,small party,Het feestje is zaterdag.,The small party is on Saturday.
+446,social-life,9,hobby,base_word,A2,2650,4.15,823.75,needs_content_review,false,,hobby,Mijn hobby is koken.,My hobby is cooking.
+447,social-life,10,vriendje,base_word,B1,1979,4.36,809.20,needs_content_review,false,,boyfriend or little friend,Haar vriendje komt ook.,Her boyfriend is coming too.
+448,social-life,11,bevriend,base_word,B1,2753,4.12,780.40,needs_content_review,false,,friends,Wij zijn al lang bevriend.,We have been friends for a long time.
+449,social-life,12,feestdag,base_word,B1,3720,3.90,754.00,needs_content_review,false,,holiday,Vandaag is een feestdag.,Today is a holiday.
+450,social-life,13,gefeest,base_word,B1,9241,3.08,668.85,needs_translation,false,,,,

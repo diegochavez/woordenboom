@@ -1,0 +1,1 @@
+export { Bank, BookStack, Bus, Cart, Check, Clock, Cloud, Community, Computer, Flash, GraduationCap, HealthShield, HomeSimple, Learning, ListSelect, Map, NavArrowLeft, NavArrowRight, Page, Phone, Restart, Settings, Shield, Suitcase, Tools, Xmark, ThumbsDown, ThumbsUp } from 'iconoir-react-native';

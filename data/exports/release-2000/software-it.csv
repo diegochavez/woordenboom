@@ -1,0 +1,8 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+518,software-it,1,app,base_word,A2,796,4.90,940.25,needs_translation,false,,,,
+519,software-it,2,internet,base_word,B1,472,5.18,907.60,needs_topic_review,true,"candidate topics: software-it,utilities-bills",,,
+520,software-it,3,data,base_word,A2,1348,4.60,891.00,needs_translation,false,,,,
+521,software-it,4,computer,base_word,B1,1184,4.68,847.60,needs_translation,false,,,,
+522,software-it,5,software,base_word,B1,1641,4.48,823.60,needs_translation,false,,,,
+523,software-it,6,server,base_word,B1,2446,4.21,817.70,needs_translation,false,,,,
+524,software-it,7,bestand,base_word,B1,2139,4.30,815.25,needs_translation,false,,,,

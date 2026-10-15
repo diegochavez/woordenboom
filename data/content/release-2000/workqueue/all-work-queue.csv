@@ -1,0 +1,2001 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,topic_decision,content_status,english_translation,dutch_example,english_example,notes
+1,daily-basics,1,de,base_word,A1,accepted,needs_content_review,the,De trein komt om acht uur.,The train comes at eight o'clock.,
+2,daily-basics,2,het,base_word,A1,accepted,needs_content_review,the,Het huis is dichtbij.,The house is nearby.,
+3,daily-basics,3,een,base_word,A1,accepted,needs_content_review,a or an,Ik heb een afspraak vandaag.,I have an appointment today.,
+4,daily-basics,4,ik,base_word,A1,accepted,needs_content_review,I,Ik woon in Nederland.,I live in the Netherlands.,
+5,daily-basics,5,is,base_word,A1,accepted,needs_content_review,is,De winkel is open.,The shop is open.,
+6,daily-basics,6,je,base_word,A1,accepted,needs_content_review,you or your,Je kunt hier betalen.,You can pay here.,
+7,daily-basics,7,en,base_word,A2,accepted,needs_content_review,and,Ik wil koffie en water.,I want coffee and water.,
+8,daily-basics,8,zijn,base_word,A1,accepted,needs_content_review,are or to be,De documenten zijn klaar.,The documents are ready.,
+9,daily-basics,9,ze,base_word,A1,accepted,needs_content_review,they or she,Ze komen morgen.,They are coming tomorrow.,
+10,daily-basics,10,hij,base_word,A1,accepted,needs_content_review,he,Hij werkt vandaag thuis.,He works from home today.,
+11,daily-basics,11,van,base_word,A2,accepted,needs_content_review,from or of,Ik kom van het station.,I come from the station.,
+12,daily-basics,12,we,base_word,A1,accepted,needs_content_review,we,We gaan naar de gemeente.,We are going to the municipality.,
+13,daily-basics,13,u,base_word,A1,accepted,needs_content_review,you formal,Heeft u een afspraak?,Do you have an appointment?,
+14,daily-basics,14,in,base_word,A2,accepted,needs_content_review,in,Ik woon in Amsterdam.,I live in Amsterdam.,
+15,daily-basics,15,was,base_word,A1,accepted,needs_content_review,was,De afspraak was gisteren.,The appointment was yesterday.,
+16,daily-basics,16,dat,base_word,A2,accepted,needs_content_review,that,Ik weet dat het belangrijk is.,I know that it is important.,
+17,daily-basics,17,op,base_word,A2,accepted,needs_content_review,on,Het formulier ligt op tafel.,The form is on the table.,
+18,daily-basics,18,niet,base_word,A2,accepted,needs_content_review,not,Ik begrijp het niet.,I do not understand it.,
+19,daily-basics,19,kan,base_word,A1,accepted,needs_content_review,can,Kan ik hier pinnen?,Can I pay by card here?,
+20,daily-basics,20,heb,base_word,A1,accepted,needs_content_review,have,Ik heb een vraag.,I have a question.,
+21,daily-basics,21,ben,base_word,A1,accepted,needs_content_review,am,Ik ben nieuw in de buurt.,I am new in the neighborhood.,
+22,daily-basics,22,die,base_word,A2,accepted,needs_content_review,that or those,Die bus gaat naar het centrum.,That bus goes to the center.,
+23,daily-basics,23,heeft,base_word,A1,accepted,needs_content_review,has,Hij heeft een Nederlands nummer.,He has a Dutch number.,
+24,daily-basics,24,met,base_word,A2,accepted,needs_content_review,with,Ik betaal met mijn kaart.,I pay with my card.,
+25,daily-basics,25,voor,base_word,A2,accepted,needs_content_review,for,Dit formulier is voor de aanvraag.,This form is for the application.,
+26,daily-basics,26,ook,base_word,A2,accepted,needs_content_review,also,Ik wil ook een bon.,I also want a receipt.,
+27,daily-basics,27,jij,base_word,A1,accepted,needs_content_review,you,Jij bent aan de beurt.,It is your turn.,
+28,daily-basics,28,of,base_word,A2,accepted,needs_content_review,or,Wilt u thee of koffie?,Would you like tea or coffee?,
+29,daily-basics,29,maar,base_word,A2,accepted,needs_content_review,but,Ik wil komen maar ik ben laat.,I want to come but I am late.,
+30,daily-basics,30,wij,base_word,A1,accepted,needs_content_review,we,Wij hebben een afspraak.,We have an appointment.,
+31,daily-basics,31,wil,base_word,A1,accepted,needs_content_review,want,Ik wil graag betalen.,I would like to pay.,
+32,daily-basics,32,zij,base_word,A1,accepted,needs_content_review,she or they,Zij woont hier dichtbij.,She lives nearby.,
+33,daily-basics,33,dit,base_word,A2,accepted,needs_content_review,this,Dit is mijn adres.,This is my address.,
+34,daily-basics,34,moet,base_word,A1,accepted,needs_content_review,must or have to,Ik moet naar de huisarts.,I have to go to the doctor.,
+35,daily-basics,35,had,base_word,A1,accepted,needs_content_review,had,Ik had gisteren een afspraak.,I had an appointment yesterday.,
+36,daily-basics,36,zou,base_word,A1,accepted,needs_content_review,would,Ik zou graag hulp willen.,I would like help.,
+37,daily-basics,37,als,base_word,A2,accepted,needs_content_review,if or when,Bel mij als u klaar bent.,Call me when you are ready.,
+38,daily-basics,38,wat,base_word,A2,accepted,needs_content_review,what,Wat kost dit?,What does this cost?,
+39,daily-basics,39,wel,base_word,A2,accepted,needs_content_review,do or indeed,Ik heb wel een kaart.,I do have a card.,
+40,daily-basics,40,zal,base_word,A1,accepted,needs_content_review,will,Ik zal morgen bellen.,I will call tomorrow.,
+41,daily-basics,41,gaat,base_word,A1,accepted,needs_content_review,goes or is going,De trein gaat naar Utrecht.,The train goes to Utrecht.,
+42,daily-basics,42,gaan,base_word,A1,accepted,needs_content_review,go,We gaan naar huis.,We are going home.,
+43,daily-basics,43,ga,base_word,A1,accepted,needs_content_review,go,Ik ga naar het loket.,I am going to the counter.,
+44,daily-basics,44,te,base_word,A2,accepted,needs_content_review,to or too,Het is te duur.,It is too expensive.,
+45,daily-basics,45,bij,base_word,A2,accepted,needs_content_review,at or near,Ik wacht bij de ingang.,I am waiting at the entrance.,
+46,daily-basics,46,naar,base_word,A2,accepted,needs_content_review,to,Ik ga naar de apotheek.,I am going to the pharmacy.,
+47,daily-basics,47,geen,base_word,A2,accepted,needs_content_review,no or not any,Ik heb geen contant geld.,I do not have cash.,
+48,daily-basics,48,deze,base_word,A2,accepted,needs_content_review,this,Deze kaart werkt niet.,This card does not work.,
+49,daily-basics,49,dan,base_word,A2,accepted,needs_content_review,then or than,Dan kom ik morgen terug.,Then I will come back tomorrow.,
+50,daily-basics,50,doen,base_word,A2,accepted,needs_content_review,do,Wat moet ik doen?,What should I do?,
+51,daily-basics,51,door,base_word,A2,accepted,needs_content_review,through or by,We lopen door de deur.,We walk through the door.,
+52,daily-basics,52,bent,base_word,A1,accepted,needs_content_review,are,U bent aan de beurt.,It is your turn.,
+53,daily-basics,53,waren,base_word,A1,accepted,needs_content_review,were,De winkels waren open.,The shops were open.,
+54,daily-basics,54,komt,base_word,A1,accepted,needs_content_review,comes,De bus komt over tien minuten.,The bus comes in ten minutes.,
+55,daily-basics,55,over,base_word,A2,accepted,needs_content_review,about or in,Ik bel over de afspraak.,I am calling about the appointment.,
+56,daily-basics,56,er,base_word,A2,accepted,needs_content_review,there,Er is een probleem.,There is a problem.,
+57,daily-basics,57,hebt,base_word,A1,accepted,needs_content_review,have,Hebt u een identiteitsbewijs?,Do you have identification?,
+58,daily-basics,58,om,base_word,A2,accepted,needs_content_review,at or in order to,De afspraak is om negen uur.,The appointment is at nine o'clock.,
+59,daily-basics,59,nu,base_word,A2,accepted,needs_content_review,now,Ik ben nu beschikbaar.,I am available now.,
+60,daily-basics,60,zien,base_word,A2,accepted,needs_content_review,see,Ik wil de kamer zien.,I want to see the room.,
+61,daily-basics,61,mag,base_word,A1,accepted,needs_content_review,may,Mag ik hier zitten?,May I sit here?,
+62,daily-basics,62,maken,base_word,A2,accepted,needs_content_review,make,Ik wil een afspraak maken.,I want to make an appointment.,
+63,daily-basics,63,hoe,base_word,A2,accepted,needs_content_review,how,Hoe werkt dit?,How does this work?,
+64,daily-basics,64,tot,base_word,A2,accepted,needs_content_review,until,De winkel is open tot zes uur.,The shop is open until six o'clock.,
+65,daily-basics,65,ja,base_word,A2,accepted,needs_content_review,yes,Ja dat klopt.,Yes that is correct.,
+66,daily-basics,66,kunt,base_word,A1,accepted,needs_content_review,can,Kunt u mij helpen?,Can you help me?,
+67,daily-basics,67,zie,base_word,A2,accepted,needs_content_review,see,Ik zie de ingang.,I see the entrance.,
+68,daily-basics,68,komen,base_word,A1,accepted,needs_content_review,come,Kunt u morgen komen?,Can you come tomorrow?,
+69,daily-basics,69,aan,base_word,A2,accepted,needs_content_review,on,Het licht is aan.,The light is on.,
+70,daily-basics,70,waar,base_word,A2,accepted,needs_content_review,where,Waar is de balie?,Where is the desk?,
+71,daily-basics,71,kun,base_word,A1,accepted,needs_content_review,can,Kun je mij bellen?,Can you call me?,
+72,daily-basics,72,kom,base_word,A1,accepted,needs_content_review,come,Ik kom om drie uur.,I will come at three o'clock.,
+73,daily-basics,73,hier,base_word,A2,accepted,needs_content_review,here,Ik woon hier.,I live here.,
+74,daily-basics,74,uit,base_word,A2,accepted,needs_content_review,from or out of,Ik kom uit Spanje.,I am from Spain.,
+75,daily-basics,75,doe,base_word,A1,accepted,needs_content_review,do,Ik doe de deur open.,I open the door.,
+76,daily-basics,76,doet,base_word,A1,accepted,needs_content_review,does,Wat doet deze knop?,What does this button do?,
+77,daily-basics,77,wilt,base_word,A1,accepted,needs_content_review,want,Wilt u een bon?,Do you want a receipt?,
+78,daily-basics,78,maakt,base_word,A2,accepted,needs_content_review,makes,De monteur maakt de deur.,The repair person fixes the door.,
+79,daily-basics,79,zo,base_word,A2,accepted,needs_content_review,so or like this,Zo werkt de app.,This is how the app works.,
+80,daily-basics,80,daar,base_word,A2,accepted,needs_content_review,there,De ingang is daar.,The entrance is there.,
+81,daily-basics,81,al,base_word,A2,accepted,needs_translation,,,,
+82,daily-basics,82,nog,base_word,A2,accepted,needs_translation,,,,
+83,daily-basics,83,wie,base_word,A2,accepted,needs_translation,,,,
+84,daily-basics,84,zegt,base_word,A2,accepted,needs_translation,,,,
+85,daily-basics,85,jaar,base_word,B1,accepted,needs_translation,,,,
+86,daily-basics,86,nee,base_word,A2,accepted,needs_translation,,,,
+87,daily-basics,87,meer,base_word,B1,accepted,needs_translation,,,,
+88,daily-basics,88,me,base_word,A2,accepted,needs_translation,,,,
+89,daily-basics,89,zeg,base_word,A2,accepted,needs_translation,,,,
+90,daily-basics,90,dag,base_word,A2,accepted,needs_translation,,,,
+91,daily-basics,91,want,base_word,A2,accepted,needs_translation,,,,
+92,daily-basics,92,onder,base_word,A2,accepted,needs_translation,,,,
+93,daily-basics,93,ziet,base_word,A2,accepted,needs_translation,,,,
+94,daily-basics,94,na,base_word,A2,accepted,needs_translation,,,,
+95,daily-basics,95,maak,base_word,A2,accepted,needs_translation,,,,
+96,daily-basics,96,mijn,base_word,A2,accepted,needs_translation,,,,
+97,daily-basics,97,vraag,base_word,A2,accepted,needs_translation,,,,
+98,daily-basics,98,goed,base_word,B1,accepted,needs_translation,,,,
+99,daily-basics,99,veel,base_word,B1,accepted,needs_translation,,,,
+100,daily-basics,100,tijd,base_word,A2,accepted,needs_translation,,,,
+101,daily-basics,101,ons,base_word,A2,accepted,needs_translation,,,,
+102,daily-basics,102,haar,base_word,A2,accepted,needs_translation,,,,
+103,daily-basics,103,wordt,base_word,A2,accepted,needs_translation,,,,
+104,daily-basics,104,hoor,base_word,A2,accepted,needs_translation,,,,
+105,daily-basics,105,t,base_word,A2,accepted,needs_translation,,,,
+106,daily-basics,106,waarom,base_word,A2,accepted,needs_translation,,,,
+107,daily-basics,107,dus,base_word,A2,accepted,needs_translation,,,,
+108,daily-basics,108,man,base_word,B1,accepted,needs_translation,,,,
+109,daily-basics,109,werd,base_word,A2,accepted,needs_translation,,,,
+110,daily-basics,110,mij,base_word,A2,accepted,needs_translation,,,,
+111,daily-basics,111,hun,base_word,A2,accepted,needs_translation,,,,
+112,daily-basics,112,onze,base_word,A2,accepted,needs_translation,,,,
+113,daily-basics,113,horen,base_word,A2,accepted,needs_translation,,,,
+114,daily-basics,114,zich,base_word,A2,accepted,needs_translation,,,,
+115,daily-basics,115,zonder,base_word,A2,accepted,needs_translation,,,,
+116,daily-basics,116,mee,base_word,A2,accepted,needs_translation,,,,
+117,daily-basics,117,werk,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: daily-basics,work-office"
+118,daily-basics,118,af,base_word,A2,accepted,needs_translation,,,,
+119,daily-basics,119,twee,base_word,A2,accepted,needs_translation,,,,
+120,daily-basics,120,m,base_word,A2,accepted,needs_translation,,,,
+121,daily-basics,121,huis,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: daily-basics,housing-renting"
+122,daily-basics,122,hem,base_word,A2,accepted,needs_translation,,,,
+123,daily-basics,123,echt,base_word,A2,accepted,needs_translation,,,,
+124,daily-basics,124,eens,base_word,A2,accepted,needs_translation,,,,
+125,daily-basics,125,uw,base_word,A2,accepted,needs_translation,,,,
+126,daily-basics,126,heel,base_word,A2,accepted,needs_translation,,,,
+127,daily-basics,127,toch,base_word,A2,accepted,needs_translation,,,,
+128,daily-basics,128,tegen,base_word,A2,accepted,needs_translation,,,,
+129,daily-basics,129,s,base_word,A2,accepted,needs_translation,,,,
+130,daily-basics,130,net,base_word,A2,accepted,needs_translation,,,,
+131,daily-basics,131,via,base_word,A2,accepted,needs_translation,,,,
+132,daily-basics,132,alle,base_word,A2,accepted,needs_translation,,,,
+133,daily-basics,133,a,base_word,A2,accepted,needs_translation,,,,
+134,daily-basics,134,iets,base_word,A2,accepted,needs_translation,,,,
+135,daily-basics,135,toen,base_word,A2,accepted,needs_translation,,,,
+136,daily-basics,136,uur,base_word,A2,accepted,needs_translation,,,,
+137,daily-basics,137,wanneer,base_word,A2,accepted,needs_translation,,,,
+138,daily-basics,138,weg,base_word,A2,accepted,needs_translation,,,,
+139,daily-basics,139,week,base_word,A2,accepted,needs_translation,,,,
+140,daily-basics,140,naam,base_word,B1,accepted,needs_translation,,,,
+141,daily-basics,141,andere,base_word,B1,accepted,needs_translation,,,,
+142,daily-basics,142,weet,base_word,A2,accepted,needs_translation,,,,
+143,daily-basics,143,zit,base_word,A2,accepted,needs_translation,,,,
+144,daily-basics,144,the,base_word,A2,accepted,needs_translation,,,,
+145,daily-basics,145,staat,base_word,A2,accepted,needs_translation,,,,
+146,daily-basics,146,zoals,base_word,A2,accepted,needs_translation,,,,
+147,daily-basics,147,vrouw,base_word,B1,accepted,needs_translation,,,,
+148,daily-basics,148,toe,base_word,A2,accepted,needs_translation,,,,
+149,daily-basics,149,even,base_word,A2,accepted,needs_translation,,,,
+150,daily-basics,150,laat,base_word,A2,accepted,needs_translation,,,,
+151,daily-basics,151,leven,base_word,A2,accepted,needs_translation,,,,
+152,daily-basics,152,omdat,base_word,A2,accepted,needs_translation,,,,
+153,daily-basics,153,hoort,base_word,A2,accepted,needs_translation,,,,
+154,daily-basics,154,nieuwe,base_word,B1,accepted,needs_translation,,,,
+155,daily-basics,155,eerste,base_word,B1,accepted,needs_translation,,,,
+156,daily-basics,156,erg,base_word,A2,accepted,needs_translation,,,,
+157,daily-basics,157,keer,base_word,A2,accepted,needs_translation,,,,
+158,daily-basics,158,geld,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: banking-money,daily-basics"
+159,daily-basics,159,hele,base_word,A2,accepted,needs_translation,,,,
+160,daily-basics,160,jou,base_word,A2,accepted,needs_translation,,,,
+161,daily-basics,161,laten,base_word,A2,accepted,needs_translation,,,,
+162,daily-basics,162,n,base_word,A2,accepted,needs_translation,,,,
+163,daily-basics,163,per,base_word,A2,accepted,needs_translation,,,,
+164,daily-basics,164,drie,base_word,A2,accepted,needs_translation,,,,
+165,daily-basics,165,zelf,base_word,A2,accepted,needs_translation,,,,
+166,daily-basics,166,alles,base_word,A2,accepted,needs_translation,,,,
+167,daily-basics,167,snel,base_word,A2,accepted,needs_translation,,,,
+168,daily-basics,168,grote,base_word,A2,accepted,needs_translation,,,,
+169,daily-basics,169,terug,base_word,A2,accepted,needs_translation,,,,
+170,daily-basics,170,e,base_word,A2,accepted,needs_translation,,,,
+171,daily-basics,171,deel,base_word,A2,accepted,needs_translation,,,,
+172,daily-basics,172,vind,base_word,A2,accepted,needs_translation,,,,
+173,daily-basics,173,d,base_word,A2,accepted,needs_translation,,,,
+174,daily-basics,174,vandaag,base_word,A2,accepted,needs_translation,,,,
+175,daily-basics,175,één,base_word,A2,accepted,needs_translation,,,,
+176,daily-basics,176,eigen,base_word,A2,accepted,needs_translation,,,,
+177,daily-basics,177,ten,base_word,A2,accepted,needs_translation,,,,
+178,daily-basics,178,denk,base_word,A2,accepted,needs_translation,,,,
+179,daily-basics,179,land,base_word,A2,accepted,needs_translation,,,,
+180,daily-basics,180,jullie,base_word,B1,accepted,needs_translation,,,,
+181,daily-basics,181,stad,base_word,A2,accepted,needs_translation,,,,
+182,daily-basics,182,altijd,base_word,B1,accepted,needs_translation,,,,
+183,daily-basics,183,kon,base_word,A2,accepted,needs_translation,,,,
+184,daily-basics,184,eten,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: daily-basics,supermarket-food"
+185,daily-basics,185,o,base_word,A2,accepted,needs_translation,,,,
+186,daily-basics,186,kwam,base_word,A2,accepted,needs_translation,,,,
+187,daily-basics,187,nooit,base_word,A2,accepted,needs_translation,,,,
+188,daily-basics,188,lang,base_word,A2,accepted,needs_translation,,,,
+189,daily-basics,189,i,base_word,A2,accepted,needs_translation,,,,
+190,daily-basics,190,elke,base_word,A2,accepted,needs_translation,,,,
+191,daily-basics,191,geven,base_word,A2,accepted,needs_translation,,,,
+192,daily-basics,192,zei,base_word,A2,accepted,needs_translation,,,,
+193,daily-basics,193,ging,base_word,A2,accepted,needs_translation,,,,
+194,daily-basics,194,gewoon,base_word,B1,accepted,needs_translation,,,,
+195,daily-basics,195,kind,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: daily-basics,school-childcare"
+196,daily-basics,196,ter,base_word,A2,accepted,needs_translation,,,,
+197,daily-basics,197,paar,base_word,A2,accepted,needs_translation,,,,
+198,daily-basics,198,nodig,base_word,A2,accepted,needs_translation,,,,
+199,daily-basics,199,vanaf,base_word,A2,accepted,needs_translation,,,,
+200,daily-basics,200,weten,base_word,A2,accepted,needs_translation,,,,
+201,daily-basics,201,men,base_word,A2,accepted,needs_translation,,,,
+202,daily-basics,202,nou,base_word,A2,accepted,needs_translation,,,,
+203,daily-basics,203,foto,base_word,A2,accepted,needs_translation,,,,
+204,daily-basics,204,kijk,base_word,A2,accepted,needs_translation,,,,
+205,daily-basics,205,b,base_word,A2,accepted,needs_translation,,,,
+206,daily-basics,206,c,base_word,A2,accepted,needs_translation,,,,
+207,daily-basics,207,leuk,base_word,A2,accepted,needs_translation,,,,
+208,daily-basics,208,vaak,base_word,A2,accepted,needs_translation,,,,
+209,daily-basics,209,beter,base_word,A2,accepted,needs_translation,,,,
+210,daily-basics,210,staan,base_word,A2,accepted,needs_translation,,,,
+211,daily-basics,211,water,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: daily-basics,utilities-bills"
+212,daily-basics,212,den,base_word,A2,accepted,needs_translation,,,,
+213,daily-basics,213,mooi,base_word,A2,accepted,needs_translation,,,,
+214,daily-basics,214,zeker,base_word,A2,accepted,needs_translation,,,,
+215,daily-basics,215,hen,base_word,A2,accepted,needs_translation,,,,
+216,daily-basics,216,groot,base_word,B1,accepted,needs_translation,,,,
+217,daily-basics,217,dood,base_word,A2,accepted,needs_translation,,,,
+218,daily-basics,218,iemand,base_word,B1,accepted,needs_translation,,,,
+219,daily-basics,219,pas,base_word,A2,accepted,needs_translation,,,,
+220,daily-basics,220,rond,base_word,A2,accepted,needs_translation,,,,
+221,daily-basics,221,goede,base_word,A2,accepted,needs_translation,,,,
+222,daily-basics,222,oud,base_word,B1,accepted,needs_translation,,,,
+223,daily-basics,223,jouw,base_word,A2,accepted,needs_translation,,,,
+224,daily-basics,224,graag,base_word,A2,accepted,needs_translation,,,,
+225,daily-basics,225,beste,base_word,A2,accepted,needs_translation,,,,
+226,daily-basics,226,niets,base_word,A2,accepted,needs_translation,,,,
+227,daily-basics,227,antwoord,base_word,A2,accepted,needs_translation,,,,
+228,daily-basics,228,school,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: daily-basics,school-childcare"
+229,daily-basics,229,ligt,base_word,A2,accepted,needs_translation,,,,
+230,daily-basics,230,dagen,base_word,A2,accepted,needs_translation,,,,
+231,daily-basics,231,eerst,base_word,A2,accepted,needs_translation,,,,
+232,daily-basics,232,zelfs,base_word,A2,accepted,needs_translation,,,,
+233,daily-basics,233,aantal,base_word,B1,accepted,needs_translation,,,,
+234,daily-basics,234,p,base_word,A2,accepted,needs_translation,,,,
+235,daily-basics,235,nieuw,base_word,B1,accepted,needs_translation,,,,
+236,daily-basics,236,der,base_word,A2,accepted,needs_translation,,,,
+237,daily-basics,237,oude,base_word,A2,accepted,needs_translation,,,,
+238,daily-basics,238,jaren,base_word,A2,accepted,needs_translation,,,,
+239,daily-basics,239,lijkt,base_word,A2,accepted,needs_translation,,,,
+240,daily-basics,240,elkaar,base_word,B1,accepted,needs_translation,,,,
+241,daily-basics,241,x,base_word,A2,accepted,needs_translation,,,,
+242,daily-basics,242,hoop,base_word,A2,accepted,needs_translation,,,,
+243,daily-basics,243,open,base_word,A2,accepted,needs_translation,,,,
+244,daily-basics,244,maand,base_word,B1,accepted,needs_translation,,,,
+245,daily-basics,245,nemen,base_word,A2,accepted,needs_translation,,,,
+246,daily-basics,246,auto,base_word,A2,accepted,needs_translation,,,,
+247,daily-basics,247,soms,base_word,A2,accepted,needs_translation,,,,
+248,daily-basics,248,sinds,base_word,A2,accepted,needs_translation,,,,
+249,daily-basics,249,tv,base_word,A2,accepted,needs_translation,,,,
+250,daily-basics,250,film,base_word,A2,accepted,needs_translation,,,,
+251,daily-basics,251,niks,base_word,A2,accepted,needs_translation,,,,
+252,daily-basics,252,zoek,base_word,A2,accepted,needs_translation,,,,
+253,daily-basics,253,bijna,base_word,A2,accepted,needs_translation,,,,
+254,daily-basics,254,geeft,base_word,A2,accepted,needs_translation,,,,
+255,daily-basics,255,to,base_word,A2,accepted,needs_translation,,,,
+256,daily-basics,256,hou,base_word,A2,accepted,needs_translation,,,,
+257,daily-basics,257,vier,base_word,A2,accepted,needs_translation,,,,
+258,daily-basics,258,vol,base_word,A2,accepted,needs_translation,,,,
+259,daily-basics,259,v,base_word,A2,accepted,needs_translation,,,,
+260,daily-basics,260,verder,base_word,B1,accepted,needs_translation,,,,
+261,daily-basics,261,mei,base_word,A2,accepted,needs_translation,,,,
+262,daily-basics,262,top,base_word,A2,accepted,needs_translation,,,,
+263,daily-basics,263,ooit,base_word,A2,accepted,needs_translation,,,,
+264,daily-basics,264,vast,base_word,A2,accepted,needs_translation,,,,
+265,daily-basics,265,zeer,base_word,A2,accepted,needs_translation,,,,
+266,daily-basics,266,zuid,base_word,A2,accepted,needs_translation,,,,
+267,daily-basics,267,vrij,base_word,A2,accepted,needs_translation,,,,
+268,daily-basics,268,welke,base_word,A2,accepted,needs_translation,,,,
+269,daily-basics,269,km,base_word,A2,accepted,needs_translation,,,,
+270,daily-basics,270,laatste,base_word,B1,accepted,needs_translation,,,,
+271,daily-basics,271,best,base_word,A2,accepted,needs_translation,,,,
+272,daily-basics,272,idee,base_word,A2,accepted,needs_translation,,,,
+273,daily-basics,273,vijf,base_word,A2,accepted,needs_translation,,,,
+274,daily-basics,274,wereld,base_word,B1,accepted,needs_translation,,,,
+275,daily-basics,275,oh,base_word,A2,accepted,needs_translation,,,,
+276,daily-basics,276,zag,base_word,A2,accepted,needs_translation,,,,
+277,daily-basics,277,zet,base_word,A2,accepted,needs_translation,,,,
+278,daily-basics,278,klaar,base_word,A2,accepted,needs_translation,,,,
+279,daily-basics,279,mens,base_word,B1,accepted,needs_translation,,,,
+280,daily-basics,280,kans,base_word,A2,accepted,needs_translation,,,,
+281,daily-basics,281,enige,base_word,A2,accepted,needs_translation,,,,
+282,daily-basics,282,vooral,base_word,B1,accepted,needs_translation,,,,
+283,daily-basics,283,gaf,base_word,A2,accepted,needs_translation,,,,
+284,daily-basics,284,hand,base_word,A2,accepted,needs_translation,,,,
+285,daily-basics,285,groep,base_word,A2,accepted,needs_translation,,,,
+286,daily-basics,286,later,base_word,A2,accepted,needs_translation,,,,
+287,daily-basics,287,maart,base_word,A2,accepted,needs_translation,,,,
+288,daily-basics,288,h,base_word,A2,accepted,needs_translation,,,,
+289,daily-basics,289,zoon,base_word,A2,accepted,needs_translation,,,,
+290,daily-basics,290,thuis,base_word,A2,accepted,needs_translation,,,,
+291,daily-basics,291,achter,base_word,B1,accepted,needs_translation,,,,
+292,daily-basics,292,gedaan,base_word,B1,accepted,needs_translation,,,,
+293,daily-basics,293,elk,base_word,A2,accepted,needs_translation,,,,
+294,daily-basics,294,vond,base_word,A2,accepted,needs_translation,,,,
+295,daily-basics,295,mooie,base_word,A2,accepted,needs_translation,,,,
+296,daily-basics,296,gemaakt,base_word,B1,accepted,needs_translation,,,,
+297,daily-basics,297,boek,base_word,A2,accepted,needs_translation,,,,
+298,daily-basics,298,dank,base_word,A2,accepted,needs_translation,,,,
+299,daily-basics,299,team,base_word,A2,accepted,needs_translation,,,,
+300,daily-basics,300,zes,base_word,A2,accepted,needs_translation,,,,
+301,daily-basics,301,blij,base_word,A2,accepted,needs_translation,,,,
+302,daily-basics,302,rol,base_word,A2,accepted,needs_translation,,,,
+303,daily-basics,303,april,base_word,A2,accepted,needs_translation,,,,
+304,daily-basics,304,video,base_word,A2,accepted,needs_translation,,,,
+305,daily-basics,305,vindt,base_word,A2,accepted,needs_translation,,,,
+306,daily-basics,306,kleine,base_word,B1,accepted,needs_translation,,,,
+307,daily-basics,307,online,base_word,B1,accepted,needs_translation,,,,
+308,daily-basics,308,r,base_word,A2,accepted,needs_translation,,,,
+309,daily-basics,309,la,base_word,A2,accepted,needs_translation,,,,
+310,daily-basics,310,lid,base_word,A2,accepted,needs_translation,,,,
+311,daily-basics,311,zat,base_word,A2,accepted,needs_translation,,,,
+312,daily-basics,312,soort,base_word,A2,accepted,needs_translation,,,,
+313,daily-basics,313,vader,base_word,A2,accepted,needs_translation,,,,
+314,daily-basics,314,moment,base_word,B1,accepted,needs_translation,,,,
+315,daily-basics,315,tweede,base_word,B1,accepted,needs_translation,,,,
+316,daily-basics,316,minder,base_word,B1,accepted,needs_translation,,,,
+317,daily-basics,317,begin,base_word,A2,accepted,needs_translation,,,,
+318,daily-basics,318,moest,base_word,A2,accepted,needs_translation,,,,
+319,daily-basics,319,werkt,base_word,A2,accepted,needs_translation,,,,
+320,daily-basics,320,zodat,base_word,A2,accepted,needs_translation,,,,
+321,daily-basics,321,manier,base_word,B1,accepted,needs_translation,,,,
+322,daily-basics,322,on,base_word,A2,accepted,needs_translation,,,,
+323,daily-basics,323,vele,base_word,A2,accepted,needs_translation,,,,
+324,daily-basics,324,leren,base_word,A2,accepted,needs_translation,,,,
+325,daily-basics,325,regio,base_word,A2,accepted,needs_translation,,,,
+326,daily-basics,326,enkele,base_word,B1,accepted,needs_translation,,,,
+327,daily-basics,327,nummer,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: appointments-phone,daily-basics"
+328,daily-basics,328,g,base_word,A2,accepted,needs_translation,,,,
+329,daily-basics,329,god,base_word,A2,accepted,needs_translation,,,,
+330,daily-basics,330,jan,base_word,A2,accepted,needs_translation,,,,
+331,daily-basics,331,boven,base_word,A2,accepted,needs_translation,,,,
+332,daily-basics,332,l,base_word,A2,accepted,needs_translation,,,,
+333,daily-basics,333,zin,base_word,A2,accepted,needs_translation,,,,
+334,daily-basics,334,meest,base_word,A2,accepted,needs_translation,,,,
+335,daily-basics,335,echter,base_word,B1,accepted,needs_translation,,,,
+336,daily-basics,336,ie,base_word,A2,accepted,needs_translation,,,,
+337,daily-basics,337,no,base_word,A2,accepted,needs_translation,,,,
+338,daily-basics,338,neem,base_word,A2,accepted,needs_translation,,,,
+339,daily-basics,339,orde,base_word,A2,accepted,needs_translation,,,,
+340,daily-basics,340,beetje,base_word,B1,accepted,needs_translation,,,,
+341,daily-basics,341,bekend,base_word,B1,accepted,needs_translation,,,,
+342,daily-basics,342,genoeg,base_word,B1,accepted,needs_translation,,,,
+343,daily-basics,343,klein,base_word,B1,accepted,needs_translation,,,,
+344,daily-basics,344,nam,base_word,A2,accepted,needs_translation,,,,
+345,daily-basics,345,ver,base_word,A2,accepted,needs_translation,,,,
+346,daily-basics,346,deed,base_word,A2,accepted,needs_translation,,,,
+347,daily-basics,347,geef,base_word,A2,accepted,needs_translation,,,,
+348,daily-basics,348,kant,base_word,A2,accepted,needs_translation,,,,
+349,daily-basics,349,zaak,base_word,A2,accepted,needs_translation,,,,
+350,daily-basics,350,ander,base_word,A2,accepted,needs_translation,,,,
+351,housing-renting,1,kamer,base_word,A2,needs_topic_review,needs_translation,,,,"candidate topics: housing-renting,politics-news"
+352,housing-renting,2,adres,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: daily-basics,housing-renting"
+353,housing-renting,3,woning,base_word,B1,accepted,needs_content_review,home,De woning is dichtbij het station.,The home is near the station.,
+354,housing-renting,4,huur,base_word,A2,accepted,needs_content_review,rent,De huur is elke maand hetzelfde.,The rent is the same every month.,
+355,housing-renting,5,borg,base_word,A2,accepted,needs_content_review,deposit,De borg is een maand huur.,The deposit is one month of rent.,
+356,housing-renting,6,badkamer,base_word,B1,needs_topic_review,needs_content_review,bathroom,De badkamer is schoon.,The bathroom is clean.,"candidate topics: housing-renting,politics-news"
+357,housing-renting,7,verhuisd,base_word,B1,accepted,needs_content_review,moved,Ik ben gisteren verhuisd.,I moved yesterday.,
+358,housing-renting,8,makelaar,base_word,B1,accepted,needs_content_review,real estate agent,De makelaar belt morgen.,The real estate agent will call tomorrow.,
+359,housing-renting,9,verhuur,base_word,B1,accepted,needs_content_review,rental,De verhuur begint in juli.,The rental starts in July.,
+360,housing-renting,10,verhuurd,base_word,B1,accepted,needs_content_review,rented,Het appartement is al verhuurd.,The apartment has already been rented.,
+361,housing-renting,11,verhuist,base_word,B1,accepted,needs_content_review,moves,Zij verhuist volgende week.,She moves next week.,
+362,housing-renting,12,kameraad,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: housing-renting,politics-news"
+363,housing-renting,13,bewoning,base_word,B1,accepted,needs_content_review,occupancy,Bewoning is toegestaan vanaf maandag.,Occupancy is allowed from Monday.,
+364,housing-renting,14,kamertje,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: housing-renting,politics-news"
+365,housing-renting,15,eetkamer,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: housing-renting,politics-news"
+366,housing-renting,16,verhuurt,base_word,B1,accepted,needs_content_review,rents out,Hij verhuurt een kamer.,He rents out a room.,
+367,housing-renting,17,verhuurder,base_word,B2,accepted,needs_content_review,landlord,De verhuurder repareert de deur.,The landlord repairs the door.,
+368,supermarket-food,1,winkel,base_word,B1,accepted,needs_content_review,shop,De winkel is open tot acht uur.,The shop is open until eight o'clock.,
+369,supermarket-food,2,vlees,base_word,A2,accepted,needs_content_review,meat,Ik koop vlees voor het avondeten.,I buy meat for dinner.,
+370,supermarket-food,3,brood,base_word,A2,accepted,needs_content_review,bread,Het brood is vers.,The bread is fresh.,
+371,supermarket-food,4,kaas,base_word,A2,accepted,needs_content_review,cheese,Deze kaas is lekker.,This cheese is tasty.,
+372,supermarket-food,5,melk,base_word,A2,accepted,needs_content_review,milk,De melk staat in de koelkast.,The milk is in the fridge.,
+373,supermarket-food,6,fruit,base_word,A2,accepted,needs_content_review,fruit,Ik eet elke dag fruit.,I eat fruit every day.,
+374,supermarket-food,7,drink,base_word,A2,accepted,needs_content_review,drink,Ik drink water bij het eten.,I drink water with the meal.,
+375,supermarket-food,8,appel,base_word,A2,accepted,needs_content_review,apple,Deze appel is rood.,This apple is red.,
+376,supermarket-food,9,drinkt,base_word,B1,accepted,needs_content_review,drinks,Hij drinkt koffie zonder suiker.,He drinks coffee without sugar.,
+377,supermarket-food,10,groente,base_word,B1,accepted,needs_content_review,vegetables,De groente is vers.,The vegetables are fresh.,
+378,supermarket-food,11,broodje,base_word,B1,accepted,needs_content_review,sandwich,Ik neem een broodje kaas.,I will have a cheese sandwich.,
+379,supermarket-food,12,fruitig,base_word,B1,accepted,needs_translation,,,,
+380,supermarket-food,13,appeltje,base_word,B1,accepted,needs_translation,,,,
+381,supermarket-food,14,appelsap,base_word,B1,accepted,needs_content_review,apple juice,Het appelsap staat op tafel.,The apple juice is on the table.,
+382,public-transport,1,reis,base_word,A2,accepted,needs_content_review,trip,De reis duurt een uur.,The trip takes one hour.,
+383,public-transport,2,bus,base_word,A2,accepted,needs_content_review,bus,De bus komt over vijf minuten.,The bus arrives in five minutes.,
+384,public-transport,3,kaart,base_word,A2,accepted,needs_content_review,card or ticket,Ik gebruik mijn kaart in de bus.,I use my card on the bus.,
+385,public-transport,4,trein,base_word,A2,accepted,needs_content_review,train,De trein vertrekt om negen uur.,The train leaves at nine o'clock.,
+386,public-transport,5,station,base_word,B1,accepted,needs_content_review,station,Het station is dichtbij.,The station is nearby.,
+387,public-transport,6,tram,base_word,A2,accepted,needs_content_review,tram,De tram stopt hier.,The tram stops here.,
+388,public-transport,7,kaartje,base_word,B1,accepted,needs_content_review,ticket,Ik koop een kaartje online.,I buy a ticket online.,
+389,public-transport,8,ticket,base_word,B1,accepted,needs_content_review,ticket,Het ticket staat in mijn mail.,The ticket is in my email.,
+390,public-transport,9,halte,base_word,A2,accepted,needs_content_review,stop,De halte is om de hoek.,The stop is around the corner.,
+391,public-transport,10,perron,base_word,B1,accepted,needs_content_review,platform,De trein staat op perron twee.,The train is at platform two.,
+392,public-transport,11,vertraging,base_word,B2,accepted,needs_content_review,delay,De trein heeft vertraging.,The train is delayed.,
+393,public-transport,12,gehalte,base_word,B1,accepted,needs_translation,,,,
+394,public-transport,13,bushalte,base_word,B1,accepted,needs_content_review,bus stop,De bushalte is voor het huis.,The bus stop is in front of the house.,
+395,public-transport,14,simkaart,base_word,B1,accepted,needs_translation,,,,
+396,public-transport,15,treintje,base_word,B1,accepted,needs_translation,,,,
+397,healthcare,1,zorg,base_word,A2,accepted,needs_content_review,care,De zorg is goed geregeld.,The care is well arranged.,
+398,healthcare,2,pijn,base_word,A2,accepted,needs_content_review,pain,Ik heb pijn in mijn rug.,I have pain in my back.,
+399,healthcare,3,ziek,base_word,A2,accepted,needs_content_review,sick,Ik ben vandaag ziek.,I am sick today.,
+400,healthcare,4,arts,base_word,A2,accepted,needs_content_review,doctor,De arts onderzoekt mij.,The doctor examines me.,
+401,healthcare,5,klacht,base_word,B1,accepted,needs_content_review,complaint or symptom,Welke klacht heeft u.,What symptom do you have.,
+402,healthcare,6,spoedig,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: emergencies,healthcare"
+403,healthcare,7,spoed,base_word,A2,needs_topic_review,needs_content_review,urgent care,Dit is spoed.,This is urgent.,"candidate topics: emergencies,healthcare"
+404,healthcare,8,medicijn,base_word,B1,accepted,needs_content_review,medicine,Ik neem het medicijn na het eten.,I take the medicine after eating.,
+405,healthcare,9,apotheek,base_word,B1,accepted,needs_content_review,pharmacy,De apotheek is vandaag open.,The pharmacy is open today.,
+406,healthcare,10,verzekering,base_word,B2,accepted,needs_content_review,insurance,Mijn verzekering betaalt een deel.,My insurance pays a part.,
+407,healthcare,11,medici,base_word,B1,accepted,needs_content_review,medical professionals,De medici overleggen met elkaar.,The medical professionals consult each other.,
+408,government-municipality,1,gemeente,base_word,B1,accepted,needs_content_review,municipality,Ik ga morgen naar de gemeente.,I am going to the municipality tomorrow.,
+409,government-municipality,2,melding,base_word,B1,accepted,needs_content_review,report,Ik maak een melding online.,I make a report online.,
+410,government-municipality,3,bewijst,base_word,B1,accepted,needs_content_review,proves,Dit document bewijst mijn adres.,This document proves my address.,
+411,government-municipality,4,aanvraag,base_word,B1,accepted,needs_content_review,application,De aanvraag is ontvangen.,The application has been received.,
+412,government-municipality,5,belasting,base_word,B2,accepted,needs_content_review,tax,Ik betaal belasting in Nederland.,I pay tax in the Netherlands.,
+413,government-municipality,6,vergunning,base_word,B2,accepted,needs_content_review,permit,Voor dit werk heb je een vergunning nodig.,You need a permit for this work.,
+414,government-municipality,7,loket,base_word,A2,accepted,needs_content_review,counter,Het loket is open tot vier uur.,The counter is open until four o'clock.,
+415,government-municipality,8,formulier,base_word,B2,accepted,needs_content_review,form,Vul het formulier in.,Fill in the form.,
+416,immigration-documents,1,verblijf,base_word,B1,accepted,needs_translation,,,,
+417,immigration-documents,2,paspoort,base_word,B1,accepted,needs_translation,,,,
+418,immigration-documents,3,document,base_word,B1,accepted,needs_translation,,,,
+419,immigration-documents,4,visum,base_word,A2,accepted,needs_translation,,,,
+420,immigration-documents,5,inschrijving,base_word,B2,accepted,needs_translation,,,,
+421,work-office,1,baan,base_word,A2,accepted,needs_translation,,,,
+422,work-office,2,dienst,base_word,B1,accepted,needs_translation,,,,
+423,work-office,3,kantoor,base_word,B1,accepted,needs_translation,,,,
+424,work-office,4,collega,base_word,B1,accepted,needs_translation,,,,
+425,work-office,5,contract,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: legal-contracts,work-office"
+426,work-office,6,rooster,base_word,B1,accepted,needs_translation,,,,
+427,work-office,7,dienste,base_word,B1,accepted,needs_translation,,,,
+428,banking-money,1,prijs,base_word,A2,accepted,needs_content_review,price,De prijs is duidelijk.,The price is clear.,
+429,banking-money,2,bank,base_word,A2,accepted,needs_content_review,bank,De bank is vandaag gesloten.,The bank is closed today.,
+430,banking-money,3,rekening,base_word,B1,needs_topic_review,needs_content_review,bill or account,De rekening komt per mail.,The bill comes by email.,"candidate topics: banking-money,utilities-bills"
+431,banking-money,4,budget,base_word,B1,accepted,needs_content_review,budget,Mijn budget is beperkt.,My budget is limited.,
+432,banking-money,5,pin,base_word,A2,accepted,needs_content_review,debit card payment,Ik betaal met pin.,I pay by debit card.,
+433,banking-money,6,betaling,base_word,B1,accepted,needs_content_review,payment,De betaling is gelukt.,The payment was successful.,
+434,banking-money,7,saldo,base_word,A2,accepted,needs_content_review,balance,Het saldo is laag.,The balance is low.,
+435,banking-money,8,factuur,base_word,B1,needs_topic_review,needs_content_review,invoice,De factuur staat in mijn account.,The invoice is in my account.,"candidate topics: banking-money,utilities-bills"
+436,banking-money,9,prijst,base_word,B1,accepted,needs_translation,,,,
+437,banking-money,10,prijsje,base_word,B1,accepted,needs_content_review,small price,Dat is een mooi prijsje.,That is a nice small price.,
+438,social-life,1,samen,base_word,A2,accepted,needs_content_review,together,We eten samen thuis.,We eat together at home.,
+439,social-life,2,familie,base_word,B1,accepted,needs_content_review,family,Mijn familie woont dichtbij.,My family lives nearby.,
+440,social-life,3,club,base_word,A2,accepted,needs_content_review,club,Ik ben lid van een club.,I am a member of a club.,
+441,social-life,4,vriend,base_word,B1,accepted,needs_content_review,friend,Mijn vriend komt vanavond.,My friend is coming tonight.,
+442,social-life,5,feest,base_word,A2,accepted,needs_content_review,party,Het feest begint om acht uur.,The party starts at eight o'clock.,
+443,social-life,6,vriendin,base_word,B1,accepted,needs_content_review,girlfriend or female friend,Mijn vriendin helpt mij.,My girlfriend helps me.,
+444,social-life,7,afspraak,base_word,B1,needs_topic_review,needs_content_review,appointment,Ik heb morgen een afspraak.,I have an appointment tomorrow.,"candidate topics: appointments-phone,social-life"
+445,social-life,8,feestje,base_word,B1,accepted,needs_content_review,small party,Het feestje is zaterdag.,The small party is on Saturday.,
+446,social-life,9,hobby,base_word,A2,accepted,needs_content_review,hobby,Mijn hobby is koken.,My hobby is cooking.,
+447,social-life,10,vriendje,base_word,B1,accepted,needs_content_review,boyfriend or little friend,Haar vriendje komt ook.,Her boyfriend is coming too.,
+448,social-life,11,bevriend,base_word,B1,accepted,needs_content_review,friends,Wij zijn al lang bevriend.,We have been friends for a long time.,
+449,social-life,12,feestdag,base_word,B1,accepted,needs_content_review,holiday,Vandaag is een feestdag.,Today is a holiday.,
+450,social-life,13,gefeest,base_word,B1,accepted,needs_translation,,,,
+451,weather-small-talk,1,weer,base_word,A2,accepted,needs_content_review,weather,Het weer is vandaag mooi.,The weather is nice today.,
+452,weather-small-talk,2,zon,base_word,A2,accepted,needs_content_review,sun,De zon schijnt.,The sun is shining.,
+453,weather-small-talk,3,warm,base_word,A2,accepted,needs_content_review,warm,Het is warm buiten.,It is warm outside.,
+454,weather-small-talk,4,wind,base_word,A2,accepted,needs_content_review,wind,Er is veel wind vandaag.,There is a lot of wind today.,
+455,weather-small-talk,5,koud,base_word,A2,accepted,needs_content_review,cold,Het is koud in de ochtend.,It is cold in the morning.,
+456,weather-small-talk,6,regen,base_word,A2,accepted,needs_content_review,rain,De regen stopt straks.,The rain will stop soon.,
+457,weather-small-talk,7,mist,base_word,A2,accepted,needs_content_review,fog,Door de mist zie ik weinig.,Because of the fog I cannot see much.,
+458,weather-small-talk,8,sneeuw,base_word,B1,accepted,needs_content_review,snow,Er ligt sneeuw op straat.,There is snow on the street.,
+459,weather-small-talk,9,regent,base_word,B1,accepted,needs_content_review,rains,Het regent de hele dag.,It rains all day.,
+460,weather-small-talk,10,regenval,base_word,B1,accepted,needs_content_review,rainfall,De regenval is deze week hoog.,The rainfall is high this week.,
+461,weather-small-talk,11,regenbui,base_word,B1,accepted,needs_content_review,rain shower,Er komt een regenbui aan.,A rain shower is coming.,
+462,weather-small-talk,12,sneeuwt,base_word,B1,accepted,needs_content_review,snows,Het sneeuwt in de avond.,It snows in the evening.,
+463,weather-small-talk,13,geregend,base_word,B1,accepted,needs_content_review,rained,Het heeft vannacht geregend.,It rained last night.,
+464,home-repair,1,verf,base_word,A2,accepted,needs_translation,,,,
+465,home-repair,2,onderhoud,base_word,B2,accepted,needs_translation,,,,
+466,home-repair,3,kraan,base_word,A2,accepted,needs_translation,,,,
+467,home-repair,4,monteur,base_word,B1,accepted,needs_translation,,,,
+468,home-repair,5,schroef,base_word,B1,accepted,needs_translation,,,,
+469,home-repair,6,reparatie,base_word,B2,accepted,needs_translation,,,,
+470,home-repair,7,lekkage,base_word,B1,accepted,needs_translation,,,,
+471,home-repair,8,stopcontact,base_word,B2,accepted,needs_translation,,,,
+472,emergencies,1,hulp,base_word,A2,accepted,needs_content_review,help,Ik heb hulp nodig.,I need help.,
+473,emergencies,2,politie,base_word,B1,accepted,needs_content_review,police,De politie komt snel.,The police come quickly.,
+474,emergencies,3,veilig,base_word,B1,accepted,needs_content_review,safe,Deze straat is veilig.,This street is safe.,
+475,emergencies,4,brand,base_word,A2,accepted,needs_content_review,fire,Er is brand in de keuken.,There is a fire in the kitchen.,
+476,emergencies,5,politiek,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: emergencies,politics-news"
+477,emergencies,6,gevaar,base_word,B1,accepted,needs_content_review,danger,Er is geen gevaar meer.,There is no danger anymore.,
+478,emergencies,7,nood,base_word,A2,accepted,needs_content_review,emergency,In nood bel je 112.,In an emergency you call 112.,
+479,emergencies,8,veilige,base_word,B1,accepted,needs_content_review,safe,We zoeken een veilige plek.,We are looking for a safe place.,
+480,emergencies,9,ongeval,base_word,B1,accepted,needs_content_review,accident,Er is een ongeval op de weg.,There is an accident on the road.,
+481,emergencies,10,verbrand,base_word,B1,accepted,needs_content_review,burned,Mijn hand is verbrand.,My hand is burned.,
+482,emergencies,11,brandt,base_word,B1,accepted,needs_content_review,burns,Het lampje brandt rood.,The little light burns red.,
+483,emergencies,12,veiliger,base_word,B1,accepted,needs_content_review,safer,Deze route is veiliger.,This route is safer.,
+484,emergencies,13,onveilig,base_word,B1,accepted,needs_content_review,unsafe,Deze plek voelt onveilig.,This place feels unsafe.,
+485,emergencies,14,branding,base_word,B1,accepted,needs_translation,,,,
+486,emergencies,15,gebrand,base_word,B1,accepted,needs_translation,,,,
+487,emergencies,16,brandde,base_word,B1,accepted,needs_translation,,,,
+488,emergencies,17,brandend,base_word,B1,accepted,needs_translation,,,,
+489,emergencies,18,bosbrand,base_word,B1,accepted,needs_content_review,forest fire,De bosbrand is onder controle.,The forest fire is under control.,
+490,emergencies,19,brander,base_word,B1,accepted,needs_translation,,,,
+491,school-childcare,1,les,base_word,A2,accepted,needs_translation,,,,
+492,school-childcare,2,klas,base_word,A2,accepted,needs_translation,,,,
+493,school-childcare,3,ouder,base_word,A2,accepted,needs_translation,,,,
+494,school-childcare,4,oudere,base_word,B1,accepted,needs_translation,,,,
+495,school-childcare,5,leraar,base_word,B1,accepted,needs_translation,,,,
+496,school-childcare,6,opvang,base_word,B1,accepted,needs_translation,,,,
+497,school-childcare,7,huiswerk,base_word,B1,accepted,needs_translation,,,,
+498,school-childcare,8,schouder,base_word,B1,accepted,needs_translation,,,,
+499,school-childcare,9,houder,base_word,B1,accepted,needs_translation,,,,
+500,school-childcare,10,kouder,base_word,B1,accepted,needs_translation,,,,
+501,school-childcare,11,ouderdom,base_word,B1,accepted,needs_translation,,,,
+502,politics-news,1,wet,base_word,A2,accepted,needs_translation,,,,
+503,politics-news,2,partij,base_word,B1,accepted,needs_translation,,,,
+504,politics-news,3,minister,base_word,B1,accepted,needs_translation,,,,
+505,politics-news,4,regering,base_word,B1,accepted,needs_translation,,,,
+506,politics-news,5,nieuwste,base_word,B1,accepted,needs_translation,,,,
+507,engineering-technical,1,druk,base_word,A2,accepted,needs_translation,,,,
+508,engineering-technical,2,meter,base_word,A2,needs_topic_review,needs_translation,,,,"candidate topics: engineering-technical,utilities-bills"
+509,engineering-technical,3,systeem,base_word,B1,accepted,needs_translation,,,,
+510,engineering-technical,4,motor,base_word,A2,accepted,needs_translation,,,,
+511,engineering-technical,5,machine,base_word,B1,accepted,needs_translation,,,,
+512,engineering-technical,6,techniek,base_word,B1,accepted,needs_translation,,,,
+513,engineering-technical,7,diameter,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: engineering-technical,utilities-bills"
+514,engineering-technical,8,techno,base_word,B1,accepted,needs_translation,,,,
+515,engineering-technical,9,technici,base_word,B1,accepted,needs_translation,,,,
+516,engineering-technical,10,motorkap,base_word,B1,accepted,needs_translation,,,,
+517,engineering-technical,11,promotor,base_word,B1,accepted,needs_translation,,,,
+518,software-it,1,app,base_word,A2,accepted,needs_translation,,,,
+519,software-it,2,internet,base_word,B1,needs_topic_review,needs_translation,,,,"candidate topics: software-it,utilities-bills"
+520,software-it,3,data,base_word,A2,accepted,needs_translation,,,,
+521,software-it,4,computer,base_word,B1,accepted,needs_translation,,,,
+522,software-it,5,software,base_word,B1,accepted,needs_translation,,,,
+523,software-it,6,server,base_word,B1,accepted,needs_translation,,,,
+524,software-it,7,bestand,base_word,B1,accepted,needs_translation,,,,
+525,legal-contracts,1,recht,base_word,A2,accepted,needs_translation,,,,
+526,legal-contracts,2,terecht,base_word,B1,accepted,needs_translation,,,,
+527,legal-contracts,3,rechter,base_word,B1,accepted,needs_translation,,,,
+528,legal-contracts,4,advocaat,base_word,B1,accepted,needs_translation,,,,
+529,legal-contracts,5,plicht,base_word,B1,accepted,needs_translation,,,,
+530,legal-contracts,6,bezwaar,base_word,B1,accepted,needs_translation,,,,
+531,legal-contracts,7,gerecht,base_word,B1,accepted,needs_translation,,,,
+532,legal-contracts,8,rechte,base_word,B1,accepted,needs_translation,,,,
+533,legal-contracts,9,oprecht,base_word,B1,accepted,needs_translation,,,,
+534,legal-contracts,10,rechtse,base_word,B1,accepted,needs_translation,,,,
+535,legal-contracts,11,onrecht,base_word,B1,accepted,needs_translation,,,,
+536,legal-contracts,12,onrechte,base_word,B1,accepted,needs_translation,,,,
+537,legal-contracts,13,oprechte,base_word,B1,accepted,needs_translation,,,,
+538,legal-contracts,14,rechtop,base_word,B1,accepted,needs_translation,,,,
+539,legal-contracts,15,berecht,base_word,B1,accepted,needs_translation,,,,
+540,legal-contracts,16,rechtsaf,base_word,B1,accepted,needs_translation,,,,
+541,legal-contracts,17,clausule,base_word,B1,accepted,needs_translation,,,,
+542,legal-contracts,18,terechte,base_word,B1,accepted,needs_translation,,,,
+543,legal-contracts,19,aanrecht,base_word,B1,accepted,needs_translation,,,,
+544,legal-contracts,20,rechtsom,base_word,B1,accepted,needs_translation,,,,
+545,utilities-bills,1,energie,base_word,B1,accepted,needs_content_review,energy,Ik betaal voor energie per maand.,I pay for energy each month.,
+546,utilities-bills,2,gas,base_word,A2,accepted,needs_content_review,gas,Wij gebruiken gas voor koken.,We use gas for cooking.,
+547,utilities-bills,3,stroom,base_word,B1,accepted,needs_content_review,electricity,De stroom is uitgevallen.,The electricity has gone out.,
+548,utilities-bills,4,stroomt,base_word,B1,accepted,needs_translation,,,,
+549,utilities-bills,5,waterval,base_word,B1,accepted,needs_translation,,,,
+550,utilities-bills,6,energiek,base_word,B1,accepted,needs_translation,,,,
+551,utilities-bills,7,instroom,base_word,B1,accepted,needs_translation,,,,
+552,utilities-bills,8,stroomde,base_word,B1,accepted,needs_translation,,,,
+553,utilities-bills,9,waterloo,base_word,B1,accepted,needs_translation,,,,
+554,utilities-bills,10,waterweg,base_word,B1,accepted,needs_translation,,,,
+555,appointments-phone,1,bel,base_word,A2,accepted,needs_content_review,call,Ik bel de huisarts.,I call the doctor.,
+556,appointments-phone,2,mail,base_word,A2,accepted,needs_content_review,email,Ik stuur een mail naar de gemeente.,I send an email to the municipality.,
+557,appointments-phone,3,bericht,base_word,B1,accepted,needs_content_review,message,Ik heb een bericht gekregen.,I received a message.,
+558,appointments-phone,4,telefoon,base_word,B1,accepted,needs_content_review,telephone,Mijn telefoon is leeg.,My phone battery is empty.,
+559,appointments-phone,5,planning,base_word,B1,accepted,needs_content_review,schedule,De planning staat online.,The schedule is online.,
+560,appointments-phone,6,bevestig,base_word,B1,accepted,needs_content_review,confirm,Ik bevestig de afspraak per mail.,I confirm the appointment by email.,
+561,,0,allemaal,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+562,,0,echte,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+563,,0,kreeg,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+564,,0,naast,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+565,,0,euro,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+566,,0,valt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+567,,0,hoofd,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+568,,0,zowel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+569,,0,krijgt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+570,,0,bed,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+571,,0,gek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+572,,0,los,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+573,,0,juli,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+574,,0,lees,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+575,,0,ogen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+576,,0,stuk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+577,,0,gehad,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+578,,0,vroeg,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+579,,0,blijft,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+580,,0,mis,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+581,,0,juni,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+582,,0,plek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+583,,0,wist,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+584,,0,houdt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+585,,0,lopen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+586,,0,mogen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+587,,0,waarin,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+588,,0,website,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+589,,0,vorm,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+590,,0,word,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+591,,0,geval,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+592,,0,vanuit,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+593,,0,ken,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+594,,0,hoge,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+595,,0,halen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+596,,0,lange,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+597,,0,lezen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+598,,0,weken,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+599,,0,zaken,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+600,,0,kop,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+601,,0,doel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+602,,0,hart,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+603,,0,heen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+604,,0,tien,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+605,,0,bezig,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+606,,0,langs,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+607,,0,gebied,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+608,,0,zee,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+609,,0,rest,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+610,,0,krijg,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+611,,0,nadat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+612,,0,daarom,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+613,,0,moeder,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+614,,0,geweest,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+615,,0,gebruikt,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+616,,0,weinig,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+617,,0,bang,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+618,,0,plan,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+619,,0,delen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+620,,0,noord,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+621,,0,wilde,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+622,,0,helemaal,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+623,,0,http,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+624,,0,begon,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+625,,0,einde,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+626,,0,stond,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+627,,0,eerder,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+628,,0,gebruik,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+629,,0,kort,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+630,,0,eind,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+631,,0,hard,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+632,,0,juist,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+633,,0,reden,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+634,,0,meisje,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+635,,0,muziek,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+636,,0,slecht,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+637,,0,mm,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+638,,0,site,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+639,,0,stap,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+640,,0,jonge,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+641,,0,media,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+642,,0,daarna,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+643,,0,stem,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+644,,0,beide,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+645,,0,dacht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+646,,0,lekker,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+647,,0,terwijl,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+648,,0,j,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+649,,0,k,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+650,,0,up,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+651,,0,erop,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+652,,0,kent,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+653,,0,rode,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+654,,0,spel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+655,,0,leden,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+656,,0,gelijk,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+657,,0,f,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+658,,0,ene,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+659,,0,wit,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+660,,0,ervan,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+661,,0,woord,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+662,,0,zoveel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+663,,0,val,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+664,,0,link,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+665,,0,punt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+666,,0,buurt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+667,,0,kopen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+668,,0,neemt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+669,,0,fijn,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+670,,0,liet,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+671,,0,voel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+672,,0,avond,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+673,,0,denkt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+674,,0,ieder,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+675,,0,artikel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+676,,0,w,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+677,,0,ex,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+678,,0,live,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+679,,0,actie,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+680,,0,dorp,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+681,,0,leuke,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+682,,0,loopt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+683,,0,oorlog,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+684,,0,niemand,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+685,,0,oktober,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+686,,0,verhaal,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+687,,0,raad,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+688,,0,stel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+689,,0,alsof,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+690,,0,basis,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+691,,0,derde,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+692,,0,enkel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+693,,0,maakte,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+694,,0,meeste,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+695,,0,let,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+696,,0,acht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+697,,0,half,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+698,,0,ruim,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+699,,0,rust,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+700,,0,extra,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+701,,0,grond,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+702,,0,opnieuw,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+703,,0,mogelijk,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+704,,0,hoog,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+705,,0,doden,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+706,,0,korte,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+707,,0,links,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+708,,0,bestaat,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+709,,0,waarbij,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+710,,0,el,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+711,,0,kerk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+712,,0,taal,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+713,,0,west,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+714,,0,kleur,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+715,,0,wonen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+716,,0,gevoel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+717,,0,rij,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+718,,0,bron,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+719,,0,feit,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+720,,0,heet,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+721,,0,beeld,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+722,,0,leger,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+723,,0,lijst,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+724,,0,hoi,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+725,,0,blog,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+726,,0,heer,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+727,,0,jong,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+728,,0,slag,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+729,,0,blijf,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+730,,0,sterk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+731,,0,oog,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+732,,0,sta,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+733,,0,haag,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+734,,0,snap,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+735,,0,licht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+736,,0,sommige,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+737,,0,probleem,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+738,,0,fout,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+739,,0,hoeft,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+740,,0,prima,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+741,,0,volgt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+742,,0,liefde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+743,,0,he,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+744,,0,haat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+745,,0,park,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+746,,0,nacht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+747,,0,trots,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+748,,0,vrije,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+749,,0,januari,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+750,,0,st,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+751,,0,lag,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+752,,0,max,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+753,,0,rug,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+754,,0,loop,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+755,,0,stop,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+756,,0,broer,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+757,,0,namen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+758,,0,titel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+759,,0,ongeveer,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+760,,0,cm,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+761,,0,band,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+762,,0,eeuw,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+763,,0,hond,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+764,,0,wees,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+765,,0,begint,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+766,,0,direct,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+767,,0,gezegd,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+768,,0,jarige,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+769,,0,bedankt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+770,,0,z,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+771,,0,bos,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+772,,0,deur,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+773,,0,viel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+774,,0,mocht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+775,,0,serie,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+776,,0,start,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+777,,0,geloof,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+778,,0,overal,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+779,,0,lijn,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+780,,0,seks,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+781,,0,welk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+782,,0,dicht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+783,,0,tekst,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+784,,0,witte,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+785,,0,ervoor,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+786,,0,grootste,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+787,,0,november,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+788,,0,post,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+789,,0,helft,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+790,,0,helpt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+791,,0,klopt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+792,,0,sorry,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+793,,0,voelt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+794,,0,zeven,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+795,,0,speelt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+796,,0,welkom,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+797,,0,vanwege,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+798,,0,last,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+799,,0,name,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+800,,0,vlak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+801,,0,volk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+802,,0,hoewel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+803,,0,iedere,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+804,,0,langer,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+805,,0,vorige,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+806,,0,waarop,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+807,,0,voordat,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+808,,0,as,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+809,,0,wou,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+810,,0,zus,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+811,,0,boos,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+812,,0,houd,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+813,,0,kost,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+814,,0,stil,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+815,,0,gezet,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+816,,0,radio,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+817,,0,bezoek,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+818,,0,jezelf,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+819,,0,zwarte,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+820,,0,at,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+821,,0,dak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+822,,0,baby,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+823,,0,keuze,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+824,,0,totaal,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+825,,0,bedrijf,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+826,,0,lichaam,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+827,,0,gang,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+828,,0,mond,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+829,,0,wijk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+830,,0,hotel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+831,,0,markt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+832,,0,zomer,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+833,,0,zwart,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+834,,0,dochter,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+835,,0,persoon,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+836,,0,betekent,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+837,,0,december,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+838,,0,dezelfde,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+839,,0,eet,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+840,,0,pro,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+841,,0,red,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+842,,0,bouw,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+843,,0,lucht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+844,,0,eiland,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+845,,0,contact,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+846,,0,moeilijk,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+847,,0,help,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+848,,0,mama,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+849,,0,eraan,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+850,,0,kunst,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+851,,0,moord,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+852,,0,sport,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+853,,0,stelt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+854,,0,actief,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+855,,0,koning,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+856,,0,straat,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+857,,0,vraagt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+858,,0,min,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+859,,0,ding,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+860,,0,liep,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+861,,0,rijk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+862,,0,show,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+863,,0,type,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+864,,0,dames,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+865,,0,geluk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+866,,0,macht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+867,,0,super,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+868,,0,waard,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+869,,0,belang,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+870,,0,huidige,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+871,,0,mA,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+872,,0,ma,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+873,,0,bal,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+874,,0,des,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+875,,0,pak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+876,,0,koop,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+877,,0,oost,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+878,,0,aarde,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+879,,0,wacht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+880,,0,brengt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+881,,0,centrum,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+882,,0,y,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+883,,0,et,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+884,,0,rood,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+885,,0,erbij,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+886,,0,films,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+887,,0,stand,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+888,,0,vorig,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+889,,0,blijkt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+890,,0,hoogte,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+891,,0,versie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+892,,0,wakker,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+893,,0,genoemd,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+894,,0,project,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+895,,0,waarvan,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+896,,0,cc,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+897,,0,erin,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+898,,0,goud,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+899,,0,leek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+900,,0,muur,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+901,,0,bevat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+902,,0,peter,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+903,,0,ronde,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+904,,0,zoekt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+905,,0,gegaan,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+906,,0,bestaan,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+907,,0,hoeveel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+908,,0,facebook,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+909,,0,gezin,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+910,,0,hoger,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+911,,0,kwijt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+912,,0,stuur,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+913,,0,gebouw,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+914,,0,juiste,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+915,,0,kracht,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+916,,0,pagina,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+917,,0,ruimte,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+918,,0,zondag,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+919,,0,daarmee,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+920,,0,waardoor,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+921,,0,all,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+922,,0,bad,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+923,,0,vuur,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+924,,0,bleef,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+925,,0,jeugd,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+926,,0,schip,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+927,,0,geheel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+928,,0,liever,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+929,,0,gebeurt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+930,,0,waarmee,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+931,,0,cd,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+932,,0,pad,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+933,,0,won,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+934,,0,maat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+935,,0,volg,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+936,,0,enorm,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+937,,0,kijkt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+938,,0,praat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+939,,0,zwaar,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+940,,0,zware,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+941,,0,gevolg,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+942,,0,aandacht,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+943,,0,oma,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+944,,0,ton,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+945,,0,neer,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+946,,0,sint,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+947,,0,tips,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+948,,0,biedt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+949,,0,brief,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+950,,0,hield,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+951,,0,hopen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+952,,0,februari,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+953,,0,gelukkig,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+954,,0,arm,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+955,,0,dom,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+956,,0,mede,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+957,,0,steun,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+958,,0,rustig,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+959,,0,diverse,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+960,,0,sociale,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+961,,0,voorbij,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+962,,0,bv,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+963,,0,do,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+964,,0,art,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+965,,0,vis,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+966,,0,hoef,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+967,,0,hoek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+968,,0,laag,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+969,,0,uren,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+970,,0,eruit,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+971,,0,lokale,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+972,,0,meestal,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+973,,0,leeftijd,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+974,,0,toekomst,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+975,,0,hè,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+976,,0,las,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+977,,0,brug,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+978,,0,diep,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+979,,0,kamp,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+980,,0,lage,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+981,,0,lief,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+982,,0,tuin,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+983,,0,lieve,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+984,,0,slaan,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+985,,0,zover,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+986,,0,strijd,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+987,,0,normaal,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+988,,0,big,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+989,,0,moe,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+990,,0,out,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+991,,0,code,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+992,,0,leer,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+993,,0,meid,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+994,,0,veld,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+995,,0,allen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+996,,0,frank,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+997,,0,woont,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+998,,0,zorgt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+999,,0,bekijk,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1000,,0,koffie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1001,,0,moeite,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1002,,0,periode,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1003,,0,schreef,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1004,,0,én,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1005,,0,go,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1006,,0,hof,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1007,,0,boom,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1008,,0,lukt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1009,,0,vlag,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1010,,0,voet,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1011,,0,wens,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1012,,0,bleek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1013,,0,betere,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1014,,0,gewone,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1015,,0,co,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1016,,0,leg,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1017,,0,lul,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1018,,0,tas,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1019,,0,city,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1020,,0,kust,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1021,,0,legt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1022,,0,wijn,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1023,,0,duurt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1024,,0,grens,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1025,,0,islam,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1026,,0,vaker,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1027,,0,wapen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1028,,0,mezelf,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1029,,0,bob,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1030,,0,mark,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1031,,0,angst,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1032,,0,leeft,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1033,,0,tafel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1034,,0,wijze,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1035,,0,bracht,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1036,,0,schuld,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1037,,0,relatie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1038,,0,slechte,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1039,,0,vrijdag,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1040,,0,zak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1041,,0,baas,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1042,,0,duur,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1043,,0,groen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1044,,0,hallo,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1045,,0,model,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1046,,0,zodra,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1047,,0,mening,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1048,,0,niveau,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1049,,0,reactie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1050,,0,geweldig,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1051,,0,omgeving,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1052,,0,vanavond,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1053,,0,ha,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1054,,0,bar,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1055,,0,dik,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1056,,0,eer,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1057,,0,kat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1058,,0,past,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1059,,0,thee,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1060,,0,halve,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1061,,0,dankzij,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1062,,0,vroeger,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1063,,0,non,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1064,,0,anti,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1065,,0,boot,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1066,,0,gast,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1067,,0,merk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1068,,0,olie,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1069,,0,test,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1070,,0,dikke,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1071,,0,heren,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1072,,0,keren,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1073,,0,museum,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1074,,0,schade,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1075,,0,gezicht,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1076,,0,kg,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1077,,0,berg,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1078,,0,bier,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1079,,0,dame,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1080,,0,haal,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1081,,0,raar,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1082,,0,ware,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1083,,0,wint,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1084,,0,deden,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1085,,0,noemt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1086,,0,reeds,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1087,,0,teken,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1088,,0,zomaar,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1089,,0,gehoord,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1090,,0,plezier,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1091,,0,war,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1092,,0,gent,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1093,,0,leeg,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1094,,0,stof,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1095,,0,time,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1096,,0,erger,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1097,,0,gaten,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1098,,0,geldt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1099,,0,leidt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1100,,0,stijl,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1101,,0,vaste,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1102,,0,zulke,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1103,,0,middel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1104,,0,cultuur,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1105,,0,daarvan,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1106,,0,eerlijk,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1107,,0,dj,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1108,,0,pc,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1109,,0,cel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1110,,0,kim,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1111,,0,kut,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1112,,0,pers,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1113,,0,zult,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1114,,0,bezit,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1115,,0,eisen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1116,,0,fiets,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1117,,0,krant,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1118,,0,nogal,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1119,,0,slaap,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1120,,0,sluit,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1121,,0,toont,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1122,,0,beleid,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1123,,0,groter,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1124,,0,gesprek,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1125,,0,publiek,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1126,,0,voetbal,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1127,,0,aanwezig,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1128,,0,verwacht,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1129,,0,lot,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1130,,0,qua,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1131,,0,rio,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1132,,0,date,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1133,,0,glas,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1134,,0,golf,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1135,,0,slim,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1136,,0,tour,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1137,,0,woon,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1138,,0,album,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1139,,0,aldus,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1140,,0,harde,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1141,,0,negen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1142,,0,vrede,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1143,,0,enorme,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1144,,0,gedrag,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1145,,0,groene,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1146,,0,klinkt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1147,,0,werkte,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1148,,0,behalve,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1149,,0,invloed,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1150,,0,meerdere,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1151,,0,prachtig,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1152,,0,zaterdag,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1153,,0,ad,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1154,,0,ah,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1155,,0,hans,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1156,,0,keek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1157,,0,taak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1158,,0,unie,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1159,,0,ermee,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1160,,0,waarde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1161,,0,procent,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1162,,0,richting,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1163,,0,volledig,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1164,,0,q,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1165,,0,cup,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1166,,0,arme,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1167,,0,game,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1168,,0,mate,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1169,,0,neus,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1170,,0,paus,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1171,,0,shit,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1172,,0,slot,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1173,,0,trap,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1174,,0,fijne,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1175,,0,geest,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1176,,0,jammer,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1177,,0,natuur,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1178,,0,bepaalde,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1179,,0,sexy,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1180,,0,blauw,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1181,,0,hangt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1182,,0,inzet,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1183,,0,raken,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1184,,0,spijt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1185,,0,storm,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1186,,0,tonen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1187,,0,rivier,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1188,,0,gebeurd,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1189,,0,heerlijk,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1190,,0,ms,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1191,,0,pa,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1192,,0,bak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1193,,0,dode,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1194,,0,jack,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1195,,0,kont,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1196,,0,ring,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1197,,0,bloed,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1198,,0,droom,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1199,,0,volle,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1200,,0,vormt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1201,,0,aanval,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1202,,0,bedoel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1203,,0,bureau,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1204,,0,camera,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1205,,0,doordat,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1206,,0,centraal,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1207,,0,gebracht,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1208,,0,overheid,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1209,,0,hé,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1210,,0,gat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1211,,0,jas,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1212,,0,set,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1213,,0,tip,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1214,,0,gele,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1215,,0,grap,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1216,,0,held,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1217,,0,homo,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1218,,0,race,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1219,,0,goeie,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1220,,0,haalt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1221,,0,finale,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1222,,0,hoorde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1223,,0,inhoud,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1224,,0,risico,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1225,,0,sterke,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1226,,0,situatie,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1227,,0,ach,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1228,,0,hot,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1229,,0,lol,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1230,,0,pop,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1231,,0,vak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1232,,0,fans,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1233,,0,home,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1234,,0,info,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1235,,0,kies,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1236,,0,miss,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1237,,0,plus,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1238,,0,kapot,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1239,,0,onzin,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1240,,0,schat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1241,,0,zagen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1242,,0,draagt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1243,,0,geniet,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1244,,0,indruk,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1245,,0,lastig,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1246,,0,vlucht,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1247,,0,zolang,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1248,,0,afstand,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1249,,0,betreft,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1250,,0,functie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1251,,0,perfect,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1252,,0,respect,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1253,,0,se,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1254,,0,elf,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1255,,0,ijs,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1256,,0,opa,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1257,,0,high,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1258,,0,papa,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1259,,0,trek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1260,,0,trok,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1261,,0,geile,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1262,,0,sprak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1263,,0,tweet,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1264,,0,dollar,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1265,,0,maandag,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1266,,0,toegang,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1267,,0,vergeet,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1268,,0,vertelt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1269,,0,am,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1270,,0,eh,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1271,,0,been,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1272,,0,dier,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1273,,0,reed,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1274,,0,telt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1275,,0,term,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1276,,0,toon,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1277,,0,debat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1278,,0,zaten,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1279,,0,totdat,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1280,,0,betaald,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1281,,0,daarbij,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1282,,0,positie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1283,,0,speciale,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1284,,0,es,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1285,,0,or,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1286,,0,wc,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1287,,0,das,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1288,,0,del,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1289,,0,nek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1290,,0,sms,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1291,,0,web,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1292,,0,huid,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1293,,0,klik,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1294,,0,bomen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1295,,0,broek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1296,,0,flink,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1297,,0,beroep,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1298,,0,blauwe,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1299,,0,gedood,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1300,,0,geweld,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1301,,0,leider,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1302,,0,hiermee,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1303,,0,verband,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1304,,0,economie,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1305,,0,gay,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1306,,0,vet,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1307,,0,enig,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1308,,0,noem,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1309,,0,ster,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1310,,0,kader,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1311,,0,klant,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1312,,0,paard,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1313,,0,route,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1314,,0,aardig,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1315,,0,oranje,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1316,,0,ziekte,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1317,,0,bestuur,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1318,,0,weekend,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1319,,0,verschil,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1320,,0,ei,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1321,,0,air,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1322,,0,fan,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1323,,0,joe,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1324,,0,dans,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1325,,0,free,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1326,,0,geel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1327,,0,piet,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1328,,0,rijdt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1329,,0,sfeer,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1330,,0,spoor,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1331,,0,voort,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1332,,0,wegen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1333,,0,geluid,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1334,,0,leidde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1335,,0,strand,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1336,,0,stukje,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1337,,0,vreemd,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1338,,0,probeer,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1339,,0,geslacht,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1340,,0,lee,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1341,,0,rob,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1342,,0,blik,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1343,,0,hout,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1344,,0,kilo,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1345,,0,noch,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1346,,0,rand,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1347,,0,black,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1348,,0,groei,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1349,,0,reeks,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1350,,0,thema,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1351,,0,honger,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1352,,0,speler,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1353,,0,bepaald,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1354,,0,netwerk,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1355,,0,controle,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1356,,0,ontstaan,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1357,,0,ns,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1358,,0,btw,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1359,,0,nat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1360,,0,tel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1361,,0,fase,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1362,,0,kast,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1363,,0,koos,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1364,,0,maan,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1365,,0,roze,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1366,,0,kwaad,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1367,,0,winst,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1368,,0,zette,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1369,,0,degene,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1370,,0,sprake,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1371,,0,tijdje,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1372,,0,gesteld,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1373,,0,hoogste,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1374,,0,winnaar,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1375,,0,gevraagd,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1376,,0,huwelijk,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1377,,0,vakantie,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1378,,0,waarheid,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1379,,0,dam,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1380,,0,job,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1381,,0,oom,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1382,,0,cool,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1383,,0,gooi,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1384,,0,lied,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1385,,0,logo,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1386,,0,beurt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1387,,0,coach,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1388,,0,datum,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1389,,0,duren,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1390,,0,raakt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1391,,0,trekt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1392,,0,editie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1393,,0,bedoeld,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1394,,0,gewerkt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1395,,0,grappig,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1396,,0,locatie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1397,,0,spreekt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1398,,0,ervaring,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1399,,0,vermoord,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1400,,0,vóór,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1401,,0,au,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1402,,0,bas,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1403,,0,kip,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1404,,0,wow,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1405,,0,raam,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1406,,0,star,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1407,,0,kende,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1408,,0,prins,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1409,,0,bewust,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1410,,0,eentje,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1411,,0,studie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1412,,0,totale,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1413,,0,bereikt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1414,,0,leiding,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1415,,0,namelijk,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1416,,0,opdracht,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1417,,0,ho,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1418,,0,re,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1419,,0,hel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1420,,0,pot,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1421,,0,benen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1422,,0,boord,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1423,,0,koken,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1424,,0,leest,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1425,,0,slaat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1426,,0,gezond,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1427,,0,meneer,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1428,,0,omhoog,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1429,,0,tenzij,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1430,,0,gehaald,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1431,,0,premier,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1432,,0,schrijf,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1433,,0,sneller,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1434,,0,so,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1435,,0,dvd,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1436,,0,mars,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1437,,0,rook,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1438,,0,wild,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1439,,0,zaal,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1440,,0,ziel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1441,,0,steen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1442,,0,talen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1443,,0,alweer,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1444,,0,klasse,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1445,,0,laatst,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1446,,0,stelde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1447,,0,besluit,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1448,,0,gericht,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1449,,0,grotere,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1450,,0,hierbij,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1451,,0,moderne,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1452,,0,ochtend,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1453,,0,festival,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1454,,0,speciaal,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1455,,0,oké,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1456,,0,ge,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1457,,0,li,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1458,,0,hit,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1459,,0,pik,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1460,,0,rit,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1461,,0,boer,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1462,,0,knap,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1463,,0,ruzie,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1464,,0,velen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1465,,0,bereid,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1466,,0,draait,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1467,,0,gewond,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1468,,0,raakte,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1469,,0,schoon,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1470,,0,simpel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1471,,0,stierf,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1472,,0,unieke,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1473,,0,vierde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1474,,0,voelde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1475,,0,winter,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1476,,0,ongeluk,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1477,,0,sociaal,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1478,,0,à,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1479,,0,ai,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1480,,0,don,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1481,,0,duo,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1482,,0,eng,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1483,,0,pen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1484,,0,win,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1485,,0,puur,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1486,,0,haven,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1487,,0,lager,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1488,,0,polen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1489,,0,roept,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1490,,0,shirt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1491,,0,speel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1492,,0,behulp,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1493,,0,daarop,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1494,,0,effect,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1495,,0,college,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1496,,0,hiervan,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1497,,0,vervoer,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1498,,0,daarvoor,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1499,,0,hierdoor,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1500,,0,probeert,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1501,,0,are,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1502,,0,nep,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1503,,0,ras,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1504,,0,buik,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1505,,0,durf,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1506,,0,mode,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1507,,0,moed,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1508,,0,zand,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1509,,0,zone,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1510,,0,zwak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1511,,0,agent,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1512,,0,lagen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1513,,0,straf,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1514,,0,trouw,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1515,,0,auteur,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1516,,0,hogere,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1517,,0,account,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1518,,0,geopend,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1519,,0,miljard,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1520,,0,generaal,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1521,,0,eva,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1522,,0,leef,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1523,,0,pand,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1524,,0,armen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1525,,0,breed,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1526,,0,forum,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1527,,0,gaven,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1528,,0,ploeg,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1529,,0,regel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1530,,0,richt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1531,,0,rijke,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1532,,0,stoel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1533,,0,gemist,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1534,,0,iPhone,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1535,,0,teveel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1536,,0,begrijp,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1537,,0,gekocht,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1538,,0,geleerd,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1539,,0,kleding,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1540,,0,vrijwel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1541,,0,algemene,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1542,,0,beweging,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1543,,0,box,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1544,,0,pan,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1545,,0,sla,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1546,,0,bord,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1547,,0,gauw,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1548,,0,klok,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1549,,0,maal,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1550,,0,marc,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1551,,0,oren,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1552,,0,buren,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1553,,0,stopt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1554,,0,warme,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1555,,0,daarin,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1556,,0,erover,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1557,,0,gehele,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1558,,0,milieu,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1559,,0,minuut,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1560,,0,rondom,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1561,,0,gebouwd,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1562,,0,gevolgd,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1563,,0,ontwerp,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1564,,0,vandaan,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1565,,0,vrijheid,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1566,,0,ere,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1567,,0,gij,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1568,,0,mes,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1569,,0,back,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1570,,0,deal,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1571,,0,loon,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1572,,0,luxe,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1573,,0,humor,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1574,,0,optie,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1575,,0,canada,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1576,,0,handel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1577,,0,levert,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1578,,0,snelle,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1579,,0,eenmaal,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1580,,0,geraakt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1581,,0,partner,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1582,,0,allerlei,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1583,,0,verkocht,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1584,,0,cv,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1585,,0,id,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1586,,0,boy,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1587,,0,hal,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1588,,0,kok,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1589,,0,lui,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1590,,0,late,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1591,,0,make,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1592,,0,neef,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1593,,0,rijn,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1594,,0,breng,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1595,,0,dient,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1596,,0,games,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1597,,0,joden,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1598,,0,kiest,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1599,,0,teams,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1600,,0,virus,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1601,,0,visie,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1602,,0,league,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1603,,0,lengte,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1604,,0,besloot,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1605,,0,kritiek,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1606,,0,mooiste,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1607,,0,rapport,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1608,,0,openbaar,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1609,,0,vertelde,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1610,,0,aa,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1611,,0,bek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1612,,0,rot,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1613,,0,blad,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1614,,0,blok,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1615,,0,ramp,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1616,,0,chris,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1617,,0,droog,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1618,,0,komst,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1619,,0,nabij,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1620,,0,wezen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1621,,0,liefst,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1622,,0,noemde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1623,,0,schiet,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1624,,0,studio,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1625,,0,twaalf,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1626,,0,dinsdag,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1627,,0,genaamd,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1628,,0,ontdekt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1629,,0,onderweg,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1630,,0,verkeerd,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1631,,0,end,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1632,,0,nul,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1633,,0,aard,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1634,,0,adam,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1635,,0,gras,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1636,,0,kern,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1637,,0,banen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1638,,0,heden,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1639,,0,jarig,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1640,,0,party,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1641,,0,plein,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1642,,0,smaak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1643,,0,vogel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1644,,0,zicht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1645,,0,burger,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1646,,0,beperkt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1647,,0,luister,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1648,,0,digitale,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1649,,0,gespeeld,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1650,,0,gestuurd,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1651,,0,wim,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1652,,0,zoo,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1653,,0,dure,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1654,,0,file,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1655,,0,jury,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1656,,0,kids,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1657,,0,king,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1658,,0,mini,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1659,,0,nick,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1660,,0,rock,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1661,,0,taxi,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1662,,0,wifi,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1663,,0,draag,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1664,,0,henry,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1665,,0,house,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1666,,0,lente,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1667,,0,lunch,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1668,,0,muren,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1669,,0,sites,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1670,,0,voren,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1671,,0,begrip,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1672,,0,poging,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1673,,0,sector,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1674,,0,single,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1675,,0,vertel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1676,,0,verkeer,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1677,,0,voedsel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1678,,0,os,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1679,,0,mix,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1680,,0,zul,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1681,,0,lijf,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1682,,0,rare,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1683,,0,droeg,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1684,,0,drugs,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1685,,0,https,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1686,,0,steek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1687,,0,villa,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1688,,0,vocht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1689,,0,voert,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1690,,0,gebrek,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1691,,0,hierin,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1692,,0,missie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1693,,0,twintig,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1694,,0,zeeland,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1695,,0,daardoor,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1696,,0,lab,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1697,,0,doos,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1698,,0,lady,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1699,,0,saai,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1700,,0,wolf,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1701,,0,bevel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1702,,0,deels,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1703,,0,happy,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1704,,0,hoezo,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1705,,0,legde,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1706,,0,meldt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1707,,0,roken,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1708,,0,wagen,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1709,,0,gelukt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1710,,0,handig,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1711,,0,akkoord,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1712,,0,gezocht,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1713,,0,heilige,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1714,,0,mobiele,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1715,,0,twijfel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1716,,0,verkoop,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1717,,0,verzoek,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1718,,0,absoluut,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1719,,0,afdeling,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1720,,0,woensdag,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1721,,0,ideeën,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1722,,0,bo,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1723,,0,va,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1724,,0,sub,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1725,,0,lege,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1726,,0,lift,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1727,,0,mary,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1728,,0,soep,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1729,,0,afval,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1730,,0,hemel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1731,,0,leert,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1732,,0,poort,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1733,,0,wiens,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1734,,0,oceaan,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1735,,0,oproep,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1736,,0,verzet,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1737,,0,waarna,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1738,,0,bevindt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1739,,0,gebeurde,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1740,,0,bom,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1741,,0,fox,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1742,,0,oor,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1743,,0,boel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1744,,0,brak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1745,,0,fles,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1746,,0,geil,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1747,,0,hoer,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1748,,0,keus,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1749,,0,pakt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1750,,0,pure,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1751,,0,tent,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1752,,0,vent,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1753,,0,feite,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1754,,0,koers,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1755,,0,vecht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1756,,0,wijst,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1757,,0,aanbod,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1758,,0,agenda,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1759,,0,kanaal,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1760,,0,verslag,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1761,,0,verteld,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1762,,0,hiervoor,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1763,,0,openbare,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1764,,0,uk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1765,,0,bod,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1766,,0,bol,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1767,,0,boze,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1768,,0,gold,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1769,,0,bodem,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1770,,0,green,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1771,,0,kerst,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1772,,0,plaat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1773,,0,sloot,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1774,,0,zijde,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1775,,0,geleid,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1776,,0,volgde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1777,,0,eenheid,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1778,,0,mevrouw,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1779,,0,service,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1780,,0,café,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1781,,0,nut,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1782,,0,tag,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1783,,0,dijk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1784,,0,duel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1785,,0,graf,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1786,,0,knop,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1787,,0,lach,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1788,,0,raak,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1789,,0,delft,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1790,,0,plant,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1791,,0,aanpak,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1792,,0,dating,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1793,,0,geheim,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1794,,0,schaal,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1795,,0,talent,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1796,,0,toilet,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1797,,0,concert,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1798,,0,directe,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1799,,0,schatje,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1800,,0,speelde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1801,,0,stadion,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1802,,0,vooruit,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1803,,0,centrale,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1804,,0,eigenaar,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1805,,0,bot,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1806,,0,run,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1807,,0,chef,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1808,,0,gaaf,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1809,,0,juan,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1810,,0,jurk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1811,,0,riep,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1812,,0,stom,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1813,,0,apart,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1814,,0,bruin,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1815,,0,gered,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1816,,0,haast,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1817,,0,harte,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1818,,0,metro,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1819,,0,ofwel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1820,,0,raden,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1821,,0,roman,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1822,,0,vloer,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1823,,0,donker,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1824,,0,duurde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1825,,0,haalde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1826,,0,lagere,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1827,,0,omgaan,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1828,,0,podium,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1829,,0,robert,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1830,,0,gedacht,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1831,,0,gestart,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1832,,0,product,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1833,,0,waarvoor,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1834,,0,dol,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1835,,0,kus,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1836,,0,lef,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1837,,0,vos,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1838,,0,drama,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1839,,0,koopt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1840,,0,sloeg,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1841,,0,taken,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1842,,0,tante,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1843,,0,kanker,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1844,,0,uitleg,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1845,,0,opening,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1846,,0,ui,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1847,,0,geur,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1848,,0,meld,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1849,,0,gekke,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1850,,0,volop,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1851,,0,zacht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1852,,0,alsnog,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1853,,0,dokter,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1854,,0,papier,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1855,,0,stilte,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1856,,0,stuurt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1857,,0,concept,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1858,,0,ingezet,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1859,,0,kwestie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1860,,0,lekkere,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1861,,0,normale,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1862,,0,ontmoet,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1863,,0,oorzaak,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1864,,0,profiel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1865,,0,termijn,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1866,,0,vermeld,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1867,,0,vertrek,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1868,,0,bijdrage,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1869,,0,hopelijk,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1870,,0,langzaam,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1871,,0,schrijft,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1872,,0,training,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1873,,0,verdient,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1874,,0,privé,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1875,,0,dc,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1876,,0,sa,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1877,,0,fit,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1878,,0,gsm,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1879,,0,han,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1880,,0,hbo,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1881,,0,mol,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1882,,0,tja,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1883,,0,vat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1884,,0,beer,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1885,,0,blue,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1886,,0,bond,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1887,,0,bood,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1888,,0,bril,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1889,,0,down,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1890,,0,keel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1891,,0,klap,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1892,,0,plat,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1893,,0,vers,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1894,,0,zout,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1895,,0,brede,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1896,,0,clubs,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1897,,0,hoorn,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1898,,0,kruis,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1899,,0,white,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1900,,0,center,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1901,,0,dertig,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1902,,0,dubbel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1903,,0,groeit,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1904,,0,helder,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1905,,0,middag,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1906,,0,oudste,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1907,,0,update,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1908,,0,vroege,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1909,,0,gelooft,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1910,,0,overige,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1911,,0,terrein,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1912,,0,trainer,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1913,,0,campagne,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1914,,0,verliefd,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1915,,0,hek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1916,,0,her,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1917,,0,sir,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1918,,0,tal,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1919,,0,belt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1920,,0,fort,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1921,,0,hete,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1922,,0,vuil,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1923,,0,beurs,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1924,,0,diepe,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1925,,0,kocht,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1926,,0,mijne,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1927,,0,trend,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1928,,0,uniek,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1929,,0,zonde,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1930,,0,scherp,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1931,,0,woonde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1932,,0,zorgde,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1933,,0,bezocht,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1934,,0,honderd,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1935,,0,ontbijt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1936,,0,sterker,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1937,,0,medische,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1938,,0,wellicht,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1939,,0,kou,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1940,,0,fuck,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1941,,0,kees,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1942,,0,more,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1943,,0,roep,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1944,,0,beker,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1945,,0,elite,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1946,,0,koude,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1947,,0,bedrag,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1948,,0,erkend,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1949,,0,gewend,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1950,,0,hierna,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1951,,0,mobiel,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1952,,0,allebei,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1953,,0,dubbele,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1954,,0,manager,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1955,,0,uitslag,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1956,,0,selectie,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1957,,0,act,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1958,,0,ban,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1959,,0,feb,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1960,,0,get,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1961,,0,boys,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1962,,0,cent,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1963,,0,eraf,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1964,,0,lijk,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1965,,0,prof,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1966,,0,amper,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1967,,0,domme,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1968,,0,front,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1969,,0,jawel,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1970,,0,naakt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1971,,0,gelegd,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1972,,0,ingang,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1973,,0,marine,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1974,,0,getrouwd,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1975,,0,koningin,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1976,,0,politici,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1977,,0,positief,base_word,B1,needs_topic_review,needs_translation,,,,no topic assigned
+1978,,0,bi,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1979,,0,ede,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1980,,0,eis,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1981,,0,pre,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1982,,0,adem,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1983,,0,meet,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1984,,0,blind,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1985,,0,borst,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1986,,0,deelt,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1987,,0,grand,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1988,,0,haren,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1989,,0,valse,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1990,,0,vrees,base_word,A2,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1991,,0,alvast,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1992,,0,ergste,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1993,,0,gebeld,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1994,,0,laptop,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1995,,0,paniek,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1996,,0,betaalt,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1997,,0,ernstig,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1998,,0,kabinet,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+1999,,0,theorie,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics
+2000,,0,verdere,base_word,B1,needs_topic_review,needs_translation,,,,candidate topics: daily-basics

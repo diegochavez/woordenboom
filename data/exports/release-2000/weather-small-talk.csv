@@ -1,0 +1,14 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+451,weather-small-talk,1,weer,base_word,A2,82,6.05,1065.00,needs_content_review,false,,weather,Het weer is vandaag mooi.,The weather is nice today.
+452,weather-small-talk,2,zon,base_word,A2,763,4.93,943.85,needs_content_review,false,,sun,De zon schijnt.,The sun is shining.
+453,weather-small-talk,3,warm,base_word,A2,863,4.86,922.20,needs_content_review,false,,warm,Het is warm buiten.,It is warm outside.
+454,weather-small-talk,4,wind,base_word,A2,989,4.78,912.60,needs_content_review,false,,wind,Er is veel wind vandaag.,There is a lot of wind today.
+455,weather-small-talk,5,koud,base_word,A2,1105,4.72,905.40,needs_content_review,false,,cold,Het is koud in de ochtend.,It is cold in the morning.
+456,weather-small-talk,6,regen,base_word,A2,1050,4.75,895.75,needs_content_review,false,,rain,De regen stopt straks.,The rain will stop soon.
+457,weather-small-talk,7,mist,base_word,A2,1579,4.50,879.00,needs_content_review,false,,fog,Door de mist zie ik weinig.,Because of the fog I cannot see much.
+458,weather-small-talk,8,sneeuw,base_word,B1,1726,4.45,846.50,needs_content_review,false,,snow,Er ligt sneeuw op straat.,There is snow on the street.
+459,weather-small-talk,9,regent,base_word,B1,2255,4.27,824.90,needs_content_review,false,,rains,Het regent de hele dag.,It rains all day.
+460,weather-small-talk,10,regenval,base_word,B1,5298,3.63,721.60,needs_content_review,false,,rainfall,De regenval is deze week hoog.,The rainfall is high this week.
+461,weather-small-talk,11,regenbui,base_word,B1,6184,3.50,706.00,needs_content_review,false,,rain shower,Er komt een regenbui aan.,A rain shower is coming.
+462,weather-small-talk,12,sneeuwt,base_word,B1,7239,3.35,701.25,needs_content_review,false,,snows,Het sneeuwt in de avond.,It snows in the evening.
+463,weather-small-talk,13,geregend,base_word,B1,7201,3.35,688.00,needs_content_review,false,,rained,Het heeft vannacht geregend.,It rained last night.

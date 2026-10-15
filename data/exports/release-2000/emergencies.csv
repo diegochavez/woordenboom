@@ -1,0 +1,20 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+472,emergencies,1,hulp,base_word,A2,375,5.30,975.00,needs_content_review,false,,help,Ik heb hulp nodig.,I need help.
+473,emergencies,2,politie,base_word,B1,233,5.53,962.85,needs_content_review,false,,police,De politie komt snel.,The police come quickly.
+474,emergencies,3,veilig,base_word,B1,548,5.12,926.90,needs_content_review,false,,safe,Deze straat is veilig.,This street is safe.
+475,emergencies,4,brand,base_word,A2,693,4.98,923.35,needs_content_review,false,,fire,Er is brand in de keuken.,There is a fire in the kitchen.
+476,emergencies,5,politiek,base_word,B1,488,5.17,906.40,needs_topic_review,true,"candidate topics: emergencies,politics-news",,,
+477,emergencies,6,gevaar,base_word,B1,914,4.82,890.90,needs_content_review,false,,danger,Er is geen gevaar meer.,There is no danger anymore.
+478,emergencies,7,nood,base_word,A2,2122,4.31,856.20,needs_content_review,false,,emergency,In nood bel je 112.,In an emergency you call 112.
+479,emergencies,8,veilige,base_word,B1,1471,4.55,845.25,needs_content_review,false,,safe,We zoeken een veilige plek.,We are looking for a safe place.
+480,emergencies,9,ongeval,base_word,B1,2343,4.24,808.05,needs_content_review,false,,accident,Er is een ongeval op de weg.,There is an accident on the road.
+481,emergencies,10,verbrand,base_word,B1,2293,4.26,797.20,needs_content_review,false,,burned,Mijn hand is verbrand.,My hand is burned.
+482,emergencies,11,brandt,base_word,B1,3337,3.98,790.10,needs_content_review,false,,burns,Het lampje brandt rood.,The little light burns red.
+483,emergencies,12,veiliger,base_word,B1,2782,4.12,780.40,needs_content_review,false,,safer,Deze route is veiliger.,This route is safer.
+484,emergencies,13,onveilig,base_word,B1,4404,3.77,738.40,needs_content_review,false,,unsafe,Deze plek voelt onveilig.,This place feels unsafe.
+485,emergencies,14,branding,base_word,B1,5919,3.53,709.60,needs_translation,false,,,,
+486,emergencies,15,gebrand,base_word,B1,6820,3.40,707.25,needs_translation,false,,,,
+487,emergencies,16,brandde,base_word,B1,7192,3.35,701.25,needs_translation,false,,,,
+488,emergencies,17,brandend,base_word,B1,6739,3.41,695.20,needs_translation,false,,,,
+489,emergencies,18,bosbrand,base_word,B1,8403,3.18,667.60,needs_content_review,false,,forest fire,De bosbrand is onder controle.,The forest fire is under control.
+490,emergencies,19,brander,base_word,B1,9659,3.03,662.85,needs_translation,false,,,,

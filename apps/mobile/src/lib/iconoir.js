@@ -1,0 +1,30 @@
+// Explicit files keep the full Iconoir catalog out of Metro bundles.
+// Pinned to iconoir-react-native 7.12.1; MIT notice is in the licenses screen.
+export { default as Bank } from '../../node_modules/iconoir-react-native/dist/esm/regular/Bank.mjs';
+export { default as BookStack } from '../../node_modules/iconoir-react-native/dist/esm/regular/BookStack.mjs';
+export { default as Bus } from '../../node_modules/iconoir-react-native/dist/esm/regular/Bus.mjs';
+export { default as Cart } from '../../node_modules/iconoir-react-native/dist/esm/regular/Cart.mjs';
+export { default as Check } from '../../node_modules/iconoir-react-native/dist/esm/regular/Check.mjs';
+export { default as Clock } from '../../node_modules/iconoir-react-native/dist/esm/regular/Clock.mjs';
+export { default as Cloud } from '../../node_modules/iconoir-react-native/dist/esm/regular/Cloud.mjs';
+export { default as Community } from '../../node_modules/iconoir-react-native/dist/esm/regular/Community.mjs';
+export { default as Computer } from '../../node_modules/iconoir-react-native/dist/esm/regular/Computer.mjs';
+export { default as Flash } from '../../node_modules/iconoir-react-native/dist/esm/regular/Flash.mjs';
+export { default as GraduationCap } from '../../node_modules/iconoir-react-native/dist/esm/regular/GraduationCap.mjs';
+export { default as HealthShield } from '../../node_modules/iconoir-react-native/dist/esm/regular/HealthShield.mjs';
+export { default as HomeSimple } from '../../node_modules/iconoir-react-native/dist/esm/regular/HomeSimple.mjs';
+export { default as Learning } from '../../node_modules/iconoir-react-native/dist/esm/regular/Learning.mjs';
+export { default as ListSelect } from '../../node_modules/iconoir-react-native/dist/esm/regular/ListSelect.mjs';
+export { default as Map } from '../../node_modules/iconoir-react-native/dist/esm/regular/Map.mjs';
+export { default as NavArrowLeft } from '../../node_modules/iconoir-react-native/dist/esm/regular/NavArrowLeft.mjs';
+export { default as NavArrowRight } from '../../node_modules/iconoir-react-native/dist/esm/regular/NavArrowRight.mjs';
+export { default as Page } from '../../node_modules/iconoir-react-native/dist/esm/regular/Page.mjs';
+export { default as Phone } from '../../node_modules/iconoir-react-native/dist/esm/regular/Phone.mjs';
+export { default as Restart } from '../../node_modules/iconoir-react-native/dist/esm/regular/Restart.mjs';
+export { default as Settings } from '../../node_modules/iconoir-react-native/dist/esm/regular/Settings.mjs';
+export { default as Shield } from '../../node_modules/iconoir-react-native/dist/esm/regular/Shield.mjs';
+export { default as Suitcase } from '../../node_modules/iconoir-react-native/dist/esm/regular/Suitcase.mjs';
+export { default as Tools } from '../../node_modules/iconoir-react-native/dist/esm/regular/Tools.mjs';
+export { default as Xmark } from '../../node_modules/iconoir-react-native/dist/esm/regular/Xmark.mjs';
+export { default as ThumbsDown } from '../../node_modules/iconoir-react-native/dist/esm/regular/ThumbsDown.mjs';
+export { default as ThumbsUp } from '../../node_modules/iconoir-react-native/dist/esm/regular/ThumbsUp.mjs';

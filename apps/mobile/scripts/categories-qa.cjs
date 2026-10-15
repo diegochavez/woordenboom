@@ -1,0 +1,53 @@
+// Live category selection against a disposable account. No email is sent.
+const {chromium}=require(process.env.PLAYWRIGHT_PATH || 'playwright');
+const {execFileSync}=require('node:child_process');
+const crypto=require('node:crypto'),assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
+const root=path.resolve(__dirname,'../../..'),output=path.join(root,'docs/mobile-design/icons-motion');
+const id=crypto.randomUUID(),email=`categories-qa-${id}@example.test`;
+const sql=input=>execFileSync('docker',['compose','exec','-T','postgres','psql','-X','-At','-v','ON_ERROR_STOP=1','-U','woordenboom','-d','woordenboom'],{cwd:root,input,encoding:'utf8'}).trim();
+const encode=value=>Buffer.from(JSON.stringify(value)).toString('base64url');
+const unsigned=`${encode({alg:'HS256',typ:'JWT'})}.${encode({sub:id,email,exp:Math.floor(Date.now()/1000)+900})}`;
+const token=unsigned+'.'+crypto.createHmac('sha256',process.env.QA_AUTH_SECRET || 'local-development-secret-change-before-production').update(unsigned).digest('base64url');
+const expected=JSON.parse(fs.readFileSync(path.join(root,'data/content/categories-v1/manifest.json'))).after;
+(async()=>{
+ let browser;
+ try{
+  sql(`BEGIN; INSERT INTO users(id,email) VALUES('${id}','${email}'); INSERT INTO user_profiles(user_id,display_name,age_range) VALUES('${id}','Category QA','25-34'); COMMIT;`);
+  browser=await chromium.launch({headless:true,...(process.env.CHROME_PATH?{executablePath:process.env.CHROME_PATH}:{})});
+  const context=await browser.newContext({viewport:{width:375,height:812}});
+  await context.addInitScript(token=>{localStorage.setItem('woordenboom.accessToken',token);localStorage.setItem('woordenboom.refreshToken','local-qa-session');},token);
+  const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
+  const get=async endpoint=>{const response=await context.request.get('http://localhost:8080'+endpoint,{headers:{Authorization:'Bearer '+token}});assert.equal(response.status(),200);return response.json();};
+  const topics=(await get('/topics')).topics;
+  for(const topic of topics)assert.equal(topic.wordCount,expected[topic.slug],topic.slug);
+  const healthcare=(await get('/topics/healthcare/words')).words,food=(await get('/topics/supermarket-food/words')).words;
+  const unique=new Set([...healthcare,...food].map(w=>w.id)).size;
+  await page.goto('http://localhost:8081/topics?topic=general-vocabulary');
+  await page.getByText('9,500 unique words available',{exact:true}).waitFor();
+  assert.equal(await page.getByRole('checkbox',{name:/General vocabulary/}).isChecked(),true);
+  await page.getByText('Choose your categories.',{exact:true}).scrollIntoViewIfNeeded();
+  await page.screenshot({path:path.join(output,'screenshots/live-categories.png')});
+  await page.getByRole('checkbox',{name:/Healthcare/}).click();
+  assert.equal(await page.getByRole('checkbox',{name:/General vocabulary/}).isChecked(),false);
+  await page.getByRole('checkbox',{name:/Supermarket & Food/}).click();
+  await page.getByText(`${unique.toLocaleString()} unique words available`,{exact:true}).scrollIntoViewIfNeeded();
+  await page.screenshot({path:path.join(output,'screenshots/live-category-mix.png')});
+  assert.ok(unique<healthcare.length+food.length);
+  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false);
+  const next=page.waitForResponse(r=>r.url().endsWith('/sessions/next')&&r.status()===200);
+  await page.getByRole('button',{name:'Start practice',exact:true}).click();
+  const session=await(await next).json();assert.equal(new Set(session.questions.map(q=>q.wordId)).size,10);
+  await page.getByRole('button',{name:'Flip',exact:true}).click();
+  await page.getByRole('button',{name:'Change review timing'}).click();
+  await page.getByRole('button',{name:'Cancel',exact:true}).waitFor();
+  await page.waitForTimeout(220);
+  await page.screenshot({path:path.join(output,'screenshots/live-review-sheet.png')});
+  await page.getByRole('button',{name:'Cancel',exact:true}).click();
+  await page.getByRole('button',{name:'Know this word',exact:true}).click();
+  await page.getByText('2 / 10',{exact:true}).filter({visible:true}).waitFor();
+  const summary=await get('/progress/summary');assert.equal(summary.totalWords,9500);assert.equal(summary.reviewedWords,1);
+  assert.deepEqual(errors,[]);
+  fs.writeFileSync(path.join(output,'live-category-checks.json'),JSON.stringify({categoryCounts:expected,uniqueMixedWords:unique,mixCards:10,generalExclusive:true,previewBounded:true,savedAnswer:true,browserErrors:errors},null,2)+'\n');
+  console.log(`Live category QA passed: all counts match, 9,500 General words, ${unique} unique words in overlapping mix, ten unique cards, timing sheet, saved progress.`);
+ }finally{if(browser)await browser.close();sql(`DELETE FROM users WHERE id='${id}';`);}
+})().catch(error=>{console.error(error);process.exitCode=1;});

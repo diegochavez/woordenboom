@@ -1,0 +1,16 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+382,public-transport,1,reis,base_word,A2,602,5.06,946.20,needs_content_review,false,,trip,De reis duurt een uur.,The trip takes one hour.
+383,public-transport,2,bus,base_word,A2,801,4.90,940.25,needs_content_review,false,,bus,De bus komt over vijf minuten.,The bus arrives in five minutes.
+384,public-transport,3,kaart,base_word,A2,649,5.03,929.35,needs_content_review,false,,card or ticket,Ik gebruik mijn kaart in de bus.,I use my card on the bus.
+385,public-transport,4,trein,base_word,A2,859,4.86,908.95,needs_content_review,false,,train,De trein vertrekt om negen uur.,The train leaves at nine o'clock.
+386,public-transport,5,station,base_word,B1,889,4.84,880.05,needs_content_review,false,,station,Het station is dichtbij.,The station is nearby.
+387,public-transport,6,tram,base_word,A2,2524,4.19,841.80,needs_content_review,false,,tram,De tram stopt hier.,The tram stops here.
+388,public-transport,7,kaartje,base_word,B1,1998,4.35,821.25,needs_content_review,false,,ticket,Ik koop een kaartje online.,I buy a ticket online.
+389,public-transport,8,ticket,base_word,B1,2779,4.12,806.90,needs_content_review,false,,ticket,Het ticket staat in mijn mail.,The ticket is in my email.
+390,public-transport,9,halte,base_word,A2,3432,3.96,800.95,needs_content_review,false,,stop,De halte is om de hoek.,The stop is around the corner.
+391,public-transport,10,perron,base_word,B1,4590,3.74,761.30,needs_content_review,false,,platform,De trein staat op perron twee.,The train is at platform two.
+392,public-transport,11,vertraging,base_word,B2,2918,4.09,750.30,needs_content_review,false,,delay,De trein heeft vertraging.,The train is delayed.
+393,public-transport,12,gehalte,base_word,B1,5863,3.54,724.05,needs_translation,false,,,,
+394,public-transport,13,bushalte,base_word,B1,5505,3.59,716.80,needs_content_review,false,,bus stop,De bushalte is voor het huis.,The bus stop is in front of the house.
+395,public-transport,14,simkaart,base_word,B1,7822,3.27,678.40,needs_translation,false,,,,
+396,public-transport,15,treintje,base_word,B1,9981,3.00,646.00,needs_translation,false,,,,

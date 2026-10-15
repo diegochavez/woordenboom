@@ -1,0 +1,24 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Go
+bin/
+coverage.out
+
+# Local data
+.postgres-data/
+.mailpit-data/
+
+# Python tooling
+__pycache__/
+*.pyc

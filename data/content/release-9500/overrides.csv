@@ -1,0 +1,45 @@
+lemma,english_translation,reason
+mijn,my; mine,Prefer the possessive sense before mining or auction senses.
+mee,along; with,Dictionary only has the uncommon noun mead.
+hen,them; hen,Add the common object pronoun.
+week,week; soft,Show the time unit before the adjective.
+haar,her; hair,Include pronoun and noun.
+veel,much; many; a lot,Choose concise everyday equivalents.
+ons,us; our,Subject context determines English form.
+eens,once; sometime; in agreement,Common senses; usage remains context dependent.
+dag,day; hello; goodbye,Put the noun before greetings.
+staat,state; stands,Include common noun and verb form.
+laten,let; leave; have something done,Retain causative meaning.
+net,just; neat; net,Keep common adverb and noun senses.
+even,briefly; just; even,Adverb and adjective senses.
+man,man; husband,Exclude unrelated rare manna sense.
+weg,away; road; way,Include the common adverb.
+want,because; mitten,Conjunction before uncommon noun.
+erg,very; bad; serious,Common adverb and adjective.
+gemaakt,made; artificial,Include the past participle.
+verder,further; farther; otherwise,Remove misleading first-sense translations.
+per,per; by,Everyday equivalents.
+leuk,nice; fun; pleasant,Everyday adjective rather than droll.
+enige,only; some,Context-dependent quantifier.
+gebruik,use; usage; custom,Primary everyday use.
+hoop,hope; heap; pile,Include common abstract noun.
+later,later,Remove uncommon spatial adjectives.
+film,film; movie,Deduplicate capitalized translation.
+artikel,article; item,Text and retail senses.
+regio,region,Remove French synonym.
+eerder,earlier; sooner; rather,Common adverb senses.
+hand,hand,Remove idiomatic phrase that is not a translation of the lemma.
+hoofd,head; chief,Prefer everyday anatomical and leadership senses.
+zin,sentence; meaning; desire,Keep the main distinct senses.
+arm,arm; poor,Noun and adjective.
+bank,bank; bench; sofa,Finance and furniture.
+vorst,frost; monarch,Weather and ruler senses.
+pad,path; toad,Path and animal.
+slot,lock; castle; ending,Main everyday noun senses.
+licht,light,Noun and adjective use the same English form.
+recht,right; straight; law,Main distinct senses.
+vrij,free; quite,Adjective and adverb.
+baan,job; track; lane,Employment before specialist meanings.
+passen,fit; try on; pass,Infinitive uses.
+voorkomen,occur; prevent; appearance,Stress and context distinguish the meanings.
+voorkómen,prevent,Stressed infinitive.

@@ -1,0 +1,59 @@
+rank,lemma,previous_translation,translation,change_type
+4,een,a or an,a; an,formatting
+11,voor,for,for; before; in front of,gloss_change
+12,je,you or your,you; your,formatting
+13,te,to or too,to; too,formatting
+16,zijn,are or to be,are; to be,formatting
+21,om,at or in order to,at; in order to,formatting
+22,aan,on,at; on; to,gloss_change
+27,naar,to,to; towards,gloss_change
+28,uit,from or out of,from; out of,formatting
+29,bij,at or near,at; near,formatting
+41,zo,so or like this,so; like this,formatting
+43,geen,no or not any,no; not any,formatting
+45,wel,do or indeed,do; indeed,formatting
+46,tot,until,until; to,gloss_change
+47,u,you formal,"you, formal",gloss_change
+54,moet,must or have to,must; have to,formatting
+61,gaat,goes or is going,goes; is going,formatting
+81,eens,once; sometime; in agreement,once; sometime,gloss_change
+90,zij,she or they,she; they,formatting
+103,wie,who; he who; he whom,who,gloss_change
+109,gewoon,common; familiar; usual,usual; normal; just,gloss_change
+112,af,finished; ready; through,finished; done,gloss_change
+119,keer,time,time; occasion,gloss_change
+122,iemand,somebody; someone,someone; somebody,formatting
+124,werk,work; oakum; job,work; job,gloss_change
+128,zelf,herself; itself; himself,oneself; personally,gloss_change
+134,snel,fast; quick; rapid,fast; quick,gloss_change
+138,mag,may,may; be allowed to,gloss_change
+140,vanaf,from,from; starting from,gloss_change
+145,allemaal,all of them,all; all of them,gloss_change
+146,beter,better; rather,better,gloss_change
+149,gemaakt,made; artificial,made,gloss_change
+155,jou,you; thee,you,gloss_change
+156,verder,further; farther; otherwise,further; farther,gloss_change
+162,eerst,firstly; first of all,first,gloss_change
+178,groot,big; adult; largely,big; large,gloss_change
+219,hen,them; hen,them,gloss_change
+228,vader,father; dad,father,gloss_change
+288,top,agreed; okay,great; top; summit,gloss_change
+289,weken,soak; soften,weeks; soak,gloss_change
+296,krijg,war,get; receive,gloss_change
+303,recht,right; straight; law,right; law; straight,formatting
+304,wilde,savage,wanted; wild,gloss_change
+305,zet,push; move,put; place; move,gloss_change
+321,ogen,look; appear,eyes,gloss_change
+324,bedrijf,company; act; on,company; business,gloss_change
+335,woord,drake; word,word,gloss_change
+372,grond,ground; tereno; terrain,ground; soil,gloss_change
+446,vriendin,girlfriend or female friend,girlfriend; female friend,formatting
+478,kaart,card or ticket,card; ticket,formatting
+1071,klacht,complaint or symptom,complaint; symptom,formatting
+1296,vriendje,boyfriend or little friend,boyfriend; little friend,formatting
+1732,bevriend,friends,friends with,gloss_change
+2049,broodje,sandwich,bread roll; sandwich,gloss_change
+2285,spoed,urgent care,urgency; haste,gloss_change
+2525,verhuurd,rented,rented out,gloss_change
+3484,medici,medical professionals,physicians; doctors,gloss_change
+3510,nietwaar,isn't it; isn't that so; or not,isn't it; isn't that so,gloss_change

@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "content-review",
+      "title": "Dutch definitions and translation review",
+      "queries": [
+        {
+          "id": "release-profile",
+          "source": {
+            "label": "Woordenboom local release and content overlay",
+            "files": [
+              {
+                "label": "definitions-v1/manifest.json"
+              },
+              {
+                "label": "definitions-v1/words.csv"
+              },
+              {
+                "label": "definitions-v1/translation-changes.csv"
+              },
+              {
+                "label": "content-review/audit.ipynb"
+              }
+            ],
+            "metricDefinitions": [
+              {
+                "label": "Definition coverage",
+                "definition": "Definition coverage counts words with at least one Dutch explanation paired to an English gloss in the 9,500-word release."
+              }
+            ],
+            "caveats": [
+              "All content remains pending native-speaker review. Automated checks cover structure and gloss matching; targeted AI editorial work covers 169 words.",
+              "58 translation strings changed: 39 changed glosses and 19 changed only formatting."
+            ],
+            "evidenceFlow": [
+              {
+                "kind": "source",
+                "title": "Pinned inputs",
+                "detail": "The original release CSV and editorial edits have recorded SHA-256 checksums in the manifest."
+              },
+              {
+                "kind": "verification",
+                "title": "Database coverage",
+                "detail": "The local database query returned 9,500 content rows, 7,675 with definitions, and one revision."
+              }
+            ]
+          },
+          "columns": [
+            "metric",
+            "count"
+          ],
+          "rows": [
+            {
+              "metric": "words",
+              "count": 9500
+            },
+            {
+              "metric": "with_dutch_definitions",
+              "count": 7675
+            },
+            {
+              "metric": "without_matched_definition",
+              "count": 1825
+            },
+            {
+              "metric": "editorial_words",
+              "count": 169
+            },
+            {
+              "metric": "changed_translations",
+              "count": 58
+            },
+            {
+              "metric": "changed_translation_glosses",
+              "count": 39
+            },
+            {
+              "metric": "first_300_with_definitions",
+              "count": 300
+            },
+            {
+              "metric": "authored_lessons_with_definitions",
+              "count": 190
+            }
+          ],
+          "reportingPeriod": "October 1, 2026"
+        }
+      ]
+    }
+  ]
+}

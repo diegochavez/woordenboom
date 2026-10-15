@@ -1,0 +1,12 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+397,healthcare,1,zorg,base_word,A2,334,5.36,982.20,needs_content_review,false,,care,De zorg is goed geregeld.,The care is well arranged.
+398,healthcare,2,pijn,base_word,A2,562,5.10,951.00,needs_content_review,false,,pain,Ik heb pijn in mijn rug.,I have pain in my back.
+399,healthcare,3,ziek,base_word,A2,865,4.86,922.20,needs_content_review,false,,sick,Ik ben vandaag ziek.,I am sick today.
+400,healthcare,4,arts,base_word,A2,1074,4.73,906.60,needs_content_review,false,,doctor,De arts onderzoekt mij.,The doctor examines me.
+401,healthcare,5,klacht,base_word,B1,1576,4.50,852.50,needs_content_review,false,,complaint or symptom,Welke klacht heeft u.,What symptom do you have.
+402,healthcare,6,spoedig,base_word,B1,2625,4.16,798.45,needs_topic_review,true,"candidate topics: emergencies,healthcare",,,
+403,healthcare,7,spoed,base_word,A2,3836,3.88,791.35,needs_content_review,true,"candidate topics: emergencies,healthcare",urgent care,Dit is spoed.,This is urgent.
+404,healthcare,8,medicijn,base_word,B1,3306,3.99,764.80,needs_content_review,false,,medicine,Ik neem het medicijn na het eten.,I take the medicine after eating.
+405,healthcare,9,apotheek,base_word,B1,3981,3.84,746.80,needs_content_review,false,,pharmacy,De apotheek is vandaag open.,The pharmacy is open today.
+406,healthcare,10,verzekering,base_word,B2,3001,4.07,734.65,needs_content_review,false,,insurance,Mijn verzekering betaalt een deel.,My insurance pays a part.
+407,healthcare,11,medici,base_word,B1,6558,3.44,725.30,needs_content_review,false,,medical professionals,De medici overleggen met elkaar.,The medical professionals consult each other.

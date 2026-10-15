@@ -1,0 +1,7 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+555,appointments-phone,1,bel,base_word,A2,832,4.87,936.65,needs_content_review,false,,call,Ik bel de huisarts.,I call the doctor.
+556,appointments-phone,2,mail,base_word,A2,808,4.90,927.00,needs_content_review,false,,email,Ik stuur een mail naar de gemeente.,I send an email to the municipality.
+557,appointments-phone,3,bericht,base_word,B1,500,5.15,917.25,needs_content_review,false,,message,Ik heb een bericht gekregen.,I received a message.
+558,appointments-phone,4,telefoon,base_word,B1,523,5.14,902.80,needs_content_review,false,,telephone,Mijn telefoon is leeg.,My phone battery is empty.
+559,appointments-phone,5,planning,base_word,B1,2253,4.27,798.40,needs_content_review,false,,schedule,De planning staat online.,The schedule is online.
+560,appointments-phone,6,bevestig,base_word,B1,7119,3.36,689.20,needs_content_review,false,,confirm,Ik bevestig de afspraak per mail.,I confirm the appointment by email.

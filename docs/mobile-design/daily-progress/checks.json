@@ -1,0 +1,12 @@
+{
+  "sessionCompletion": 10,
+  "delayedSave": 11,
+  "foregroundMapSave": 12,
+  "mapCompletion": 13,
+  "range1200BackNavigation": true,
+  "slowCategoriesDoNotBlock": true,
+  "secondaryFailurePreservesSummary": true,
+  "retryRefresh": true,
+  "noStore": true,
+  "browserErrors": []
+}

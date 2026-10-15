@@ -1,0 +1,15 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+368,supermarket-food,1,winkel,base_word,B1,823,4.89,899.30,needs_content_review,false,,shop,De winkel is open tot acht uur.,The shop is open until eight o'clock.
+369,supermarket-food,2,vlees,base_word,A2,1013,4.77,898.15,needs_content_review,false,,meat,Ik koop vlees voor het avondeten.,I buy meat for dinner.
+370,supermarket-food,3,brood,base_word,A2,1330,4.61,878.95,needs_content_review,false,,bread,Het brood is vers.,The bread is fresh.
+371,supermarket-food,4,kaas,base_word,A2,1777,4.43,870.60,needs_content_review,false,,cheese,Deze kaas is lekker.,This cheese is tasty.
+372,supermarket-food,5,melk,base_word,A2,1810,4.42,869.40,needs_content_review,false,,milk,De melk staat in de koelkast.,The milk is in the fridge.
+373,supermarket-food,6,fruit,base_word,A2,2060,4.33,845.35,needs_content_review,false,,fruit,Ik eet elke dag fruit.,I eat fruit every day.
+374,supermarket-food,7,drink,base_word,A2,2678,4.14,822.55,needs_content_review,false,,drink,Ik drink water bij het eten.,I drink water with the meal.
+375,supermarket-food,8,appel,base_word,A2,2705,4.13,821.35,needs_content_review,false,,apple,Deze appel is rood.,This apple is red.
+376,supermarket-food,9,drinkt,base_word,B1,3011,4.06,799.70,needs_content_review,false,,drinks,Hij drinkt koffie zonder suiker.,He drinks coffee without sugar.
+377,supermarket-food,10,groente,base_word,B1,3293,3.99,778.05,needs_content_review,false,,vegetables,De groente is vers.,The vegetables are fresh.
+378,supermarket-food,11,broodje,base_word,B1,3374,3.97,775.65,needs_content_review,false,,sandwich,Ik neem een broodje kaas.,I will have a cheese sandwich.
+379,supermarket-food,12,fruitig,base_word,B1,8415,3.18,680.85,needs_translation,false,,,,
+380,supermarket-food,13,appeltje,base_word,B1,8755,3.14,662.80,needs_translation,false,,,,
+381,supermarket-food,14,appelsap,base_word,B1,9732,3.02,648.40,needs_content_review,false,,apple juice,Het appelsap staat op tafel.,The apple juice is on the table.

@@ -1,0 +1,13 @@
+{
+  "availableWords": 9500,
+  "ranges": 95,
+  "lastRangeWords": 100,
+  "widths": [
+    320,
+    414
+  ],
+  "markAndAdvance": true,
+  "practiceStacks": 3,
+  "uniquePracticeWords": 30,
+  "browserErrors": []
+}

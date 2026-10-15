@@ -1,0 +1,26 @@
+{
+  "words": 9500,
+  "with_dutch_definitions": 7675,
+  "without_matched_definition": 1825,
+  "definition_pairs": 8897,
+  "editorial_words": 169,
+  "changed_translations": 58,
+  "changed_translation_glosses": 39,
+  "first_300_with_definitions": 300,
+  "authored_lessons_with_definitions": 190,
+  "issues": {
+    "additional_senses_not_shown": 25,
+    "editorial_draft_needs_language_review": 169,
+    "missing_matched_definition": 1865,
+    "multiple_senses_need_review": 1050,
+    "source_text_needs_cleanup": 12
+  },
+  "review_status": "needs_content_review",
+  "human_verified_words": 0,
+  "source_csv_sha256": "4420f8b01cefe611b58aa532c0dd38a86624788e58a7bf2239397c462973a379",
+  "editorial_sha256": "dde852b5402bc30e411811bf1622d9ccd4512aae420e2a2537b0e8c3a3baf397",
+  "csv_sha256": "b5186f4ab04aeeeedd3b38e3bdc731c3bfba42d3b21807257ff45a80de8f954a",
+  "dictionary_source": "wikdict-nld-eng-2025.11.21",
+  "license": "CC-BY-SA-3.0",
+  "batch": "release-9500"
+}

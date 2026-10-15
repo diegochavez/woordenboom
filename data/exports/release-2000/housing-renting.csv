@@ -1,0 +1,18 @@
+rank,topic,topic_rank,lemma,entry_type,cefr,frequency_rank,zipf,candidate_score,review_status,needs_topic_review,notes,english_translation,dutch_example,english_example
+351,housing-renting,1,kamer,base_word,A2,391,5.28,959.35,needs_topic_review,true,"candidate topics: housing-renting,politics-news",,,
+352,housing-renting,2,adres,base_word,B1,1177,4.68,911.85,needs_topic_review,true,"candidate topics: daily-basics,housing-renting",,,
+353,housing-renting,3,woning,base_word,B1,1015,4.77,884.90,needs_content_review,false,,home,De woning is dichtbij het station.,The home is near the station.
+354,housing-renting,4,huur,base_word,A2,1634,4.48,876.60,needs_content_review,false,,rent,De huur is elke maand hetzelfde.,The rent is the same every month.
+355,housing-renting,5,borg,base_word,A2,3559,3.93,810.60,needs_content_review,false,,deposit,De borg is een maand huur.,The deposit is one month of rent.
+356,housing-renting,6,badkamer,base_word,B1,2173,4.29,800.80,needs_content_review,true,"candidate topics: housing-renting,politics-news",bathroom,De badkamer is schoon.,The bathroom is clean.
+357,housing-renting,7,verhuisd,base_word,B1,3194,4.02,768.40,needs_content_review,false,,moved,Ik ben gisteren verhuisd.,I moved yesterday.
+358,housing-renting,8,makelaar,base_word,B1,3960,3.85,748.00,needs_content_review,false,,real estate agent,De makelaar belt morgen.,The real estate agent will call tomorrow.
+359,housing-renting,9,verhuur,base_word,B1,4931,3.69,742.05,needs_content_review,false,,rental,De verhuur begint in juli.,The rental starts in July.
+360,housing-renting,10,verhuurd,base_word,B1,4362,3.78,739.60,needs_content_review,false,,rented,Het appartement is al verhuurd.,The apartment has already been rented.
+361,housing-renting,11,verhuist,base_word,B1,4426,3.77,738.40,needs_content_review,false,,moves,Zij verhuist volgende week.,She moves next week.
+362,housing-renting,12,kameraad,base_word,B1,5599,3.58,715.60,needs_topic_review,true,"candidate topics: housing-renting,politics-news",,,
+363,housing-renting,13,bewoning,base_word,B1,6874,3.39,692.80,needs_content_review,false,,occupancy,Bewoning is toegestaan vanaf maandag.,Occupancy is allowed from Monday.
+364,housing-renting,14,kamertje,base_word,B1,7718,3.28,679.60,needs_topic_review,true,"candidate topics: housing-renting,politics-news",,,
+365,housing-renting,15,eetkamer,base_word,B1,7775,3.27,678.40,needs_topic_review,true,"candidate topics: housing-renting,politics-news",,,
+366,housing-renting,16,verhuurt,base_word,B1,8188,3.22,672.40,needs_content_review,false,,rents out,Hij verhuurt een kamer.,He rents out a room.
+367,housing-renting,17,verhuurder,base_word,B2,8117,3.23,647.10,needs_content_review,false,,landlord,De verhuurder repareert de deur.,The landlord repairs the door.
