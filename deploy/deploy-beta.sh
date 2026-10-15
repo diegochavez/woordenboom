@@ -23,7 +23,7 @@ export COMPOSE_ENV_FILES="$BETA_ENV_FILE"
 
 docker compose config --quiet
 docker compose build api
-docker compose up -d postgres
+timeout 180 docker compose up -d --wait postgres
 
 # Preserve the database state before running migrations or content imports.
 backup_tmp="$(mktemp "$BETA_BACKUP_DIR/.predeploy-XXXXXX")"
