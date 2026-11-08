@@ -1,11 +1,11 @@
-import { forwardRef } from 'react';
+import { forwardRef, type ComponentRef } from 'react';
 import { Animated, Pressable, PressableProps, StyleProp, StyleSheet, Text, View, ViewStyle } from 'react-native';
 import { IconName, LineIcon } from '@/components/LineIcon';
 import { motion, useMotionValue } from '@/hooks/useMotion';
 import { colors, radii, spacing, type } from '@/lib/theme';
 
 type Props = Omit<PressableProps, 'style'> & { icon?: IconName; accent?: string; description?: string; meta: string; selected?: boolean; style?: StyleProp<ViewStyle>; title: string };
-export const CategoryListItem = forwardRef<View, Props>(function CategoryListItem({ accent: _accent, icon, description, disabled, meta, selected, title, style, ...props }, ref) {
+export const CategoryListItem = forwardRef<ComponentRef<typeof Pressable>, Props>(function CategoryListItem({ accent: _accent, icon, description, disabled, meta, selected, title, style, ...props }, ref) {
   const opacity = useMotionValue(selected ? 1 : 0, motion.selection);
   const selectable = typeof selected === 'boolean';
   return (

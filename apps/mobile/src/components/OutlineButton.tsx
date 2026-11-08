@@ -1,5 +1,5 @@
-import { forwardRef, useState } from 'react';
-import { Animated, Pressable, PressableProps, StyleProp, StyleSheet, Text, View, ViewStyle } from 'react-native';
+import { forwardRef, useState, type ComponentRef } from 'react';
+import { Animated, Pressable, PressableProps, StyleProp, StyleSheet, Text, ViewStyle } from 'react-native';
 import { LineIcon } from '@/components/LineIcon';
 import { motion, useMotionValue } from '@/hooks/useMotion';
 import { colors, radii } from '@/lib/theme';
@@ -13,7 +13,7 @@ type OutlineButtonProps = Omit<PressableProps, 'style'> & {
   inverse?: boolean;
   style?: StyleProp<ViewStyle>;
 };
-export const OutlineButton = forwardRef<View, OutlineButtonProps>(function OutlineButton({ disabled, icon, label, variant = 'outline', inverse = false, style, accessibilityState, onPressIn, onPressOut, ...props }, ref) {
+export const OutlineButton = forwardRef<ComponentRef<typeof Pressable>, OutlineButtonProps>(function OutlineButton({ disabled, icon, label, variant = 'outline', inverse = false, style, accessibilityState, onPressIn, onPressOut, ...props }, ref) {
   const [pressed, setPressed] = useState(false);
   const opacity = useMotionValue(disabled ? 0.45 : pressed ? 0.65 : 1, motion.press);
   return (
@@ -26,7 +26,7 @@ export const OutlineButton = forwardRef<View, OutlineButtonProps>(function Outli
   );
 });
 type CircleButtonProps = Omit<PressableProps, 'style'> & { icon: React.ComponentProps<typeof LineIcon>['name']; style?: StyleProp<ViewStyle>; inverse?: boolean };
-export const CircleButton = forwardRef<View, CircleButtonProps>(function CircleButton({ disabled, icon, style, inverse = false, onPressIn, onPressOut, ...props }, ref) {
+export const CircleButton = forwardRef<ComponentRef<typeof Pressable>, CircleButtonProps>(function CircleButton({ disabled, icon, style, inverse = false, onPressIn, onPressOut, ...props }, ref) {
   const [pressed, setPressed] = useState(false);
   const opacity = useMotionValue(disabled ? 0.45 : pressed ? 0.65 : 1, motion.press);
   return (
