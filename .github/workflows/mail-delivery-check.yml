@@ -1,0 +1,54 @@
+name: Mail delivery check
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-24.04
+    environment: beta
+    timeout-minutes: 5
+    steps:
+      - name: Summarize recent login email statuses
+        env:
+          MAILJET_API_KEY: ${{ secrets.MAILJET_API_KEY }}
+          MAILJET_SECRET_KEY: ${{ secrets.MAILJET_SECRET_KEY }}
+        run: |
+          python3 - <<'PY'
+          import base64
+          import json
+          import os
+          import urllib.error
+          import urllib.parse
+          import urllib.request
+
+          key = os.environ["MAILJET_API_KEY"]
+          secret = os.environ["MAILJET_SECRET_KEY"]
+          if not key or not secret:
+              raise SystemExit("Mailjet credentials are missing from the beta environment")
+
+          query = urllib.parse.urlencode({"Limit": 100, "Sort": "ID DESC", "ShowSubject": "true"})
+          request = urllib.request.Request("https://api.mailjet.com/v3/REST/message?" + query)
+          token = base64.b64encode(f"{key}:{secret}".encode()).decode()
+          request.add_header("Authorization", "Basic " + token)
+
+          try:
+              with urllib.request.urlopen(request, timeout=15) as response:
+                  result = json.load(response)
+          except urllib.error.HTTPError as error:
+              raise SystemExit(f"Mailjet message lookup failed with HTTP {error.code}") from None
+
+          messages = result.get("Data", [])
+          login_messages = [
+              message for message in messages
+              if message.get("Subject") == "Your Woordenboom login code"
+          ]
+          print(f"Login messages among {len(messages)} recent Mailjet messages: {len(login_messages)}")
+          for message in login_messages[:20]:
+              print(f"{message.get('ArrivedAt', 'unknown time')} — {message.get('Status', 'unknown status')}")
+          if not login_messages:
+              print("No Woordenboom login message appears in the recent Mailjet history.")
+          PY
